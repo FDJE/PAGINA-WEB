@@ -21,7 +21,7 @@
               <div class="unit-left"><a class="product-big-figure" href="#"><img src="{{ asset('assets/images/fundacionImagenes/servicios/nutricion1.jpg') }}" alt="" width="600" height="366"/></a></div>
               <div class="unit-body">
                 <div class="product-big-body">
-                    <h5 class="product-big-title"><a href="#">NIVEL BÁSICO</a></h5>
+                    <h5 class="texto-titulo"><a >NIVEL BÁSICO</a></h5>
                     <ul class="texto-descripcion">
                         <li>● Información básica sobre nutrición.</li>
                         <li>● Requisitos nutricionales.</li>
@@ -43,15 +43,16 @@
               <div class="unit-left"><a class="product-big-figure" href="#"><img src="{{ asset('assets/images/fundacionImagenes/servicios/nutricion3.jpg') }}" alt="" width="600" height="366"/></a></div>
               <div class="unit-body">
                 <div class="product-big-body">
-                    <h5 class="product-big-title"><a href="#">NIVEL AVANZADO</a></h5>
+                    <h5 class="texto-titulo"><a>NIVEL AVANZADO</a></h5>
                     <ul class="texto-descripcion">
-                        <li>● ¿Cómo preparar un plan de comidas estructurado?.</li>
+                        <li>●¿Cómo preparar un plan de comidas estructurado?.</li>
                         <li>●  Conteo de carbohidratos.</li>
                         <li>● Sistema de intercambio de alimentos sana.</li>
                         <li>● Índice glucémico de los alimentos.</li>
                         <li>● ¿Cómo actuar en situaciones especiales?</li>
                         <li>● Comidas fuera de casa.</li>
                         <li>● Complicaciones.</li>
+                         
                 </div>
               </div>
             </div>

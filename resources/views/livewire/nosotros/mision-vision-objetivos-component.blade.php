@@ -22,8 +22,7 @@
                   <div class="unit-body">
                     <div class="product-big-body">
                       <p class="texto-descripcion" >
-                        Pro Fundación Diabetes Juvenil del Ecuador nace en el año 2003, con la misión de mejorar lacalidad de vida de los niños, niñas y jóvenes con Diabetes Mellitus tipo 1 (DM1), en la ciudad de Quito. El impulso de esta fundación fue apoyar a las necesidades de las familias con niños con DM1, pues en el país no existían ni conocimientos ni centros de educación y enseñanza para un manejo adecuado de esta patología. Se produjeron varias reuniones entre familias que contaban con miembros con DM1, en estos espacios se establecieron con la finalidad de apoyar con insumos a quienes más lo necesitaban.
-                        Esta primera actividad permitió identificar muchas necesidades sobre nuestros familiares con Diabetes Mellitus 1 y nos permitió pensar más allá de nuestros hogares e intereses inmediatos y pensar en las demás personas con esta enfermedad, quienes conviven y comparten similares experiencias con la DM1.
+                      Ser una organización técnica y humanitaria, referente de la DM1 en el Ecuador por su enfoque educativo, la información y propuesta de vida, a la que puedan acudir personas e instituciones públicas y privadas para capacitarse, apoyar y colaborar en el trabajo a favor de la comunidad con DM1.
                       </p>
                     </div>
                   </div>
@@ -42,8 +41,7 @@
                   <div class="unit-body">
                     <div class="product-big-body">
                       <p class="texto-descripcion">
-                        Pro Fundación Diabetes Juvenil del Ecuador nace en el año 2003, con la misión de mejorar lacalidad de vida de los niños, niñas y jóvenes con Diabetes Mellitus tipo 1 (DM1), en la ciudad de Quito. El impulso de esta fundación fue apoyar a las necesidades de las familias con niños con DM1, pues en el país no existían ni conocimientos ni centros de educación y enseñanza para un manejo adecuado de esta patología. Se produjeron varias reuniones entre familias que contaban con miembros con DM1, en estos espacios se establecieron con la finalidad de apoyar con insumos a quienes más lo necesitaban.
-                        Esta primera actividad permitió identificar muchas necesidades sobre nuestros familiares con Diabetes Mellitus 1 y nos permitió pensar más allá de nuestros hogares e intereses inmediatos y pensar en los demás personas con esta enfermedad, quienes conviven y comparten similares experiencias con la DM1.
+                      Contribuir a mejorar la calidad de vida de la comunidad con Diabetes Mellitus tipo 1 del Ecuador promover la educación para pacientes y su entorno, visibilizar sus necesidades e impulsar el respeto a sus derechos.
                       </p>
                     </div>
                   </div>
@@ -123,7 +121,8 @@
         </div>
         <div class="container">
           <h5 class="texto-descripcion">La FDJE se concentra y especializa en brindar educación diabetológica, nutricional, consejería y apoyo de pares a las personas con diabetes tipo 1, sus padres o cuidadores y entorno escolar; ya que en Ecuador el tiempo de consulta médica no incorpora tiempo de educación, siendo éste un pilar fundamental para tener un manejo adecuado de esta condición crónica, lo cual garantiza la adherencia al tratamiento.
-            En forma presencial la FDJE ha desarrollado proyectos educativos y programas sociales como:</h5>
+          <br> 
+          En forma presencial la FDJE ha desarrollado proyectos educativos y programas sociales como:</h5>
           <div class="row row-30">
             <div class="col-sm-6 col-lg-6">
               <article class="box-icon-classic" style="background-color: #cfcedd">
