@@ -50,8 +50,9 @@
                           @if (Auth::user()->utype === 'ADM')
                           <li style="	margin-top: 0;margin-left: 25px;">
                             <ul class="rd-navbar-nav">
-                              <li class="rd-nav-item" style="padding: 10px; color:black"><a class="rd-nav-link" href="#" style="margin: 0px;font-size: 13px; color:black; background-color: white">Mi Cuenta ({{Auth::user()->name}})</a>
-                                <ul class="rd-menu rd-navbar-dropdown">
+                              <li class="rd-nav-item" style="padding: 10px; color:black">
+                                <a class="rd-nav-link" href="#" style="margin: 0px;font-size: 13px; color:black; background-color: white">Mi Cuenta (ADMIN)</a>
+                                <ul class="rd-menu rd-navbar-dropdown" style="padding: 13px 12px 13px 48px;width: 203px;">
                                   <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="{{ route('admin.dashboard') }}">Dashboard</a></li>
                                   <br>
                                   <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="{{ route('admin.slider') }}">Slider</a></li>
