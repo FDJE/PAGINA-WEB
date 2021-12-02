@@ -23,7 +23,7 @@
                     <div class="product-big-body">
                       <p class="texto-descripcion" >
                         Pro Fundación Diabetes Juvenil del Ecuador nace en el año 2003, con la misión de mejorar lacalidad de vida de los niños, niñas y jóvenes con Diabetes Mellitus tipo 1 (DM1), en la ciudad de Quito. El impulso de esta fundación fue apoyar a las necesidades de las familias con niños con DM1, pues en el país no existían ni conocimientos ni centros de educación y enseñanza para un manejo adecuado de esta patología. Se produjeron varias reuniones entre familias que contaban con miembros con DM1, en estos espacios se establecieron con la finalidad de apoyar con insumos a quienes más lo necesitaban.
-                        Esta primera actividad permitió identificar muchas necesidades sobre nuestros familiares con Diabetes Mellitus 1 y nos permitió pensar más allá de nuestros hogares e intereses inmediatos y pensar en los demás personas con esta enfermedad, quienes conviven y comparten similares experiencias con la DM1.
+                        Esta primera actividad permitió identificar muchas necesidades sobre nuestros familiares con Diabetes Mellitus 1 y nos permitió pensar más allá de nuestros hogares e intereses inmediatos y pensar en las demás personas con esta enfermedad, quienes conviven y comparten similares experiencias con la DM1.
                       </p>
                     </div>
                   </div>

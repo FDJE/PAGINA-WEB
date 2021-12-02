@@ -40,7 +40,7 @@
               <p style="text-align: justify; padding-top: 15px" class="texto-descripcion">
                 Es un proyecto presencial que corresponde a la segunda fase de las Jornadas Familiares, con el objetivo de educar, socializar y capacitar in situ a la niñez, adolescencia y jóvenes con DM1, sus padres o cuidadores donde aprenden de diabetes, comparten sus experiencias y reflexionan sobre temas que contribuyan a mejorar su calidad de vida. 
                 <br><br>
-                Este proyecto tiene diferente capítulos porque se realiza en distintas regiones del país, con la participación de profesionales de la Salud, líderes juveniles, voluntarios nacionales y Equipo de FDJE.
+                Este proyecto tiene diferentes capítulos porque se realiza en distintas regiones del país, con la participación de profesionales de la Salud, líderes juveniles, voluntarios nacionales y Equipo de FDJE.
              </p>
             </div>
             <div class="col-md-6 col-lg-6 wow fadeInUp">
