@@ -1,3 +1,13 @@
+<style>
+  .texto-titulo {
+    color:#EF8232;
+  }
+  .texto-descripcion {
+    color:#2F3A8E;
+    text-align: justify;
+    font-weight: bold;
+  }
+</style>
       <section class="section section-sm section-last bg-default" style="padding: 15px">
       <!-- SLIDER-->
       <div class="section swiper-container swiper-slider swiper-slider-corporate swiper-pagination-style-2" data-loop="true" data-autoplay="5000" data-simulate-touch="true" data-nav="false" data-direction="vertical">
@@ -20,7 +30,7 @@
       </div>
       <!-- EVENTOS-->
         <div class="container" style="padding: 15px">
-          <h3 style=" color:#ff7043">Eventos</h3>
+          <h3 class="texto-titulo">Eventos</h3>
           <!-- Owl Carousel-->
           <div class="owl-carousel owl-modern" data-items="1" data-stage-padding="15" data-margin="30" data-dots="true" data-animation-in="fadeIn" data-animation-out="fadeOut" data-autoplay="true">
             <!-- Quote Lisa-->
@@ -48,7 +58,7 @@
       <hr style="border: 1px solid #f1ecec">
       <!-- NOTICIAS-->
         <div class="container" style="padding: 15px" >
-          <h3 style=" color:#ff7043">Noticias</h3>
+          <h3 class="texto-titulo">Noticias</h3>
           <!-- Owl Carousel-->
           <div class="owl-carousel owl-modern" data-items="1" data-stage-padding="15" data-margin="30" data-dots="true" data-animation-in="fadeIn" data-animation-out="fadeOut" data-autoplay="true">
             <!-- Quote Lisa-->
@@ -76,7 +86,7 @@
       <hr style="border: 1px solid #f1ecec">
       <!-- PROYECTOS EDUCATIVOS-->
         <div class="container" style="padding: 15px">
-          <h3 style=" color:#ff7043">Proyectos Educativos</h3>
+          <h3 class="texto-titulo">Proyectos Educativos</h3>
           <!-- Owl Carousel-->
           <div class="owl-carousel owl-modern" data-items="1" data-stage-padding="15" data-margin="30" data-dots="true" data-animation-in="fadeIn" data-animation-out="fadeOut" data-autoplay="true">
             <!-- Quote Lisa-->
@@ -90,7 +100,7 @@
                     <div class="unit-body">
                       <div class="product-big-body">
                         <h5 class="product-big-title"><a href="#">{{ $project->name }}</a></h5>
-                        <p class="product-big-text" style="color:#2F3A8E; font-size: 16px">{{ $project->short_description }}</p>
+                        <p class="product-big-text" style="color:#2F3A8E; font-size: 16px">{!! $project->short_description !!}</p>
                       </div>
                     </div>
                   </div>
@@ -103,7 +113,7 @@
       <hr style="border: 1px solid #f1ecec">
       <!--	ALIANCES -->
         <div class="container" style="padding: 15px" >
-          <h3 style=" color:#ff7043;">Alianzas</h3>
+          <h3 class="texto-titulo">Alianzas</h3>
             <!-- Owl Carousel-->
           <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="2" data-lg-items="3" data-xl-items="4" data-xxl-items="5"  data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
                 <!-- Thumbnail Classic-->
