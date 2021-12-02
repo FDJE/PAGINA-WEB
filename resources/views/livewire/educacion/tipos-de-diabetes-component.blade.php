@@ -1,6 +1,17 @@
         <!-- Hot tours-->
+        <style>
+            .texto-titulo {
+              color:#EF8232;
+            }
+            .texto-descripcion {
+              color:#2F3A8E;
+              text-align: justify;
+              font-weight: bold;
+            }
+          </style>
         <section class="section section-sm bg-default" style="padding: 60px 0px 60px 0px">
             <div class="container" style="max-width: 968px">
+                <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown" style=" color:#EF8232">Tipos de Diabetes</span></h3>
                 <div class="row row-sm row-40 row-md-50">
                     <div class="col-sm-6 col-md-12 wow fadeInRight">
                         <!-- Product Big-->
@@ -11,8 +22,10 @@
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body">
-                                        <h5 class="product-big-title"><a href="#">Diabetes mellitus tipo 1</a></h5>
-                                        <ul>●Es el tipo más común de diabetes en niños/as, adolescentes y jóvenes. Se trata de un desorden autoinmune,
+                                        <h5 class="product-big-title texto-titulo"><a href="#">Diabetes Mellitus tipo 1</a></h5>
+                                        <br>
+                                        <ul>
+                                            <p class="texto-descripcion">●Es el tipo más común de diabetes en niños/as, adolescentes y jóvenes. Se trata de un desorden autoinmune,
                                             que ataca a las células productoras de insulina en el páncreas, por lo que no se produce insulina y hay presencia de anticuerpos, es decir
                                             la diabetes tipo 1 no puede ser prevenida.
                                             Suele aparecer antes de los 35 años (ESTA DIABETES NO SE PRODUCE PORQUE LOS NIÑOS/AS COMAN MUCHOS DULCES O POR MALOS HÁBITOS ALIMENTICIOS).
@@ -20,11 +33,11 @@
                                             El debut de la diabetes tipo 1 es inminente y los síntomas se presentan en poco tiempo.
                                             La diabetes tipo 1 está aumentando entre 3 a 5% por año a nivel mundial.
                                             El tratamiento de la diabetes tipo 1 consiste en:</p>
-
-                                             <li>● Dependencia de por vida a la insulina con múltiples inyecciones por día (se usa dos tipos de insulina:
+                                            <br>
+                                             <li class="texto-descripcion">● Dependencia de por vida a la insulina con múltiples inyecciones por día (se usa dos tipos de insulina:
                                                 una basal y bolus).</li>
-                                             <li>● Plan de alimentación saludable.</li>
-                                             <li>● Actividad física regular.</li>
+                                             <li class="texto-descripcion">● Plan de alimentación saludable.</li>
+                                             <li class="texto-descripcion">● Actividad física regular.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -36,10 +49,10 @@
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
 
                                 <div class="unit-body">
-                                    <div class="product-big-body">
-                                        <h5 class="product-big-title"><a href="#">Diabetes mellitus tipo 2</a>
+                                    <div class="product-big-body texto-descripcion">
+                                        <h5 class="product-big-title texto-titulo"><a href="#">Diabetes mellitus tipo 2</a>
                                         </h5>
-                                        <p>Los diabetes tipo 2 por lo general afecta a personas mayores de 40 años, puede ser hereditaria y,
+                                        <p class="texto-descripcion">Los diabetes tipo 2 por lo general afecta a personas mayores de 40 años, puede ser hereditaria y,
                                             a menudo, se relaciona con el sobrepeso. Esta diabetes sí puede prevenirse con buenos hábitos alimenticios,  ejercicio regular
                                              y manejo del stress.</p>
                                              <p>Las personas con diabetes tipo 2 producen insulina pero ésta no funciona adecuadamente (“resistencia a la
@@ -67,8 +80,8 @@
                                             src="{{ asset('assets/images/fundacionImagenes/educación/ima1.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
-                                    <div class="product-big-body">
-                                        <h5 class="product-big-title"><a href="#">Diabetes Gestacional</a>
+                                    <div class="product-big-body texto-descripcion">
+                                        <h5 class="product-big-title texto-titulo"><a href="#">Diabetes Gestacional</a>
                                         </h5>
                                         <p>Aparece en mujeres embarazadas y puede desaparecer al término del mismo. Requiere control estricto,
                                          sino  hay riesgo de diabetes tipo 2 luego del parto.</p>
@@ -84,8 +97,8 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-body">
-                                    <div class="product-big-body">
-                                        <h5 class="product-big-title"><a href="#">Diabetes LADA</a>
+                                    <div class="product-big-body texto-descripcion">
+                                        <h5 class="product-big-title texto-titulo"><a href="#">Diabetes LADA</a>
                                         </h5>
                                         <p> Es una variación de la diabetes Mellitus tipo 1 que comienza a edad adulta.</p>
                                         <p> La persona produce insulina por muchos años, por lo tanto requiere dosis bajas de insulina. Este tipo
@@ -106,8 +119,8 @@
                                             src="{{ asset('assets/images/fundacionImagenes/educación/ima5.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
-                                    <div class="product-big-body">
-                                        <h5 class="product-big-title"><a href="#">Diabetes MODY</a>
+                                    <div class="product-big-body texto-descripcion">
+                                        <h5 class="product-big-title texto-titulo"><a href="#">Diabetes MODY</a>
                                         </h5>
                                         <p>Es un tipo de diabetes que se produce en los adultos jóvenes.
                                             Se presenta común aumento moderado de los niveles de glucosa en sangre.</p>
@@ -123,8 +136,8 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-body">
-                                    <div class="product-big-body">
-                                        <h5 class="product-big-title"><a href="#">Diabetes Neonatal</a>
+                                    <div class="product-big-body texto-descripcion">
+                                        <h5 class="product-big-title texto-titulo"><a href="#">Diabetes Neonatal</a>
                                         </h5>
                                         <p>Aparece en niños menores a 6 meses. Se puede tratar con insulina o solo con pastillas.
                                              Está relacionado con una familia con historial de diabetes, es resultado de la mutación de un gen.</p>
@@ -146,10 +159,10 @@
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body">
-                                        <h5 class="product-big-title"><a href="#">Otros Tipos de Diabetes</a>
+                                        <h5 class="product-big-title texto-titulo"><a href="#">Otros Tipos de Diabetes</a>
                                         </h5>
                                         <h6>Entre otras están las conocidas como:</h6>
-                                        <ul>
+                                        <ul class="texto-descripcion">
                                              <li>● Diabetes atípica.</li>
                                              <li>● Diabetes monogénica.</li>
                                              <li>● Otras relacionadas.</li>

@@ -1,4 +1,4 @@
-     
+
      <style>
         .texto-titulo {
           color:#EF8232;
@@ -15,7 +15,7 @@
         <div class="container">
           <div class="row row-30">
             <div class="col-md-12 col-lg-12 wow fadeInUp">
-              <h3 class="texto-titulo">ESCUELA DE FORMACIÓN DE LÍDERES JUVENILES</h3>
+                <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">ESCUELA DE FORMACIÓN DE LÍDERES JUVENILES</span></h3>
               <p style="text-align: justify; padding-top: 15px" class="texto-descripcion">
                 La FDJE desde su inicio ha buscado incentivar a jóvenes con DM1 y sin DM1 a participar como líderes sociales, al inicio ejecutaban el papel de Monitores en Campo Amigo, donde eran admirados y respetados por los más pequeños y muchos crecieron anhelando ser Monitores. Actualmente se constituyó como proyecto permanente de la FDJE con el nombre “Escuela de formación de líderes juveniles” destinado a capacitar de manera integral a la base de jóvenes que han actuado o desean actuar como voluntarios en el trabajo que viene realizando la fundación.
                 <br><br>
@@ -33,7 +33,7 @@
           </div>
         </div>
         <div class="container">
-            <h3 class="oh-desktop"><span class="texto-titulo">LECCIONES APRENDIDAS EN EL TRABAJO COMUNITARIO</span></h3>
+            <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">LECCIONES APRENDIDAS EN EL TRABAJO COMUNITARIO</span></h3>
             <div class="row row-sm row-40 row-md-50">
                 <div class="col-sm-12 col-md-12 wow fadeInRight">
                     <!-- Product Big-->
@@ -55,7 +55,7 @@
                     <!-- Product Big-->
                     <article class="product-big">
                         <div class="unit flex-column flex-md-row align-items-md-stretch">
-                            
+
                             <div class="unit-body">
                                 <div class="product-big-body">
                                     <p style="text-align: justify;" class="texto-descripcion">

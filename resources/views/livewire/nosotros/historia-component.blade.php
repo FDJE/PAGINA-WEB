@@ -10,13 +10,11 @@
         }
       </style>
 
-
-
       <section class="section section-lg section-inset-1 position-relative index-1" style="padding: 60px;">
         <div class="container">
           <div class="row row-30">
             <div class="col-md-12 col-lg-12 wow fadeInUp">
-              <h3 class="texto-titulo">HISTORIA</h3>
+                <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">HISTORIA</span></h3>
               <p class="texto-descripcion">Pro Fundación Diabetes Juvenil del Ecuador nace en el año 2003, con la misión de mejorar lacalidad de vida de los niños, niñas y jóvenes con Diabetes Mellitus tipo 1 (DM1), en la ciudad de Quito. El impulso de esta fundación fue apoyar a las necesidades de las familias con niños con DM1, pues en el país no existían ni conocimientos ni centros de educación y enseñanza para un manejo adecuado de esta patología. Se produjeron varias reuniones entre familias que contaban con miembros con DM1, en estos espacios se establecieron con la finalidad de apoyar con insumos a quienes más lo necesitaban.
                 <br>
                 <br>
@@ -35,4 +33,3 @@
           </div>
         </div>
       </section>
-      

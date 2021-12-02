@@ -1,4 +1,4 @@
-      
+
       <style>
         .texto-titulo {
           color:#EF8232;
@@ -9,14 +9,14 @@
           font-weight: bold;
         }
       </style>
-      
+
       <!--About-->
     <section class="section section-lg section-inset-1 position-relative index-1" style="padding: 60px;">
         <div class="container">
-          <h2 class="texto-titulo">PROYECTOS Y ACTIVIDADES EDUCATIVAS</h2>
+            <h2 class="texto-titulo"><span class="d-inline-block wow slideInDown">PROYECTOS Y ACTIVIDADES EDUCATIVAS</span></h2>
           <div class="row row-30">
             <div class="col-md-12 col-lg-12 wow fadeInUp">
-              <h3 class="texto-titulo">Campamento Campo Amigo Ecuador</h3>
+                <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">Campamento Campo Amigo Ecuador</span></h3>
               <p style="text-align: justify; padding-top: 15px" class="texto-descripcion">
                 Se realiza una vez al año, y es la actividad más esperada, es un lugar de encuentro entre niños, niñas, adolescentes y jóvenes que comparten la misma condición de vida, donde conviven por varios días, intercambian inquietudes y aprendizaje en un lugar cómodo, seguro y sobre todo lleno de alegría.
                 <br>
@@ -36,9 +36,9 @@
           </div>
           <div class="row row-30">
             <div class="col-md-12 col-lg-12 wow fadeInUp">
-              <h3 class="texto-titulo">Encuentros de Familias DM1</h3>
+                <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">Encuentros de Familias DM1</span></h3>
               <p style="text-align: justify; padding-top: 15px" class="texto-descripcion">
-                Es un proyecto presencial que corresponde a la segunda fase de las Jornadas Familiares, con el objetivo de educar, socializar y capacitar in situ a la niñez, adolescencia y jóvenes con DM1, sus padres o cuidadores donde aprenden de diabetes, comparten sus experiencias y reflexionan sobre temas que contribuyan a mejorar su calidad de vida. 
+                Es un proyecto presencial que corresponde a la segunda fase de las Jornadas Familiares, con el objetivo de educar, socializar y capacitar in situ a la niñez, adolescencia y jóvenes con DM1, sus padres o cuidadores donde aprenden de diabetes, comparten sus experiencias y reflexionan sobre temas que contribuyan a mejorar su calidad de vida.
                 <br><br>
                 Este proyecto tiene diferentes capítulos porque se realiza en distintas regiones del país, con la participación de profesionales de la Salud, líderes juveniles, voluntarios nacionales y Equipo de FDJE.
              </p>
@@ -54,7 +54,7 @@
             <div class="col-md-12 col-lg-12 wow fadeInUp">
               <h3 class="texto-titulo">Taller de conteo de carbohidratos</h3>
               <p style="text-align: justify; padding-top: 15px" class="texto-descripcion">
-                La FDJE es una pionera en el Ecuador en la difusión de esta herramienta útil a las personas con diabetes para planificar sus alimentos y controlar de manera efectiva su glucosa. Existen talleres de nivel básico y avanzado. Modalidad presencial. 
+                La FDJE es una pionera en el Ecuador en la difusión de esta herramienta útil a las personas con diabetes para planificar sus alimentos y controlar de manera efectiva su glucosa. Existen talleres de nivel básico y avanzado. Modalidad presencial.
               </p>
             </div>
             <div class="col-md-6 col-lg-6 wow fadeInUp">
@@ -68,7 +68,7 @@
             <div class="col-md-12 col-lg-12 wow fadeInUp">
               <h3 class="texto-titulo">Charlas y conferencias especializadas</h3>
               <p style="text-align: justify; padding-top: 15px" class="texto-descripcion">
-                Se trata de eventos educativos específicos que la FDJE realiza con distintos públicos de la comunidad con DM1: padres o cuidadores, profesionales de la salud, profesores y/o alumnos de escuelas y colegios y público en general. Modalidad presencial. 
+                Se trata de eventos educativos específicos que la FDJE realiza con distintos públicos de la comunidad con DM1: padres o cuidadores, profesionales de la salud, profesores y/o alumnos de escuelas y colegios y público en general. Modalidad presencial.
               </p>
             </div>
             <div class="col-md-6 col-lg-6 wow fadeInUp">

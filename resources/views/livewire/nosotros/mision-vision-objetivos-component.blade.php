@@ -8,11 +8,11 @@
           font-weight: bold;
         }
       </style>
-     
+
      <!-- Hot tours-->
       <section class="section section-sm bg-default" style="padding: 60px">
         <div class="container">
-          <h3 class="texto-titulo">Visión</span></h3>
+            <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">Visión</span></h3>
           <div class="row row-sm row-40 row-md-50">
             <div class="col-sm-12 col-md-12 wow fadeInLeft">
               <!-- Product Big-->
@@ -32,7 +32,7 @@
           </div>
         </div>
         <div class="container">
-          <h3 class="texto-titulo">Misión</span></h3>
+            <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">Misión</span></h3>
           <div class="row row-sm row-40 row-md-50">
             <div class="col-sm-12 col-md-12 wow fadeInLeft">
               <!-- Product Big-->
@@ -52,7 +52,7 @@
           </div>
         </div>
         <div class="container">
-          <h3 class="texto-titulo">Objetivos Institucionales</h3>
+            <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">Objetivos Institucionales</span></h3>
           <div class="row row-30">
             <div class="col-sm-6 col-lg-6">
               <article class="box-icon-classic" style="background-color: #cfcedd">
@@ -121,7 +121,7 @@
         </div>
         <div class="container">
           <h5 class="texto-descripcion">La FDJE se concentra y especializa en brindar educación diabetológica, nutricional, consejería y apoyo de pares a las personas con diabetes tipo 1, sus padres o cuidadores y entorno escolar; ya que en Ecuador el tiempo de consulta médica no incorpora tiempo de educación, siendo éste un pilar fundamental para tener un manejo adecuado de esta condición crónica, lo cual garantiza la adherencia al tratamiento.
-          <br> 
+          <br>
           En forma presencial la FDJE ha desarrollado proyectos educativos y programas sociales como:</h5>
           <div class="row row-30">
             <div class="col-sm-6 col-lg-6">
@@ -200,6 +200,7 @@
           </div>
         </div>
         <div class="container">
+
           <h5 class="texto-titulo">En el periodo de pandemia desarrolla proyectos virtuales para acercar la educación diabetológica y nutricional, y el acompañamiento a todas las familias de forma segura.
           </h5>
           <div class="row row-30">

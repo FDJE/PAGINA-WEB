@@ -1,8 +1,8 @@
-<section class="section section-sm bg-default" style="padding: 60px 0px 60px 0px">            
+<section class="section section-sm bg-default" style="padding: 60px 0px 60px 0px">
             <div class="container" style="padding-top: 40px">
                 <div class="row  justify-content-center align-items-xl-center">
                     <div class="col-md-12 col-lg-12 col-xl-12" style="padding-bottom: 35px">
-                        <h3 style=" color:#ff7043">RENDICIÓN DE CUENTAS</h3>
+                        <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown"style=" color:#ff7043">RENDICIÓN DE CUENTAS</span></h3>
                         <!-- Bootstrap tabs-->
                         <div class="tabs-custom tabs-horizontal tabs-line" id="tabs-4">
                             <!-- Nav tabs-->
