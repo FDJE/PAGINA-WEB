@@ -10,10 +10,10 @@
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
                                             src="{{ asset('assets/images/fundacionImagenes/educación/insulina1.png') }}" alt="" width="600"
                                             height="366" /></a></div>
-                                <div class="unit-body">
+                                <div class="unit-body" style="color:#2F3A8E; font-weight: bold">
                                     <div class="product-big-body">
                                         <h5 class="product-big-title" style=" color:#EF8232"><a href="#">Uso de las insulinas Humanas y/o Análogas</a></h5>
-                                        <p style="text-align: justify;" style="color:#2F3A8E;">Todos los niños con diabetes tipo 1 y algunos niños con otras formas de diabetes necesitan insulina.
+                                        <p style="text-align: justify;">Todos los niños con diabetes tipo 1 y algunos niños con otras formas de diabetes necesitan insulina.
                                          El objetivo es administrar la insulina de manera que los niveles de glucosa en sangre estén dentro del rango objetivo.</p>
                                     </div>
                                 </div>
@@ -39,17 +39,17 @@
                                         </ul>
                                         <!-- Tab panes-->
                                         <div class="tab-content">
-                                            <div class="tab-pane fade show active" id="tabs-4-1" style="color:#2F3A8E;">
+                                            <div class="tab-pane fade show active" id="tabs-4-1" style="color:#2F3A8E; font-weight: bold">
                                                 <li>Inicio: 1-2 horas.</li>
                                                 <li>Pico: 6-12 horas.</li>
                                                 <li>Duración: 12-18 horas.</li>
                                             </div>
-                                            <div class="tab-pane fade" id="tabs-4-2" style="color:#2F3A8E;">
+                                            <div class="tab-pane fade" id="tabs-4-2" style="color:#2F3A8E; font-weight: bold">
                                                 <li>Inicio: 2-4 horas.</li>
                                                 <li>Pico: 4-10 horas</li>
                                                 <li>Duración: 14-16 horas.</li>
                                             </div>
-                                            <div class="tab-pane fade" id="tabs-4-3" style="color:#2F3A8E;">
+                                            <div class="tab-pane fade" id="tabs-4-3" style="color:#2F3A8E; font-weight: bold">
                                                 <li>Inicio: 30 min</li>
                                                 <li>Pico: plana</li>
                                                 <li>Duración 22-24 horas.</li>
@@ -79,12 +79,12 @@
                                         </ul>
                                         <!-- Tab panes-->
                                         <div class="tab-content">
-                                            <div class="tab-pane fade show active" id="tabs-5-1" style="color:#2F3A8E;">
+                                            <div class="tab-pane fade show active" id="tabs-5-1" style="color:#2F3A8E; font-weight: bold">
                                                 <li>Inicio: 10 minutos</li>
                                                 <li>Pico: 1-3 horas.</li>
                                                 <li>Duración: 3-4 horas.</li>
                                             </div>
-                                            <div class="tab-pane fade" id="tabs-5-2" style="color:#2F3A8E;">
+                                            <div class="tab-pane fade" id="tabs-5-2" style="color:#2F3A8E; font-weight: bold">
                                                 <li>Inicio: 30-60 minutos</li>
                                                 <li>Pico: 2-4 horas.</li>
                                                 <li>Duración: 5-8 horas.</li>

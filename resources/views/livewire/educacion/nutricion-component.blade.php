@@ -11,7 +11,7 @@
                                             src="{{ asset('assets/images/fundacionImagenes/educación/nutricion.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
-                                    <div class="product-big-body" style=" color:#2F3A8E;">
+                                    <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
                                         <h5 class="product-big-title" style=" color:#EF8232"><a href="#">Alimentación Saludable</a></h5>
                                         <p style="text-align: justify;">La manera más fácil de saber cómo alimentarse
                                             saludablemente es seguir los consejos del plato saludable: la mitad del
@@ -33,7 +33,7 @@
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
 
                                 <div class="unit-body">
-                                    <div class="product-big-body" style=" color:#2F3A8E;">
+                                    <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
                                         <h5 class="product-big-title" style=" color:#EF8232"><a href="#">¿Cuántos carbohidratos comer al
                                             día?</a></h5>
                                         <p style="text-align: justify;">No existe una respuesta exacta, la dieta deberá
@@ -68,7 +68,7 @@
                                             src="{{ asset('assets/images/fundacionImagenes/educación/lista-porciones-1.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
-                                    <div class="product-big-body" style=" color:#2F3A8E;">
+                                    <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
                                         <h5 class="product-big-title" style=" color:#EF8232"><a href="#">Lista de porciones y conteo de carbohidratos de alimentos Ecuatorianos</a></h5>
                                         <ul>
                                             <br>

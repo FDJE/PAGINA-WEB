@@ -16,12 +16,12 @@
                                         data-toggle="tab">Tratamiento</a></li>
                             </ul>
                             <!-- Tab panes-->
-                            <div class="tab-content">
+                            <div class="tab-content" style="color:#2F3A8E; font-weight: bold">
                                 <div class="tab-pane fade show active" id="tabs-4-1">
-                                    <li style="text-align: justify; color:#2F3A8E">Falta de insulina.</li>
-                                    <li style="text-align: justify; color:#2F3A8E">Insulina expuesta a temperaturas extremas.</li>
-                                    <li style="text-align: justify; color:#2F3A8E">Consumo alimenticio exagerado (muchos carbohidratos).</ul>
-                                    <li style="text-align: justify; color:#2F3A8E">Enfermedad o infección</ul>
+                                    <li style="text-align: justify;">Falta de insulina.</li>
+                                    <li style="text-align: justify;">Insulina expuesta a temperaturas extremas.</li>
+                                    <li style="text-align: justify;">Consumo alimenticio exagerado (muchos carbohidratos).</ul>
+                                    <li style="text-align: justify;">Enfermedad o infección</ul>
                                 </div>
                                 <div class="tab-pane fade" id="tabs-4-2">
                                     <p style="text-align: justify; color:#2F3A8E">La persona con diabetes puede presentar uno o varios de estos síntomas:
@@ -29,11 +29,11 @@
                                          náusea, vómito y somnolencia.</p>
                                 </div>
                                 <div class="tab-pane fade" id="tabs-4-3">
-                                    <li style="text-align: justify; color:#2F3A8E">Mida la glucosa en sangre, no necesita repetir la prueba sino
+                                    <li style="text-align: justify;">Mida la glucosa en sangre, no necesita repetir la prueba sino
                                     transcurridas al menos 2 horas.</li>
-                                    <li style="text-align: justify; color:#2F3A8E">Si el valor es mayor a 180 mg/dl inyectar insulina rápida de corrección, de acuerdo a la dosis indicada por su médico de la diabetes.</li>
-                                    <li style="text-align: justify; color:#2F3A8E">Tome 4 vasos de agua repartidos en una hora.</ul>
-                                    <li style="text-align: justify; color:#2F3A8E">Si la glucosa se mantiene mayor a 200 mg/dl en varias pruebas por 2 días,
+                                    <li style="text-align: justify;">Si el valor es mayor a 180 mg/dl inyectar insulina rápida de corrección, de acuerdo a la dosis indicada por su médico de la diabetes.</li>
+                                    <li style="text-align: justify;">Tome 4 vasos de agua repartidos en una hora.</ul>
+                                    <li style="text-align: justify;">Si la glucosa se mantiene mayor a 200 mg/dl en varias pruebas por 2 días,
                                     contacte con su médico de la diabetes, pues hay riesgo de presentar cetoacidosis.</ul>
                                 </div>
                             </div>

@@ -15,10 +15,10 @@
                 </a>
               </div>
               <div class="unit-body">
-                <div class="product-big-body">
+                <div class="product-big-body" style="color:#2F3A8E;font-weight: bold">
                   <h5 class="product-big-title" style=" color:#EF8232"><a href="#">Diabetes y Enfermedad</a>
                   </h5>
-                  <p style="text-align: justify; color:#2F3A8E">Los niños y adolescentes cuya diabetes tiene un buen control metabólico no tienen más infecciones
+                  <p style="text-align: justify;">Los niños y adolescentes cuya diabetes tiene un buen control metabólico no tienen más infecciones
                     y enfermedades que los otros niños. Sin embargo, cualquier enfermedad hace que el manejo de la diabetes sea más complicado y
                     aumenta el riesgo de cetoacidosis o hipoglucemia.
                     <br>
@@ -44,7 +44,7 @@
           data-animation-in="fadeIn" data-animation-out="fadeOut" data-autoplay="true">
           <!-- Quote Lisa-->
           <article class="quote-lisa">
-            <div class="quote-lisa-body"><a class="quote-lisa-figure" href="#"><img class="img-circles"
+            <div class="quote-lisa-body" style="color:#2F3A8E;font-weight: bold"><a class="quote-lisa-figure" href="#"><img class="img-circles"
                   src="{{ asset('assets/images/fundacionImagenes/educación/consejo1.png') }}" alt="" width="200" height="150" /></a>
               <p class="quote-lisa-status" style="padding-top: 10px">1. Monitoreo más Frecuente </p>
               <div class="quote-lisa-text">
@@ -63,11 +63,11 @@
           </article>
           <!-- Quote Lisa-->
           <article class="quote-lisa">
-            <div class="quote-lisa-body"><a class="quote-lisa-figure" href="#"><img class="img-circles"
+            <div class="quote-lisa-body" style="color:#2F3A8E;font-weight: bold"><a class="quote-lisa-figure" href="#"><img class="img-circles"
               src="{{ asset('assets/images/fundacionImagenes/educación/consejo2.png') }}" alt="" width="200" height="150" /></a>
               <p class="quote-lisa-status" style="padding-top: 10px">2. Nunca Dejar de Usar Insulina Completamente</p>
               <div class="quote-lisa-text">
-                <p class="q" style="color:#2F3A8E" >La dosis de insulina puede necesitar ser aumentada o disminuida para mantener un adecuado
+                <p class="q">La dosis de insulina puede necesitar ser aumentada o disminuida para mantener un adecuado
                   metabolismo de la glucosa,
                   pero nunca se la debe omitir. Un error muy común es pensar que porque el niño no está comiendo no debe
                   usar insulina,
@@ -80,12 +80,12 @@
           </article>
           <!-- Quote Lisa-->
           <article class="quote-lisa">
-            <div class="quote-lisa-body"><a class="quote-lisa-figure" href="#"><img class="img-circles"
+            <div class="quote-lisa-body" style="color:#2F3A8E;font-weight: bold"><a class="quote-lisa-figure" href="#"><img class="img-circles"
                   src="{{ asset('assets/images/fundacionImagenes/educación/consejo3.png') }}" alt="" width="200" height="150" /></a>
                   <p class="quote-lisa-status" style="padding-top: 10px">3.Cuánto hay Vómito en niños o adolescentes con DM1 se debe considerar.
                    Una carencia de insulina hasta que se pruebe lo contrario.</p>
               <div class="quote-lisa-text">
-                <p class="q" style="color:#2F3A8E">Si existen episodios de hiperglucemia, cetoacidosis y vómito recurrentes,
+                <p class="q">Si existen episodios de hiperglucemia, cetoacidosis y vómito recurrentes,
                   con o sin infección se debe pensar en que se está omitiendo la insulina, esto ocurre
                   seguido en la adolescencia y representa un problema psicosocial.
                 </p>
@@ -94,7 +94,7 @@
           </article>
           <!-- Quote Lisa-->
           <article class="quote-lisa">
-            <div class="quote-lisa-body"><a class="quote-lisa-figure" href="#"><img class="img-circles"
+            <div class="quote-lisa-body" style="color:#2F3A8E;font-weight: bold"><a class="quote-lisa-figure" href="#"><img class="img-circles"
               src="{{ asset('assets/images/fundacionImagenes/educación/consejo4.png') }}" alt="" width="200" height="150" /></a>
               <p class="quote-lisa-status" style="padding-top: 10px">4.Mantener Idratación</p>
               <div class="quote-lisa-text">

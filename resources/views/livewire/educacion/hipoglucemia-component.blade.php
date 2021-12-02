@@ -17,27 +17,27 @@
                                         data-toggle="tab">Tratamiento</a></li>
                             </ul>
                             <!-- Tab panes-->
-                            <div class="tab-content">
+                            <div class="tab-content" style="color:#2F3A8E; font-weight: bold">
                                 <div class="tab-pane fade show active" id="tabs-4-1">
-                                    <li style="text-align: justify; color:#2F3A8E">Exceso de insulina o error en la sincronización de la insulina.</li>
-                                    <li style="text-align: justify; color:#2F3A8E">Cambios recientes en el esquema de insulina.</li>
-                                    <li style="text-align: justify; color:#2F3A8E">Consumo alimenticio insuficiente.</ul>
-                                    <li style="text-align: justify; color:#2F3A8E">Enfermedad, (virus gastrointestinal).</ul>
-                                    <li style="text-align: justify; color:#2F3A8E">Alcohol, (hígado ocupado en otra función).</ul>
+                                    <li style="text-align: justify;">Exceso de insulina o error en la sincronización de la insulina.</li>
+                                    <li style="text-align: justify;">Cambios recientes en el esquema de insulina.</li>
+                                    <li style="text-align: justify;">Consumo alimenticio insuficiente.</ul>
+                                    <li style="text-align: justify;">Enfermedad, (virus gastrointestinal).</ul>
+                                    <li style="text-align: justify;">Alcohol, (hígado ocupado en otra función).</ul>
                                 </div>
                                 <div class="tab-pane fade" id="tabs-4-2">
-                                    <p style="text-align: justify; color:#2F3A8E">La persona con diabetes tipo 1 que experimenta una hipoglucemia puede presentar uno
+                                    <p style="text-align: justify;">La persona con diabetes tipo 1 que experimenta una hipoglucemia puede presentar uno
                                         o varios de los siguientes síntomas:sudoración, palidez, temblor, taquicardia, hambre, ansiedad, náusea, debilidad,
                                         hormigueo, confusión, irritabilidad, mareo, dolor de cabeza, visión borrosa, convulsiones.</p>
                                 </div>
                                 <div class="tab-pane fade" id="tabs-4-3">
-                                    <li style="text-align: justify; color:#2F3A8E">Siente a la persona y mida la glucosa.</li>
-                                    <li style="text-align: justify; color:#2F3A8E">Si la glucosa en sangre es menor a 70 mg/dl y no hay alteración de conciencia, realice el paso 3.</li>
-                                    <li style="text-align: justify; color:#2F3A8E">Administre 15 gramos de carbohidratos de acción rápida (1 cucharada de azúcar diluida en 1/2 vaso de agua,
+                                    <li style="text-align: justify;">Siente a la persona y mida la glucosa.</li>
+                                    <li style="text-align: justify;">Si la glucosa en sangre es menor a 70 mg/dl y no hay alteración de conciencia, realice el paso 3.</li>
+                                    <li style="text-align: justify;">Administre 15 gramos de carbohidratos de acción rápida (1 cucharada de azúcar diluida en 1/2 vaso de agua,
                                     o 1/2 vaso de jugo de frutas).</ul>
-                                    <li style="text-align: justify; color:#2F3A8E">Espere entre 10 y 15 minutos, y vuelva a medir la glucosa. Si la glucemia es mayor a 70 mg/dl brinde una
+                                    <li style="text-align: justify;">Espere entre 10 y 15 minutos, y vuelva a medir la glucosa. Si la glucemia es mayor a 70 mg/dl brinde una
                                     porción de carbohidrato de acción lenta (4 galletas Maria, ó 2 galletas de coco, o una rebanada de pan)</ul>
-                                    <li style="text-align: justify; color:#2F3A8E">Si al medir a la persona con diabetes tiene un valor menor a 70 mg/dl, tiene conciencia y puede tragar, repita
+                                    <li style="text-align: justify;">Si al medir a la persona con diabetes tiene un valor menor a 70 mg/dl, tiene conciencia y puede tragar, repita
                                     el paso 3. Y espere 15 minutos más, repita este procedimiento hasta que su glucemia esté cercana a 100 mg/dl.</ul>
                                 </div>
                             </div>

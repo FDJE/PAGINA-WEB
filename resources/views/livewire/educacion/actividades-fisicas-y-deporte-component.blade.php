@@ -11,7 +11,7 @@
                                             src="{{ asset('assets/images/fundacionImagenes/educación/trotar.gif') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
-                                    <div class="product-big-body" style=" color:#2F3A8E;">
+                                    <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
                                         <h5 class="product-big-title" style=" color:#EF8232"><a href="#">¿Hacer deporte en casa? ¡Sí es posible!</a></h5>
                                         <p style="text-align: justify;">Les propongo una rutina de 30 minutos súper intensa y completa.
                                             Para esto necesitan el cronómetro de celular y listo! ¡Háganla tres veces por semana en días no consecutivos!</p>
