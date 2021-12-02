@@ -1,7 +1,7 @@
       <!--About-->
       <style>
         .texto-titulo {
-          color:#ff7043;
+          color:#EF8232;
         }
         .texto-descripcion {
           color:#2F3A8E;
