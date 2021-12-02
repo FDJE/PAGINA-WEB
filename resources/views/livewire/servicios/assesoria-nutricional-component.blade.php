@@ -1,3 +1,15 @@
+
+<style>
+        .texto-titulo {
+          color:#ff7043;
+        }
+        .texto-descripcion {
+          color:#2F3A8E;
+          text-align: justify;
+          font-weight: bold;
+        }
+      </style>
+
 <section class="section section-sm bg-default" style="padding: 60px">
     <div class="container">
       <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown" style=" color:#ff7043">CONTEO DE CARBOHIDRATOS</span></h3>
@@ -10,7 +22,7 @@
               <div class="unit-body">
                 <div class="product-big-body">
                     <h5 class="product-big-title"><a href="#">NIVEL BÁSICO</a></h5>
-                    <ul>
+                    <ul class="texto-descripcion">
                         <li>● Información básica sobre nutrición.</li>
                         <li>● Requisitos nutricionales.</li>
                         <li>● Recomendaciones para una alimentación sana.</li>
@@ -32,7 +44,7 @@
               <div class="unit-body">
                 <div class="product-big-body">
                     <h5 class="product-big-title"><a href="#">NIVEL AVANZADO</a></h5>
-                    <ul>
+                    <ul class="texto-descripcion">
                         <li>● ¿Cómo preparar un plan de comidas estructurado?.</li>
                         <li>●  Conteo de carbohidratos.</li>
                         <li>● Sistema de intercambio de alimentos sana.</li>
@@ -46,7 +58,7 @@
           </article>
         </div>
       </div>
-      <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown" style=" color:#ff7043">CONSEJERÍA INDIVIDUALIZADA</span></h3>
+      <h3 class="oh-desktop"><span class="texto-titulo">CONSEJERÍA INDIVIDUALIZADA</span></h3>
       <div class="row row-sm row-40 row-md-50">
         <div class="col-sm-6 col-md-12 wow fadeInRight">
             <div class="container-fluid" style="padding-top: 40px;">
@@ -89,7 +101,7 @@
                   </article>
                 </div>
                 <h5 style="padding-top: 40px">
-                    <ul>
+                    <ul class="texto-descripcion">
                         <li>● La FDJE cuenta con tres educadoras en diabetes que pueden orientar al paciente y su familia en el manejo cotidiano de su condición.</li>
                         <li>● Se cuenta con un extenso material didáctico que permite un proceso de aprendizaje divertido y fácil.</li>
                     </ul>

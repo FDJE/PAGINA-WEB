@@ -1,10 +1,22 @@
-      <!--About-->
+   
+   <style>
+        .texto-titulo {
+          color:#ff7043;
+        }
+        .texto-descripcion {
+          color:#2F3A8E;
+          text-align: justify;
+          font-weight: bold;
+        }
+      </style>
+
+   <!--About-->
       <section class="section section-lg section-inset-1 position-relative index-1" style="padding: 60px;">
         <div class="container">
           <div class="row row-30">
             <div class="col-md-12 col-lg-12 wow fadeInUp">
-              <h3 style=" color:#ff7043">PRINCIPIOS DE TRABAJO</h3>
-              <p style="text-align: justify; padding-top: 15px">
+              <h3 class="texto-titulo">PRINCIPIOS DE TRABAJO</h3>
+              <p style="padding-top: 15px" class="texto-descripcion">
                 ● Principios generales de la FDJE para la intervención en proyectos sociales
                 La FDJE incorpora principios comunes en el marco jurídico que establece la Constitución del Ecuador.
                 <br>
@@ -30,8 +42,8 @@
         <div class="container">
             <div class="row row-30">
               <div class="col-md-12 col-lg-12 wow fadeInUp">
-                <h3 style=" color:#ff7043">PRINCIPIOS APLICADOS EN LOS PROYECTOS EDUCATIVOS</h3>
-                <p style="text-align: justify; padding-top: 15px">
+                <h3 class="texto-titulo">PRINCIPIOS APLICADOS EN LOS PROYECTOS EDUCATIVOS</h3>
+                <p style="text-align: justify; padding-top: 15px" class="texto-descripcion">
                     ● Partimos de la gente en la que nos reconocemos, sentimos empatía y compartimos.
                     <br>
                     ● El espacio de capacitación es ante todo el lugar donde se hacen amigos y amigas.

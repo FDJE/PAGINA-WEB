@@ -1,10 +1,22 @@
-      <!--About-->
+     
+     <style>
+        .texto-titulo {
+          color:#ff7043;
+        }
+        .texto-descripcion {
+          color:#2F3A8E;
+          text-align: justify;
+          font-weight: bold;
+        }
+      </style>
+
+     <!--About-->
       <section class="section section-lg section-inset-1 position-relative index-1" style="padding: 60px;">
         <div class="container">
           <div class="row row-30">
             <div class="col-md-12 col-lg-12 wow fadeInUp">
-              <h3 style=" color:#ff7043">ESCUELA DE FORMACIÓN DE LÍDERES JUVENILES</h3>
-              <p style="text-align: justify; padding-top: 15px">
+              <h3 class="texto-titulo">ESCUELA DE FORMACIÓN DE LÍDERES JUVENILES</h3>
+              <p style="text-align: justify; padding-top: 15px" class="texto-descripcion">
                 La FDJE desde su inicio ha buscado incentivar a jóvenes con DM1 y sin DM1 a participar como líderes sociales, al inicio ejecutaban el papel de Monitores en Campo Amigo, donde eran admirados y respetados por los más pequeños y muchos crecieron anhelando ser Monitores. Actualmente se constituyó como proyecto permanente de la FDJE con el nombre “Escuela de formación de líderes juveniles” destinado a capacitar de manera integral a la base de jóvenes que han actuado o desean actuar como voluntarios en el trabajo que viene realizando la fundación.
                 <br><br>
                 Participan en las diferentes actividades de la FDJE como Campo Amigo, Jornadas familiares, motivan a niños con DM1 a un mejor control, tienen oportunidad de ir a intercambios internacionales donde el tema es la DM1.
@@ -21,7 +33,7 @@
           </div>
         </div>
         <div class="container">
-            <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown" style=" color:#ff7043">LECCIONES APRENDIDAS EN EL TRABAJO COMUNITARIO</span></h3>
+            <h3 class="oh-desktop"><span class="texto-titulo">LECCIONES APRENDIDAS EN EL TRABAJO COMUNITARIO</span></h3>
             <div class="row row-sm row-40 row-md-50">
                 <div class="col-sm-12 col-md-12 wow fadeInRight">
                     <!-- Product Big-->
@@ -32,7 +44,7 @@
                                         height="366" /></a></div>
                             <div class="unit-body">
                                 <div class="product-big-body">
-                                    <p style="text-align: justify;">
+                                    <p style="text-align: justify;" class="texto-descripcion">
                                         “Trabajar en estas jornadas en Santa Elena me han ayudado a comprender mejor la dificultad económica que hay para el tratamiento de la DM1, además de las necesidades de conocimiento de parte de los padres para poder mantener controlada a esta enfermedad y promover que un día sus hijos puedan llegar a la autonomía”. Pablo Ramos, 20 años.
                                     </p>
                                 </div>
@@ -46,7 +58,7 @@
                             
                             <div class="unit-body">
                                 <div class="product-big-body">
-                                    <p style="text-align: justify;">
+                                    <p style="text-align: justify;" class="texto-descripcion">
                                         “Me encantó esta experiencia, no sólo porque pude vivir de cerca la realidad en la que la gente de nuestro país se encuentra, sino porque también pudimos poner nuestro granito de arena para hacer de este un mundo mejor brindándoles lo que más necesitan y lo que más les va a servir en el futuro que es educación”. Martina Pinto, 16 años.
                                     </p>
                                 </div>
@@ -67,7 +79,7 @@
                                         height="366" /></a></div>
                             <div class="unit-body">
                                 <div class="product-big-body">
-                                    <p style="text-align: justify;">
+                                    <p style="text-align: justify;" class="texto-descripcion">
                                         “Al poder ver la vida de los niños con diabetes en Santa Elena, pude comprender que lo que siempre debe primar en un líder es la humildad, a través de sus vidas he aprendido a valorar mucho más mi propia vida”. Francisco Calero, 16 años.
                                     </p>
                                 </div>
@@ -80,7 +92,7 @@
                         <div class="unit flex-column flex-md-row align-items-md-stretch">
                             <div class="unit-body">
                                 <div class="product-big-body">
-                                    <p style="text-align: justify;">
+                                    <p style="text-align: justify;" class="texto-descripcion">
                                         “Las jornadas familiares en Santa Elena me permitieron conocer una realidad más profunda sobre la diabetes y la cultura en el Ecuador. Esta experiencia me ayudó a reconocer que lo que para unos parece obvio, para otras personas requiere mucho más esfuerzo y un trabajo serio”. Nicholas Flores, 20 años.
                                     </p>
                                 </div>
@@ -100,7 +112,7 @@
                                         height="366" /></a></div>
                             <div class="unit-body">
                                 <div class="product-big-body">
-                                    <p style="text-align: justify;">
+                                    <p style="text-align: justify;" class="texto-descripcion">
                                         “En particular el haber conocido las casas de los niños con DM1 acogidos en el programa de Apadrinamiento hizo que de alguna forma como líderes valoremos más lo que tenemos y aprendamos a poner los pies sobre la tierra” Juan José Salazar, 20 años.
                                     </p>
                                 </div>
@@ -113,7 +125,7 @@
                         <div class="unit flex-column flex-md-row align-items-md-stretch">
                             <div class="unit-body">
                                 <div class="product-big-body">
-                                    <p style="text-align: justify;">
+                                    <p style="text-align: justify;" class="texto-descripcion">
                                         “Aprendí un poco más a manejar la motivación hacia los padres de los niños. Pude improvisar juegos y actividades con los niños más pequeños para que no se aburran”. Ariel Cañarte, 20 años.
                                     </p>
                                 </div>
@@ -133,7 +145,7 @@
                                         height="366" /></a></div>
                             <div class="unit-body">
                                 <div class="product-big-body">
-                                    <p style="text-align: justify;">
+                                    <p style="text-align: justify;" class="texto-descripcion">
                                         “En estas jornadas en Santa Elena experimenté más cariño por la gente, lo que me compromete más con la causa. Me llena además de satisfacción porque es un lindo trabajo, nos une a todos. Estos niños con algunas restricciones, logran llevar aceptablemente su DMI, lo que muchos no lo hacen ni en Quito con más recursos”. Guido Alarcón, 20 años.
                                     </p>
                                 </div>
