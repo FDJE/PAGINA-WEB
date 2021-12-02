@@ -65,7 +65,7 @@
                                   <br>
                                   <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="{{ route('admin.alianzas') }}">Alianzas</a></li>
                                   <br>
-                                  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="{{ route('admin.mensajes') }}">Mensajes Contactos</a></li>
+                                  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="{{ route('admin.mensajes') }}">Mensajes</a></li>
                                   <br>
                                   <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Salir</a></li>
                                   <form id="logout-form" method="POST" action="{{ route('logout')}}">
