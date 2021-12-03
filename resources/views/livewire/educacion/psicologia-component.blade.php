@@ -8,7 +8,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/psicologia1.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia1.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
@@ -33,7 +33,7 @@
                                     </div>
                                 </div>
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                    src="{{ asset('assets/images/fundacionImagenes/educación/psicologia2.png') }}" alt="" width="600"
+                                    src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia2.png') }}" alt="" width="600"
                                     height="366" /></a></div>
                             </div>
 
@@ -44,7 +44,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/psicologia3.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia3.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
@@ -70,7 +70,7 @@
                                     </div>
                                 </div>
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                    src="{{ asset('assets/images/fundacionImagenes/educación/psicologia4.png') }}" alt="" width="600"
+                                    src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia4.png') }}" alt="" width="600"
                                     height="366" /></a></div>
                             </div>
 
@@ -81,7 +81,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/psicologia5.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia5.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
@@ -105,7 +105,7 @@
                                     </div>
                                 </div>
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                    src="{{ asset('assets/images/fundacionImagenes/educación/psicologia6.png') }}" alt="" width="600"
+                                    src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia6.png') }}" alt="" width="600"
                                     height="366" /></a></div>
                             </div>
 
@@ -116,7 +116,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/psicologia7.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia7.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
@@ -140,7 +140,7 @@
                                     </div>
                                 </div>
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                    src="{{ asset('assets/images/fundacionImagenes/educación/psicologia8.png') }}" alt="" width="600"
+                                    src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia8.png') }}" alt="" width="600"
                                     height="366" /></a></div>
                             </div>
 
@@ -151,7 +151,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/psicologia9.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia9.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
@@ -178,7 +178,7 @@
                                         </div>
                                 </div>
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                    src="{{ asset('assets/images/fundacionImagenes/educación/psicologia10.png') }}" alt="" width="600"
+                                    src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia10.png') }}" alt="" width="600"
                                     height="366" /></a></div>
                             </div>
 
@@ -189,7 +189,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/psicologia11.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia11.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">

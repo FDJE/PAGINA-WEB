@@ -43,7 +43,7 @@
                             </div>
                         </div>
                     </div>
-                    <img src="{{ asset('assets/images/fundacionImagenes/educación/ima2.png') }}" alt="" width="600" height="366" />
+                    <img src="{{ asset('assets/images/fundacionImagenes/educacion/ima2.png') }}" alt="" width="600" height="366" />
 
                 </div>
             </div>

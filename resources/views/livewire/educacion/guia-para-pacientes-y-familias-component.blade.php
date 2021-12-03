@@ -11,7 +11,7 @@
             <div class="unit flex-column flex-md-row align-items-md-stretch">
               <div class="unit-left">
                 <a class="product-big-figure" href="#">
-                  <img src="{{ asset('assets/images/fundacionImagenes/educación/enfermedad.png') }}" alt="" width="600" height="366" />
+                  <img src="{{ asset('assets/images/fundacionImagenes/educacion/enfermedad.png') }}" alt="" width="600" height="366" />
                 </a>
               </div>
               <div class="unit-body">
@@ -45,7 +45,7 @@
           <!-- Quote Lisa-->
           <article class="quote-lisa">
             <div class="quote-lisa-body" style="color:#2F3A8E;font-weight: bold"><a class="quote-lisa-figure" href="#"><img class="img-circles"
-                  src="{{ asset('assets/images/fundacionImagenes/educación/consejo1.png') }}" alt="" width="200" height="150" /></a>
+                  src="{{ asset('assets/images/fundacionImagenes/educacion/consejo1.png') }}" alt="" width="200" height="150" /></a>
               <p class="quote-lisa-status" style="padding-top: 10px">1. Monitoreo más Frecuente </p>
               <div class="quote-lisa-text">
                 <p class="q"style="color:#2F3A8E">Glucosa: Medir la glucosa más seguida durante la enfermedad permitirá un manejo óptimo. En
@@ -64,7 +64,7 @@
           <!-- Quote Lisa-->
           <article class="quote-lisa">
             <div class="quote-lisa-body" style="color:#2F3A8E;font-weight: bold"><a class="quote-lisa-figure" href="#"><img class="img-circles"
-              src="{{ asset('assets/images/fundacionImagenes/educación/consejo2.png') }}" alt="" width="200" height="150" /></a>
+              src="{{ asset('assets/images/fundacionImagenes/educacion/consejo2.png') }}" alt="" width="200" height="150" /></a>
               <p class="quote-lisa-status" style="padding-top: 10px">2. Nunca Dejar de Usar Insulina Completamente</p>
               <div class="quote-lisa-text">
                 <p class="q">La dosis de insulina puede necesitar ser aumentada o disminuida para mantener un adecuado
@@ -81,7 +81,7 @@
           <!-- Quote Lisa-->
           <article class="quote-lisa">
             <div class="quote-lisa-body" style="color:#2F3A8E;font-weight: bold"><a class="quote-lisa-figure" href="#"><img class="img-circles"
-                  src="{{ asset('assets/images/fundacionImagenes/educación/consejo3.png') }}" alt="" width="200" height="150" /></a>
+                  src="{{ asset('assets/images/fundacionImagenes/educacion/consejo3.png') }}" alt="" width="200" height="150" /></a>
                   <p class="quote-lisa-status" style="padding-top: 10px">3.Cuánto hay Vómito en niños o adolescentes con DM1 se debe considerar.
                    Una carencia de insulina hasta que se pruebe lo contrario.</p>
               <div class="quote-lisa-text">
@@ -95,7 +95,7 @@
           <!-- Quote Lisa-->
           <article class="quote-lisa">
             <div class="quote-lisa-body" style="color:#2F3A8E;font-weight: bold"><a class="quote-lisa-figure" href="#"><img class="img-circles"
-              src="{{ asset('assets/images/fundacionImagenes/educación/consejo4.png') }}" alt="" width="200" height="150" /></a>
+              src="{{ asset('assets/images/fundacionImagenes/educacion/consejo4.png') }}" alt="" width="200" height="150" /></a>
               <p class="quote-lisa-status" style="padding-top: 10px">4.Mantener Idratación</p>
               <div class="quote-lisa-text">
                 <p class="q" style="color:#2F3A8E">Es esencial mantener la hidratación en cada niño con diabetes durante la enfermedad aguda;

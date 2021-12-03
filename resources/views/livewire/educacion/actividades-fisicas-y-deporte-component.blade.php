@@ -8,7 +8,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/trotar.gif') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/trotar.gif') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">

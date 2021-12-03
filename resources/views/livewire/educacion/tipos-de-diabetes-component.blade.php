@@ -7,7 +7,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/ima6.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/ima6.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body">
@@ -56,7 +56,7 @@
                                     </div>
                                 </div>
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                    src="{{ asset('assets/images/fundacionImagenes/educación/ima7.png') }}" alt="" width="600"
+                                    src="{{ asset('assets/images/fundacionImagenes/educacion/ima7.png') }}" alt="" width="600"
                                     height="366" /></a></div>
                             </div>
                         </article>
@@ -66,7 +66,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/ima1.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/ima1.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body texto-descripcion">
@@ -95,7 +95,7 @@
                                     </div>
                                 </div>
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                    src="{{ asset('assets/images/fundacionImagenes/educación/ima3.png') }}" alt="" width="600"
+                                    src="{{ asset('assets/images/fundacionImagenes/educacion/ima3.png') }}" alt="" width="600"
                                     height="366" /></a></div>
                             </div>
                         </article>
@@ -105,7 +105,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/ima5.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/ima5.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body texto-descripcion">
@@ -134,7 +134,7 @@
                                     </div>
                                 </div>
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                    src="{{ asset('assets/images/fundacionImagenes/educación/ima4.png') }}" alt="" width="600"
+                                    src="{{ asset('assets/images/fundacionImagenes/educacion/ima4.png') }}" alt="" width="600"
                                     height="366" /></a></div>
                             </div>
                         </article>
@@ -144,7 +144,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/ima2.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/ima2.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body">

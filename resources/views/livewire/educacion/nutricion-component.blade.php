@@ -8,7 +8,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/nutricion.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/nutricion.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
@@ -55,7 +55,7 @@
                                     </div>
                                 </div>
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/carbohidratos.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/carbohidratos.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                             </div>
                         </article>
@@ -65,7 +65,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/lista-porciones-1.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/lista-porciones-1.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">

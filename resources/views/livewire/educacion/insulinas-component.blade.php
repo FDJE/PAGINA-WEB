@@ -8,7 +8,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educación/insulina1.png') }}" alt="" width="600"
+                                            src="{{ asset('assets/images/fundacionImagenes/educacion/insulina1.png') }}" alt="" width="600"
                                             height="366" /></a></div>
                                 <div class="unit-body" style="color:#2F3A8E; font-weight: bold">
                                     <div class="product-big-body">
@@ -57,7 +57,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            <img src="{{ asset('assets/images/fundacionImagenes/educación/insulina3.png') }}" alt="" width="600" height="366" />
+                            <img src="{{ asset('assets/images/fundacionImagenes/educacion/insulina3.png') }}" alt="" width="600" height="366" />
                             </div>
                         </div>
                     <!-- Why choose us-->
@@ -92,7 +92,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            <img src="{{ asset('assets/images/fundacionImagenes/educación/insulina2.png') }}" alt="" width="600" height="366" />
+                            <img src="{{ asset('assets/images/fundacionImagenes/educacion/insulina2.png') }}" alt="" width="600" height="366" />
 
                             </div>
                         </div>

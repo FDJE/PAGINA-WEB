@@ -8,7 +8,7 @@
               <article class="product-big" style="padding-bottom: 0px; min-height: 0vh">
                 <div class="unit flex-column flex-md-row align-items-md-stretch">
                   <div class="unit-left"><a class="product-big-figure" href="#"><img
-                        src="{{ asset('assets/images/fundacionImagenes/educación/diabetes1.png') }}" alt="" width="600" height="366" /></a></div>
+                        src="{{ asset('assets/images/fundacionImagenes/educacion/diabetes1.png') }}" alt="" width="600" height="366" /></a></div>
                   <div class="unit-body texto-descripcion">
                     <div class="product-big-body">
                       <h5 class="product-big-title texto-titulo"><a href="#">¿Que es la Diabetes?</a></h5>
@@ -30,7 +30,7 @@
               <article class="product-big">
                 <div class="unit flex-column flex-md-row align-items-md-stretch">
                   <div class="unit-left"><a class="product-big-figure" href="#"><img
-                        src="{{ asset('assets/images/fundacionImagenes/educación/diabetes2.png') }}" alt="" width="600" height="366" /></a></div>
+                        src="{{ asset('assets/images/fundacionImagenes/educacion/diabetes2.png') }}" alt="" width="600" height="366" /></a></div>
                   <div class="unit-body">
                     <div class="product-big-body texto-descripcion" style="text-align: left">
                       <h5 class="product-big-title texto-titulo"><a href="#">El diagnóstico de diabetes se lleva a cabo cuando:</a></h5>
@@ -95,7 +95,7 @@
                                 </div>
                             </div>
                         </div>
-                    <img src="{{ asset('assets/images/fundacionImagenes/educación/enfermedad.png') }}" alt="" width="600" height="366" />
+                    <img src="{{ asset('assets/images/fundacionImagenes/educacion/enfermedad.png') }}" alt="" width="600" height="366" />
                     </div>
                 </div>
         </div>
