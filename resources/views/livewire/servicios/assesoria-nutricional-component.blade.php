@@ -1,15 +1,3 @@
-
-<style>
-        .texto-titulo {
-          color:#ff7043;
-        }
-        .texto-descripcion {
-          color:#2F3A8E;
-          text-align: justify;
-          font-weight: bold;
-        }
-      </style>
-
 <section class="section section-sm bg-default" style="padding: 60px">
     <div class="container">
       <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown" style=" color:#ff7043">CONTEO DE CARBOHIDRATOS</span></h3>
@@ -22,7 +10,7 @@
               <div class="unit-body">
                 <div class="product-big-body">
                     <h5 class="texto-titulo"><a >NIVEL BÁSICO</a></h5>
-                    <ul class="texto-descripcion">
+                    <ul class="texto-descripcion" style="text-align: left">
                         <li>● Información básica sobre nutrición.</li>
                         <li>● Requisitos nutricionales.</li>
                         <li>● Recomendaciones para una alimentación sana.</li>
@@ -44,15 +32,15 @@
               <div class="unit-body">
                 <div class="product-big-body">
                     <h5 class="texto-titulo"><a>NIVEL AVANZADO</a></h5>
-                    <ul class="texto-descripcion">
-                        <li>●¿Cómo preparar un plan de comidas estructurado?.</li>
-                        <li>●  Conteo de carbohidratos.</li>
+                    <ul class="texto-descripcion" style="text-align: left">
+                        <li>● ¿Cómo preparar un plan de comidas estructurado?.</li>
+                        <li>● Conteo de carbohidratos.</li>
                         <li>● Sistema de intercambio de alimentos sana.</li>
                         <li>● Índice glucémico de los alimentos.</li>
                         <li>● ¿Cómo actuar en situaciones especiales?</li>
                         <li>● Comidas fuera de casa.</li>
                         <li>● Complicaciones.</li>
-                         
+                    </ul>
                 </div>
               </div>
             </div>

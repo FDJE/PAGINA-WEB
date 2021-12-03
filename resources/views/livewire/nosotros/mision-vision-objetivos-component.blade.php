@@ -1,14 +1,3 @@
-<style>
-        .texto-titulo {
-          color:#EF8232;
-        }
-        .texto-descripcion {
-          color:#2F3A8E;
-          text-align: justify;
-          font-weight: bold;
-        }
-      </style>
-
      <!-- Hot tours-->
       <section class="section section-sm bg-default" style="padding: 60px">
         <div class="container">

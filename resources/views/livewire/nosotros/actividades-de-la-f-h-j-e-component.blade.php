@@ -1,15 +1,3 @@
-
-      <style>
-        .texto-titulo {
-          color:#EF8232;
-        }
-        .texto-descripcion {
-          color:#2F3A8E;
-          text-align: justify;
-          font-weight: bold;
-        }
-      </style>
-
       <!--About-->
     <section class="section section-lg section-inset-1 position-relative index-1" style="padding: 60px;">
         <div class="container">

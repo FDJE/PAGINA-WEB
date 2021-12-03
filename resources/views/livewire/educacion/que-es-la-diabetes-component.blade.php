@@ -1,14 +1,4 @@
     <!-- Hot tours-->
-    <style>
-        .texto-titulo {
-          color:#EF8232;
-        }
-        .texto-descripcion {
-          color:#2F3A8E;
-          text-align: justify;
-          font-weight: bold;
-        }
-      </style>
     <section class="section section-sm bg-default" style="padding: 60px 0px 60px 0px">
         <div class="container" style="max-width: 968px">
             <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">Información</span></h3>

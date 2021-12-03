@@ -17,6 +17,16 @@
     
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
     @livewireStyles
+    <style>
+      .texto-titulo {
+        color:#EF8232;
+      }
+      .texto-descripcion {
+        color:#2F3A8E;
+        text-align: justify;
+        font-weight: bold;
+      }
+    </style>
 </head>
   <body>
     <div class="page">

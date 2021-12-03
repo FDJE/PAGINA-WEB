@@ -1,13 +1,3 @@
-<style>
-  .texto-titulo {
-    color:#EF8232;
-  }
-  .texto-descripcion {
-    color:#2F3A8E;
-    text-align: justify;
-    font-weight: bold;
-  }
-</style>
       <section class="section section-sm section-last bg-default" style="padding: 15px">
       <!-- SLIDER-->
       <div class="section swiper-container swiper-slider swiper-slider-corporate swiper-pagination-style-2" data-loop="true" data-autoplay="5000" data-simulate-touch="true" data-nav="false" data-direction="vertical">
