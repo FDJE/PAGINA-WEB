@@ -32,7 +32,7 @@
             </div>
 
             <div class="flex items-center justify-center mt-4">
-                <div class="ml-4">
+                <div class="ml-4 button" style="padding: 5px; border-radius: 8px; min-width: 122px; font-size: 14px ">
                     <a  href="{{ route('register') }}">Registrase</a>
                 </div>
                 <x-jet-button class="ml-4">
