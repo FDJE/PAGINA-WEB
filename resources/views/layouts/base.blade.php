@@ -25,6 +25,7 @@
         color:#2F3A8E;
         text-align: justify;
         font-weight: bold;
+        font-size: 18px;
       }
     </style>
 </head>
