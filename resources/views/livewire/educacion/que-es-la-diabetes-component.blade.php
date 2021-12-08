@@ -18,6 +18,8 @@
                         producida por las células el páncreas,
                         facilita el movimiento de la glucosa en el torrente sanguíneo hacia las células para que pueda ser
                         utilizada.
+                        <br>
+                        <br>
                         La diabetes se presenta porque el cuerpo no produce suficiente insulina o porque las células no
                         responden a
                         la insulina que es producida (resistencia a la insulina).</p>
@@ -31,8 +33,8 @@
                 <div class="unit flex-column flex-md-row align-items-md-stretch">
                   <div class="unit-left"><a class="product-big-figure" href="#"><img
                         src="{{ asset('assets/images/fundacionImagenes/educacion/diabetes2.png') }}" alt="" width="600" height="366" /></a></div>
-                  <div class="unit-body">
-                    <div class="product-big-body texto-descripcion" style="text-align: left">
+                  <div class="unit-body texto-descripcion">
+                    <div class="product-big-body " style="text-align: left">
                       <h5 class="product-big-title texto-titulo"><a href="#">El diagnóstico de diabetes se lleva a cabo cuando:</a></h5>
                       <br>
                       <ul>

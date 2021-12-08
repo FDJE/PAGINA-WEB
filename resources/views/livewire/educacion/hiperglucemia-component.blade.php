@@ -16,7 +16,7 @@
                                         data-toggle="tab">Tratamiento</a></li>
                             </ul>
                             <!-- Tab panes-->
-                            <div class="tab-content" style="color:#2F3A8E; font-weight: bold">
+                            <div class="tab-content texto-descripcion" style="color:#2F3A8E; font-weight: bold">
                                 <div class="tab-pane fade show active" id="tabs-4-1">
                                     <li style="text-align: justify;">Falta de insulina.</li>
                                     <li style="text-align: justify;">Insulina expuesta a temperaturas extremas.</li>

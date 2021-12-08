@@ -17,7 +17,7 @@
                                         data-toggle="tab">Tratamiento</a></li>
                             </ul>
                             <!-- Tab panes-->
-                            <div class="tab-content" style="color:#2F3A8E; font-weight: bold">
+                            <div class="tab-content texto-descripcion" style="color:#2F3A8E; font-weight: bold">
                                 <div class="tab-pane fade show active" id="tabs-4-1">
                                     <li style="text-align: justify;">Exceso de insulina o error en la sincronización de la insulina.</li>
                                     <li style="text-align: justify;">Cambios recientes en el esquema de insulina.</li>

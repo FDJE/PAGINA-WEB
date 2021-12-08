@@ -10,7 +10,7 @@
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
                                             src="{{ asset('assets/images/fundacionImagenes/educacion/nutricion.png') }}" alt="" width="600"
                                             height="366" /></a></div>
-                                <div class="unit-body">
+                                <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
                                         <h5 class="product-big-title" style=" color:#EF8232"><a href="#">Alimentación Saludable</a></h5>
                                         <p style="text-align: justify;">La manera más fácil de saber cómo alimentarse
@@ -32,7 +32,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
 
-                                <div class="unit-body">
+                                <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
                                         <h5 class="product-big-title" style=" color:#EF8232"><a href="#">¿Cuántos carbohidratos comer al
                                             día?</a></h5>
@@ -67,26 +67,23 @@
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
                                             src="{{ asset('assets/images/fundacionImagenes/educacion/lista-porciones-1.png') }}" alt="" width="600"
                                             height="366" /></a></div>
-                                <div class="unit-body">
-                                    <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
+                                <div class="unit-body texto-descripcion">
+                                    <div class="product-big-body">
                                         <h5 class="product-big-title" style=" color:#EF8232"><a href="#">Lista de porciones y conteo de carbohidratos de alimentos Ecuatorianos</a></h5>
+                                       <br>
                                         <ul>
-                                            <br>
-                                           <li style="text-align: justify;">● El método de contar carbohidratos cada vez es
+                                           <p>● El método de contar carbohidratos cada vez es
                                             más popular en la comunidad con diabetes tipo 1.
-                                             Existen diferentes razones por las cuales este método es tan aceptado así:</li>
-                                             <br>
-                                        <li>
+                                             Existen diferentes razones por las cuales este método es tan aceptado así:</p>
+                                        <p>
                                             ● Permite alcanzar y mantener un mejor control en la glicemia sanguínea.
-                                        </li>
-                                        <br>
-                                        <li>● Se puede controlar mejor las glucemia post prandial. La cantidad y la fuente de los carbohidratos consumidos
-                                        son los principales determinantes para mantener niveles constantes en las glicemias postprandiales.</li>
-                                        <br>
+                                        </p>
+                                        <p>● Se puede controlar mejor las glucemia post prandial. La cantidad y la fuente de los carbohidratos consumidos
+                                        son los principales determinantes para mantener niveles constantes en las glicemias postprandiales.</p>
                                         </ul>
-                                            <p style="text-align: justify;">La Asociación de Diabetes Americana (ADA) sugiere que el
+                                            <p>La Asociación de Diabetes Americana (ADA) sugiere que el
                                                 método de contar carbohidratos puede ayudar a emparejar las dosis de insulina con el consumo de carbohidratos.</p>
-                                            <p style="text-align: justify;">Contar con una herramienta con el contenido de carbohidratos de frutas y alimentos locales,
+                                            <p>Contar con una herramienta con el contenido de carbohidratos de frutas y alimentos locales,
                                                 es muy valioso para ajustar con precisión la cantidad de insulina que debemos utilizar. La lista presentada a continuación,
                                                 ha sido desarrollada por el área de educación en los diferentes talleres y cursos que ha brindado la Fundación de Diabetes
                                                 Juvenil del Ecuador (FDJE) a lo largo de más de 10 años de trabajo.</p>

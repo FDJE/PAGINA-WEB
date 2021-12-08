@@ -1,6 +1,7 @@
         <!-- Hot tours-->
         <section class="section section-sm bg-default" style="padding: 60px">
-            <div class="container">
+
+            <div class="container" style="max-width: 968px">
                 <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown" style=" color:#EF8232">Insulina</span></h3>
                 <div class="row row-sm row-40 row-md-50">
                     <div class="col-sm-6 col-md-12 wow fadeInRight">
@@ -10,7 +11,7 @@
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
                                             src="{{ asset('assets/images/fundacionImagenes/educacion/insulina1.png') }}" alt="" width="600"
                                             height="366" /></a></div>
-                                <div class="unit-body" style="color:#2F3A8E; font-weight: bold">
+                                <div class="unit-body texto-descripcion" style="color:#2F3A8E; font-weight: bold">
                                     <div class="product-big-body">
                                         <h5 class="product-big-title" style=" color:#EF8232"><a href="#">Uso de las insulinas Humanas y/o Análogas</a></h5>
                                         <p style="text-align: justify;">Todos los niños con diabetes tipo 1 y algunos niños con otras formas de diabetes necesitan insulina.
@@ -38,7 +39,7 @@
                                                     data-toggle="tab">Lantus</a></li>
                                         </ul>
                                         <!-- Tab panes-->
-                                        <div class="tab-content">
+                                        <div class="tab-content texto-descripcion">
                                             <div class="tab-pane fade show active" id="tabs-4-1" style="color:#2F3A8E; font-weight: bold">
                                                 <li>Inicio: 1-2 horas.</li>
                                                 <li>Pico: 6-12 horas.</li>
@@ -71,14 +72,14 @@
                                         <!-- Nav tabs-->
                                         <ul class="nav nav-tabs">
                                             <li class="nav-item" role="presentation" style="padding-bottom: 10px"><a class="nav-link active" href="#tabs-5-1"
-                                                    data-toggle="tab" style="text-align: left">ULTRARÁPIDA HUMAGOL(LISPTO) NOVOLOG(ASPART) APIDRA(GLUSINA)</a>
+                                                    data-toggle="tab" style="text-align: left">ULTRARÁPIDA HUMAGOL(LISPTO) <br> NOVOLOG(ASPART) APIDRA(GLUSINA)</a>
                                             </li>
                                             <li class="nav-item" role="presentation"><a class="nav-link" href="#tabs-5-2"
-                                                    data-toggle="tab">REGULAR HUMULIR, NOVOLINR</a></li>
+                                                    data-toggle="tab">REGULAR HUMULIR, <br>NOVOLINR</a></li>
 
                                         </ul>
                                         <!-- Tab panes-->
-                                        <div class="tab-content">
+                                        <div class="tab-content texto-descripcion">
                                             <div class="tab-pane fade show active" id="tabs-5-1" style="color:#2F3A8E; font-weight: bold">
                                                 <li>Inicio: 10 minutos</li>
                                                 <li>Pico: 1-3 horas.</li>

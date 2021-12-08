@@ -1,7 +1,7 @@
         <!-- Hot tours-->
         <section class="section section-sm bg-default" style="padding: 60px 0px 60px 0px">
             <div class="container" style="max-width: 968px">
-                <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown" style=" color:#EF8232">Psicología:¿Que hay en tú despensa?</span></h3>
+                <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown" style=" color:#EF8232">Psicología: ¿Qué hay en tú despensa?</span></h3>
                 <div class="row row-sm row-40 row-md-50">
                     <div class="col-sm-12 col-md-12 wow fadeInRight">
                         <!-- Product Big-->
@@ -10,7 +10,7 @@
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
                                             src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia1.png') }}" alt="" width="600"
                                             height="366" /></a></div>
-                                <div class="unit-body">
+                                <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
                                         <p style="text-align: justify;">Una metodología narrativa utilizada en Brasil explica cómo una familia se adapta a una enfermedad crónica
                                             y la llama un “visitante inesperado”, debido a que llega sin invitación y sin ser anunciad.</p>
@@ -23,7 +23,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
 
-                                <div class="unit-body">
+                                <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
 
                                         <p style="text-align: justify;">En este caso, el visitante inesperado es la Diabetes Tipo 1 que trae consigo cambio,
@@ -46,7 +46,7 @@
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
                                             src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia3.png') }}" alt="" width="600"
                                             height="366" /></a></div>
-                                <div class="unit-body">
+                                <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
                                         <p style="text-align: justify;">Todo aquello, desborda completamente a la familia y se encuentra en una posición que no sabe qué hacer ni cómo actuar.</p>
                                         <p style="text-align: justify;">Cuando pensamos que un visitante llega a nuestra casa es normal imaginar que hay que brindarle algo de comida y por tanto,
@@ -60,7 +60,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
 
-                                <div class="unit-body">
+                                <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
 
                                         <p style="text-align: justify;">La misma metodología narrativa, sugiere que la familia busque fortalezas para manejar la enfermedad y
@@ -83,7 +83,7 @@
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
                                             src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia5.png') }}" alt="" width="600"
                                             height="366" /></a></div>
-                                <div class="unit-body">
+                                <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
                                         <p style="text-align: justify;">Estos ingredientes se pueden utilizar, pero necesitamos más porque la Diabetes Tipo 1 nos desafía sobremanera.
                                             Toda la familia contribuye a la “despensa de la vida” con fortalezas y virtudes.</p>
@@ -96,7 +96,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
 
-                                <div class="unit-body">
+                                <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
 
                                         <p style="text-align: justify;">Con la ayuda de todos, aumentamos los ingredientes y podemos preparar a la Diabetes Tipo 1 un
@@ -118,10 +118,10 @@
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
                                             src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia7.png') }}" alt="" width="600"
                                             height="366" /></a></div>
-                                <div class="unit-body">
-                                    <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
-                                        <p style="text-align: justify;">Sin embargo, pasa un tiempo y llega otro “visitante inesperado” llamado Coronavirus.
-                                            Este nos vuelve a desestabilizar y trae consigo conceptos como contagio, distanciamiento social,
+                                <div class="unit-body texto-descripcion">
+                                    <div class="product-big-body">
+                                        <p>Sin embargo, pasa un tiempo y llega otro “visitante inesperado” llamado Coronavirus.
+                                            <p>Este nos vuelve a desestabilizar y trae consigo conceptos como contagio, distanciamiento social,</p>
                                             mascarilla, lavado de manos, cuarentena, aislamiento etc.</p>
                                     </div>
                                 </div>
@@ -132,7 +132,7 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
 
-                                <div class="unit-body">
+                                <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
 
                                         <p style="text-align: justify;">Esto nos vuelve a desbordar y no sabemos qué hacer porque ya tenemos en casa a la Diabetes
@@ -153,7 +153,7 @@
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
                                             src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia9.png') }}" alt="" width="600"
                                             height="366" /></a></div>
-                                <div class="unit-body">
+                                <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
                                         <p style="text-align: justify;">Hay que ofrecerle algo de comida al Coronavirus también, pero tenemos dos ventajas:
                                             este “visitante inesperado” no se va a quedar para siempre y nuestra “despensa de la vida”
@@ -167,13 +167,13 @@
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
 
-                                <div class="unit-body">
+                                <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
 
                                         <p style="text-align: justify;">Cuando abrimos nuestra despensa, nos damos cuenta de que la Diabetes Tipo 1 nos ha proporcionado muchas
                                             fortalezas y virtudes como: madurez, aceptación, independencia, paciencia, motivación, calma, compromiso, autodisciplina, adaptación etc.</p>
-                                         <p style="text-align: justify;">Todos estos podemos usar para hacerle frente al Coronavirus y prepararle algo rico de comer con los mismos ingredientes.
-                                            Probablemente desarrollemos nuevas fortalezas a raíz de la pandemia para enfrentar otros desafíos a lo largo de nuestras vidas.</p>
+                                         <p style="text-align: justify;">Todos estos podemos usar para hacerle frente al Coronavirus y prepararle algo rico de comer con los mismos ingredientes.</p>
+                                         <p style="text-align: justify;">Probablemente desarrollemos nuevas fortalezas a raíz de la pandemia para enfrentar otros desafíos a lo largo de nuestras vidas.</p>
 
                                         </div>
                                 </div>
@@ -191,7 +191,7 @@
                                 <div class="unit-left"><a class="product-big-figure" href="#"><img
                                             src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia11.png') }}" alt="" width="600"
                                             height="366" /></a></div>
-                                <div class="unit-body">
+                                <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
                                         <p style="text-align: justify;">A nadie le gustan las crisis, pero afortunadamente ellas nos enseñan bastante y podemos usar lo que nos
                                             enseñó la Diabetes Tipo 1 para manejar la situación actual de la pandemia. </p>
