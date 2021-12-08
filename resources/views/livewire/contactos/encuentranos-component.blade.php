@@ -70,37 +70,37 @@
               <h3>Escríbenos</h3>
             </div>
           </article>
-          <form class="rd-form rd-form-variant-2 rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+          <form class="rd-form rd-form-variant-2 rd-mailform formulario-guardar" wire:submit.prevent="sendMessage">
             <div class="row row-14 gutters-14">
               <div class="col-md-6">
+                <label>Nombres y Apellidos</label>
                 <div class="form-wrap">
-                  <input class="form-input" id="contact-your-name-2" type="text" name="name" data-constraints="@Required">
-                  <label class="form-label" for="contact-your-name-2">Nombres y Apellidos</label>
+                  <input class="form-input" id="contact-your-name-2" type="text" name="name" wire:model="name">
                 </div>
               </div>
               <div class="col-md-6">
+                <label>Correo Electrónico</label>
                 <div class="form-wrap">
-                  <input class="form-input" id="contact-email-2" type="email" name="email" data-constraints="@Email @Required">
-                  <label class="form-label" for="contact-email-2">Correo Electrónico</label>
+                  <input class="form-input" id="contact-email-2" type="email" name="email" wire:model="email">
                 </div>
               </div>
               <div class="col-md-6">
+                <label>Teléfono de contacto (WhatsApp)</label>
                 <div class="form-wrap">
-                  <input class="form-input" id="contact-phone-2" type="text" name="phone" data-constraints="@Numeric">
-                  <label class="form-label" for="contact-phone-2">Teléfono de contacto (WhatsApp)</label>
+                  <input class="form-input" id="contact-phone-2" type="text" name="phone" wire:model="phone">
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="form-wrap">
                   <label  >Selecione la Provincia</label>
                   <br>
-                  <select class="form-control">
+                  <select class="form-control" wire:model="province">
                     <option value="Azuay">Azuay</option>  
                     <option value="Cañar">Cañar</option>  
                     <option value="Loja">Loja</option>  
                     <option value="Carchi">Carchi</option>  
                     <option value="Imbabura">Imbabura</option>  
-                    <option value="Pichincha" selected="selected">Pichincha</option>  
+                    <option value="Pichincha">Pichincha</option>  
                     <option value="Cotopaxi">Cotopaxi</option>  
                     <option value="Tungurahua">Tungurahua</option>  
                     <option value="Bolívar">Bolívar</option>  
@@ -123,13 +123,13 @@
                 </div>
               </div>
               <div class="col-12">
+                <label >¿Cuál es su necesidad?</label>
                 <div class="form-wrap">
-                  <label class="form-label" for="contact-message-2">¿Cuál es su necesidad?</label>
-                  <textarea class="form-input textarea-lg" id="contact-message-2" name="message" data-constraints="@Required"></textarea>
+                  <textarea class="form-input textarea-lg" id="contact-message-2" name="message"  wire:model="comment"></textarea>
                 </div>
               </div>
             </div>
-            <button class="button button-primary button-pipaluk" type="submit">Enviar mensaje</button>
+            <input class="button button-primary" type="submit" name="ok" value="Enviar mensaje" >
           </form>
         </div>
       </section>

@@ -68,6 +68,7 @@ return array(
     'App\\Http\\Middleware\\VerifyCsrfToken' => $baseDir . '/app/Http/Middleware/VerifyCsrfToken.php',
     'App\\Models\\Aliance' => $baseDir . '/app/Models/Aliance.php',
     'App\\Models\\Event' => $baseDir . '/app/Models/Event.php',
+    'App\\Models\\Message' => $baseDir . '/app/Models/Message.php',
     'App\\Models\\Notice' => $baseDir . '/app/Models/Notice.php',
     'App\\Models\\Project' => $baseDir . '/app/Models/Project.php',
     'App\\Models\\Setting' => $baseDir . '/app/Models/Setting.php',

@@ -21,23 +21,23 @@
     <table class="table">
       <thead class="thead-dark">
         <tr>
-          <th scope="col">Imagen</th>
-          <th scope="col">Estado</th>
-          <th scope="col">Acción</th>
+          <th style="padding: 0.45rem;" scope="col">Imagen</th>
+          <th style="padding: 0.45rem;" scope="col">Estado</th>
+          <th style="padding: 0.45rem;" scope="col">Acción</th>
         </tr>
       </thead>
       <tbody>
         @foreach ($sliders as $slider)
         <tr>
-          <td class="col-md-4"><img src="{{ asset('assets/images/home/sliders') }}/{{$slider->image}}" width="100"></td>
-          <td class="col-md-4">
+          <td style="padding: 0.45rem;" class="col-md-4"><img src="{{ asset('assets/images/home/sliders') }}/{{$slider->image}}" width="100"></td>
+          <td style="padding: 0.45rem;" class="col-md-4">
             @if ($slider->status == '1')
               Activado
             @else
               Desactivado
             @endif
           </td>
-          <td class="col-md-4">
+          <td style="font-size: 10px; padding: 0.45rem;" class="col-md-4">
             <a href="{{route('admin.editslider',['sliders_image'=>$slider->image])}}"><i class="fa fa-edit fa-2x"></i></a>
             <a onclick="eliminar()" wire:click.prevent="deleteSlider({{$slider->id}})" style=" color:red"><i class="fa fa-times fa-2x text-danger"></i></a>
           </td>

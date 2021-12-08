@@ -24,25 +24,25 @@
     <table class="table">
       <thead class="thead-dark">
         <tr>
-          <th scope="col">Imagen</th>
-          <th scope="col">Título</th>
-          <th scope="col">Estado</th>
-          <th scope="col">Acción</th>
+          <th  style="padding: 0.45rem;" scope="col">Imagen</th>
+          <th  style="padding: 0.45rem;" scope="col">Título</th>
+          <th  style="padding: 0.45rem;" scope="col">Estado</th>
+          <th  style="padding: 0.45rem;" scope="col">Acción</th>
         </tr>
       </thead>
       <tbody>
         @foreach ($notices as $notice)
         <tr>
-          <td><img src="{{ asset('assets/images/home/noticias') }}/{{$notice->image}}" width="80"></td>
-          <td>{{$notice->name}}</td>
-          <td>
+          <td style="padding: 0.45rem;" ><img src="{{ asset('assets/images/home/noticias') }}/{{$notice->image}}" width="80"></td>
+          <td style="padding: 0.45rem;" >{{$notice->name}}</td>
+          <td style="padding: 0.45rem;" >
             @if ($notice->status == '1')
               Activado
             @else
               Desactivado
             @endif
           </td>
-          <td style="font-size: 10px;">
+          <td style="font-size: 10px; padding: 0.45rem;">
             <a href="{{route('admin.editnotice',['noticias_slug'=>$notice->slug])}}"><i class="fa fa-edit fa-2x"></i></a>
             <a onclick="confirm('Estas seguro, Quieres eliminar esta noticia?') || event.stopImmediatePropagation()" wire:click.prevent="deleteNotice({{$notice->id}})" style="margin-left: 10px; color:red"><i class="fa fa-times fa-2x text-danger"></i></a>
           </td>

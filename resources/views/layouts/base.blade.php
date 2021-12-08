@@ -52,7 +52,7 @@
                     <li style="	margin-top: 0;margin-left: 25px;">
                       <div class="unit unit-spacing-xs">
                         <div class="unit-left"><span class="icon fa fa-whatsapp"></span></div>
-                        <div class="unit-body"><a class="link-phone" href="https://api.whatsapp.com/send/?phone=593998740762&text=Fundaci%C3%B3n+Diabetes+Juvenil.&app_absent=0">+593 998740762</a></div>
+                        <div class="unit-body"><a class="link-phone" target="_blank" href="https://api.whatsapp.com/send/?phone=593998740762&text=Fundaci%C3%B3n+Diabetes+Juvenil.&app_absent=0">+593 998740762</a></div>
                       </div>
                     </li>
                     @if(Route::has('login'))

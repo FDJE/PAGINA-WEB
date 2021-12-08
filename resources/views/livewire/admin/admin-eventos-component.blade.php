@@ -24,25 +24,25 @@
     <table class="table">
       <thead class="thead-dark">
         <tr>
-          <th scope="col">Imagen</th>
-          <th scope="col">Título</th>
-          <th scope="col">Estado</th>
-          <th scope="col">Acción</th>
+          <th style="padding: 0.45rem;" scope="col">Imagen</th>
+          <th style="padding: 0.45rem;" scope="col">Título</th>
+          <th style="padding: 0.45rem;" scope="col">Estado</th>
+          <th style="padding: 0.45rem;" scope="col">Acción</th>
         </tr>
       </thead>
       <tbody>
         @foreach ($events as $event)
         <tr>
-          <td><img src="{{ asset('assets/images/home/eventos') }}/{{$event->image}}" width="100"></td>
-          <td>{{$event->name}}</td>
-          <td>
+          <td style="padding: 0.45rem;"><img src="{{ asset('assets/images/home/eventos') }}/{{$event->image}}" width="100"></td>
+          <td style="padding: 0.45rem;">{{$event->name}}</td>
+          <td style="padding: 0.45rem;">
             @if ($event->status == '1')
               Activado
             @else
               Desactivado
             @endif
           </td>
-          <td style="font-size: 10px;">
+          <td style="font-size: 10px;padding: 0.45rem;">
             <a href="{{route('admin.editevent',['eventos_slug'=>$event->slug])}}"><i class="fa fa-edit fa-2x"></i></a>
             <a onclick="confirm('Estas seguro, Quieres eliminar este evento?') || event.stopImmediatePropagation()" wire:click.prevent="deleteEvent({{$event->id}})" style="margin-left: 10px; color:red"><i class="fa fa-times fa-2x text-danger"></i></a>
           </td>
