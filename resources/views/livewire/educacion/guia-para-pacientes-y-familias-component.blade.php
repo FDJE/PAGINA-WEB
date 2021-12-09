@@ -39,7 +39,7 @@
         </div>
       </div>
     <!-- What people Say-->
-      <div class="container" style="max-width: 968px; padding-top: 0px">
+      <div class="container texto-descripcion" style="max-width: 968px; padding-top: 0px">
         <h3 style=" color:#EF8232">Consejos importantes:</h3>
         <!-- Owl Carousel-->
         <div class="owl-carousel owl-modern" data-items="1" data-stage-padding="15" data-margin="30" data-dots="true"

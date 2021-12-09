@@ -149,7 +149,7 @@
                                     <div class="product-big-body">
                                         <h5 class="product-big-title texto-titulo"><a href="#">Otros Tipos de Diabetes</a>
                                         </h5>
-                                        <h6>Entre otras están las conocidas como:</h6>
+                                        <h6 class="texto-descripcion">Entre otras están las conocidas como:</h6>
                                         <br>
                                         <ul>
                                              <li>● Diabetes atípica.</li>
