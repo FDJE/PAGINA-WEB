@@ -1,6 +1,6 @@
       <!-- Latest Projects-->
-      <section class="section section-sm section-fluid bg-default" style="padding: 60px">
-        <div class="container">
+      <section class="section section-sm section-fluid bg-default" style="padding: 60px 0px 60px 0px">
+        <div class="container" style="max-width: 968px">
           <h5 style=" color:#ff7043">CAMPO AMIGO ECUADOR</h5>
             <!-- Owl Carousel-->
             <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="3" data-lg-items="4" data-xl-items="4" data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
@@ -42,7 +42,7 @@
               </div>
             </div>
         </div>
-        <div class="container">
+        <div class="container" style="max-width: 968px">
             <h5 style=" color:#ff7043">PROGRAMA DE APADRINAMIENTO</h5>
               <!-- Owl Carousel-->
             <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="3" data-lg-items="4" data-xl-items="4" data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
@@ -84,7 +84,7 @@
               </div>
             </div>
         </div>
-        <div class="container">
+        <div class="container" style="max-width: 968px">
             <h5 style=" color:#ff7043">RUTA CREATIVA</h5>
               <!-- Owl Carousel-->
             <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="3" data-lg-items="4" data-xl-items="4" data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
@@ -135,7 +135,7 @@
               </div>
             </div>
         </div>
-        <div class="container">
+        <div class="container" style="max-width: 968px">
             <h5 style=" color:#ff7043">ESCUELA DE FORMACIÓN DE LIDERES JUVENILES</h5>
               <!-- Owl Carousel-->
             <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="3" data-lg-items="4" data-xl-items="4" data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
@@ -177,7 +177,7 @@
               </div>
             </div>
         </div>
-        <div class="container">
+        <div class="container" style="max-width: 968px">
             <h5 style=" color:#ff7043">ENCUENTROS DE FAMILIAS CON DM1</h5>
               <!-- Owl Carousel-->
             <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="3" data-lg-items="4" data-xl-items="4" data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
@@ -237,7 +237,7 @@
               </div>
             </div>
         </div>
-        <div class="container">
+        <div class="container" style="max-width: 968px">
             <h5 style=" color:#ff7043">TALLERES CHARLAS Y CONFERENCIAS</h5>
               <!-- Owl Carousel-->
             <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="3" data-lg-items="3" data-xl-items="4" data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
@@ -288,7 +288,7 @@
               </div>
             </div>
         </div>
-        <div class="container">
+        <div class="container" style="max-width: 968px">
             <h5 style=" color:#ff7043">CAMPAÑA DE SENSIBILIZACIÓN SOBRE DIABETES</h5>
               <!-- Owl Carousel-->
             <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="3" data-lg-items="3" data-xl-items="4" data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">

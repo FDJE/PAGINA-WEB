@@ -1,6 +1,6 @@
      <!-- Hot tours-->
-      <section class="section section-sm bg-default" style="padding: 60px">
-        <div class="container">
+      <section class="section section-sm bg-default" style="padding: 60px 0px 60px 0px">
+        <div class="container" style="max-width: 968px">
             <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">Visión</span></h3>
           <div class="row row-sm row-40 row-md-50">
             <div class="col-sm-12 col-md-12 wow fadeInLeft">
@@ -20,7 +20,7 @@
             </div>
           </div>
         </div>
-        <div class="container">
+        <div class="container" style="max-width: 968px">
             <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">Misión</span></h3>
           <div class="row row-sm row-40 row-md-50">
             <div class="col-sm-12 col-md-12 wow fadeInLeft">
@@ -40,7 +40,7 @@
             </div>
           </div>
         </div>
-        <div class="container">
+        <div class="container" style="max-width: 968px">
             <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">Objetivos Institucionales</span></h3>
           <div class="row row-30">
             <div class="col-sm-6 col-lg-6">
@@ -108,7 +108,7 @@
             </div>
           </div>
         </div>
-        <div class="container">
+        <div class="container" style="max-width: 968px">
           <h5 class="texto-descripcion">La FDJE se concentra y especializa en brindar educación diabetológica, nutricional, consejería y apoyo de pares a las personas con diabetes tipo 1, sus padres o cuidadores y entorno escolar; ya que en Ecuador el tiempo de consulta médica no incorpora tiempo de educación, siendo éste un pilar fundamental para tener un manejo adecuado de esta condición crónica, lo cual garantiza la adherencia al tratamiento.
           <br>
           En forma presencial la FDJE ha desarrollado proyectos educativos y programas sociales como:</h5>
@@ -188,8 +188,7 @@
             </div>
           </div>
         </div>
-        <div class="container">
-
+        <div class="container" style="max-width: 968px">
           <h5 class="texto-titulo">En el periodo de pandemia desarrolla proyectos virtuales para acercar la educación diabetológica y nutricional, y el acompañamiento a todas las familias de forma segura.
           </h5>
           <div class="row row-30">
@@ -290,7 +289,7 @@
           <h5 style="padding-top: 40px" class="texto-titulo">En el periodo de pandemia desarrolla proyectos virtuales para acercar la educación diabetológica y nutricional, y el acompañamiento a todas las familias de forma segura.
           </h5>
         </div>
-        <div class="container">
+        <div class="container" style="max-width: 968px">
           <div class="container-fluid" style="padding-top: 40px;">
             <!-- Owl Carousel-->
             <div class="owl-carousel owl-classic owl-dots-secondary" data-items="1" data-sm-items="2" data-md-items="3" data-lg-items="4" data-xl-items="4" data-xxl-items="5" data-stage-padding="15" data-xxl-stage-padding="0" data-margin="30" data-autoplay="true" data-nav="true" data-dots="true">

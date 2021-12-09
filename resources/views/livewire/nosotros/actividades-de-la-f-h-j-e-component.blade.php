@@ -1,6 +1,6 @@
       <!--About-->
-    <section class="section section-lg section-inset-1 position-relative index-1" style="padding: 60px;">
-        <div class="container">
+    <section class="section section-lg section-inset-1 position-relative index-1" style="padding: 60px 0px 60px 0px">
+        <div class="container" style="max-width: 968px">
             <h2 class="texto-titulo"><span class="d-inline-block wow slideInDown">PROYECTOS Y ACTIVIDADES EDUCATIVAS</span></h2>
           <div class="row row-30">
             <div class="col-md-12 col-lg-12 wow fadeInUp">

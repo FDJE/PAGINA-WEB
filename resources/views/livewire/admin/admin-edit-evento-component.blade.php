@@ -36,14 +36,12 @@
                 </div>
             </div>
             <div class="col-4">
-                @error('short_description')<p class="text-danger" style="color: red; font-size: 11px;">La descripción corta es requerida</p>@enderror
                 <div class="form-wrap" wire:ignore>
                 <label class="form-label"></label>
-                <textarea class="form-input textarea-lg" id="short_description" placeholder="Descripción corta*"   wire:model="short_description"></textarea>
+                <textarea wire:ignore class="form-input textarea-lg" id="short_description" placeholder="Descripción corta*"   wire:model="short_description"></textarea>
                 </div>
             </div>
             <div class="col-8">
-                @error('description')<p class="text-danger" style="color: red; font-size: 11px;">La descripción Larga es requerida</p>@enderror
                 <div class="form-wrap" wire:ignore>
                 <label class="form-label"></label>
                 <textarea class="form-input textarea-lg"  id="description" placeholder="Descripción Larga*"  wire:model="description"></textarea>

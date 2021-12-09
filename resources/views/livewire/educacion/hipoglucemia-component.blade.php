@@ -1,7 +1,6 @@
         <!-- Why choose us-->
         <section class="section section-sm section-first bg-default text-md-left" style="padding: 60px 0px 60px 0px">
             <div class="container" style="max-width: 968px">
-
                 <div class="row justify-content-center align-items-xl-center">
                     <div class="col-md-12 col-lg-12 col-xl-12" style="padding-bottom: 35px">
                         <h3 style=" color:#EF8232">Hipoglucemia</h3>

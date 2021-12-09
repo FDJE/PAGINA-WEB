@@ -1,21 +1,21 @@
       <!-- Contact information-->
       <section class="section section-sm section-first bg-default" style="padding: 60px 0px 60px 0px; padding-bottom: 0px">
-        <div class="container" style="padding: 0px">
+        <div class="container" style=" max-width: 968px">
           <div class="row row-14 gutters-14">
             <div class="col-md-6">
               <div class="form-wrap">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63792.56731525672!2d-79.894675!3d-2.140091!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfe05a50490b05b24!2sFundaci%C3%B3n%20Diabetes%20Juvenil%20del%20Ecuador!5e0!3m2!1ses-419!2sec!4v1637962381061!5m2!1ses-419!2sec" width="500" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63792.56731525672!2d-79.894675!3d-2.140091!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfe05a50490b05b24!2sFundaci%C3%B3n%20Diabetes%20Juvenil%20del%20Ecuador!5e0!3m2!1ses-419!2sec!4v1637962381061!5m2!1ses-419!2sec" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
               </div>
             </div>
             <div class="col-md-6">
               <div class="form-wrap">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63836.83105893815!2d-78.480322!3d-0.16417500000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb97a862b2246c7b7!2sFundacion%20Diabetes%20Juvenil%20Ecuador!5e0!3m2!1ses!2sec!4v1637962438359!5m2!1ses!2sec" width="500" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63836.83105893815!2d-78.480322!3d-0.16417500000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb97a862b2246c7b7!2sFundacion%20Diabetes%20Juvenil%20Ecuador!5e0!3m2!1ses!2sec!4v1637962438359!5m2!1ses!2sec" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="container" style="padding: 0px">
+        <div class="container" style=" max-width: 968px">
           <div class="row row-30 justify-content-center">
             <div class="col-sm-6 col-md-6 col-lg-6">
               <article class="box-contacts">
@@ -64,7 +64,7 @@
           </div>
         </div>
       <!-- Contact Form-->
-        <div class="container"  style="padding-bottom: 60px">
+        <div class="container"  style="padding-bottom: 60px; max-width: 968px">
           <article class="title-classic">
             <div class="title-classic-title">
               <h3>Escríbenos</h3>

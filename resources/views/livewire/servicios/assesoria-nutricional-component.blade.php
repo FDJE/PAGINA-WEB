@@ -1,6 +1,6 @@
-<section class="section section-sm bg-default" style="padding: 60px">
-    <div class="container">
-      <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown" style=" color:#ff7043">CONTEO DE CARBOHIDRATOS</span></h3>
+<section class="section section-sm bg-default" style="padding: 60px 0px 60px 0px">
+    <div class="container" style="max-width: 968px">
+      <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown texto-titulo">CONTEO DE CARBOHIDRATOS</span></h3>
       <div class="row row-sm row-40 row-md-50">
         <div class="col-sm-12 col-md-12 wow fadeInLeft">
           <!-- Product Big-->

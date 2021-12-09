@@ -34,7 +34,7 @@
                     <div class="unit-body">
                       <div class="product-big-body">
                         <h5 class="product-big-title"><a href="{{ route('eventos.details', ['slug'=>$event->slug]) }}">{{ $event->name }}</a></h5>
-                        <p class="product-big-text" style="color:#2F3A8E; font-size: 16px">{!! $event->short_description !!}</p>
+                        <p class="product-big-text">{!! $event->short_description !!}</p>
                         <div class="group-md group-middle"><a class="button button-secondary button-pipaluk" href="{{ route('eventos.details', ['slug'=>$event->slug]) }}">Leer más...</a></div>
                       </div>
                     </div>

@@ -1,6 +1,5 @@
         <!-- Hot tours-->
-        <section class="section section-sm bg-default" style="padding: 60px">
-
+        <section class="section section-sm bg-default" style="padding: 60px 0px 60px 0px">
             <div class="container" style="max-width: 968px">
                 <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown" style=" color:#EF8232">Insulina</span></h3>
                 <div class="row row-sm row-40 row-md-50">

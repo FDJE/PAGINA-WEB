@@ -1,6 +1,6 @@
       <!--About-->
-    <section class="section section-lg section-inset-1 position-relative index-1" style="padding: 60px;">
-        <div class="container">
+    <section class="section section-lg section-inset-1 position-relative index-1" style="padding: 60px 0px 60px 0px">
+        <div class="container" style="max-width: 968px">
             <div class="row">
                 <div class="col-md-4 col-lg-4 wow fadeInUp" style="margin: 0px; padding-bottom: 20px ">
                     <article class="thumbnail thumbnail-mary" style="border: 10px solid #BDCB45">

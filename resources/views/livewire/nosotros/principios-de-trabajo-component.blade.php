@@ -1,6 +1,6 @@
    <!--About-->
-      <section class="section section-lg section-inset-1 position-relative index-1" style="padding: 60px;">
-        <div class="container">
+      <section class="section section-lg section-inset-1 position-relative index-1" style="padding: 60px 0px 60px 0px">
+        <div class="container" style="max-width: 968px">
           <div class="row row-30">
             <div class="col-md-12 col-lg-12 wow fadeInUp">
                 <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">PRINCIPIOS DE TRABAJO</span></h3>
@@ -27,7 +27,7 @@
               </div>
           </div>
         </div>
-        <div class="container">
+        <div class="container" style="max-width: 968px">
             <div class="row row-30">
               <div class="col-md-12 col-lg-12 wow fadeInUp">
                 <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">PRINCIPIOS APLICADOS EN LOS PROYECTOS EDUCATIVOS</span></h3>

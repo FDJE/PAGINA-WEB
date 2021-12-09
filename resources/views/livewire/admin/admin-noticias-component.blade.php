@@ -18,9 +18,6 @@
           </div>
       </div>
     </div>
-    @if (Session::has('message'))
-        <div class="alert alert-success" role="alert" style="background-color: #cbefcd;">{{Session::get('message')}}</div>
-    @endif
     <table class="table">
       <thead class="thead-dark">
         <tr>
@@ -44,7 +41,7 @@
           </td>
           <td style="font-size: 10px; padding: 0.45rem;">
             <a href="{{route('admin.editnotice',['noticias_slug'=>$notice->slug])}}"><i class="fa fa-edit fa-2x"></i></a>
-            <a onclick="confirm('Estas seguro, Quieres eliminar esta noticia?') || event.stopImmediatePropagation()" wire:click.prevent="deleteNotice({{$notice->id}})" style="margin-left: 10px; color:red"><i class="fa fa-times fa-2x text-danger"></i></a>
+            <a onclick="eliminar()" wire:click.prevent="deleteNotice({{$notice->id}})" style="margin-left: 10px; color:red"><i class="fa fa-times fa-2x text-danger"></i></a>
           </td>
         </tr>
         @endforeach
