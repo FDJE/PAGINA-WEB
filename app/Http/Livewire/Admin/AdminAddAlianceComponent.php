@@ -11,6 +11,7 @@ class AdminAddAlianceComponent extends Component
 {
     use WithFileUploads;
     public $name;
+    public $link;
     public $status;
     public $image;
 
@@ -35,6 +36,7 @@ class AdminAddAlianceComponent extends Component
         ]);
         $aliance = new Aliance();
         $aliance->name =$this->name;
+        $aliance->link =$this->link;
         $aliance->status= $this->status;
 
         $imageName = Carbon::now()->timestamp. '.' . $this->image->extension();

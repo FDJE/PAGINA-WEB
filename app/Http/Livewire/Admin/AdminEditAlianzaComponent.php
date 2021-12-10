@@ -12,6 +12,7 @@ class AdminEditAlianzaComponent extends Component
     use WithFileUploads;
 
     public $name;
+    public $link;
     public $status;
     public $image;
 
@@ -22,8 +23,9 @@ class AdminEditAlianzaComponent extends Component
     public function mount($alianzas_name)
     {
         $aliance = Aliance::where('name',$alianzas_name)->first();
-        
+
         $this->name =$aliance->name;
+        $this->link =$aliance->link;
         $this->status=$aliance->status;
 
         $this->image =$aliance->image;
@@ -36,7 +38,7 @@ class AdminEditAlianzaComponent extends Component
         $this->validateOnly($fields,[
             'name' => 'required',
         ]);
-        if ($this->newimage) 
+        if ($this->newimage)
         {
             $this->validateOnly($fields,[
                 'newimage' => 'required'
@@ -50,7 +52,7 @@ class AdminEditAlianzaComponent extends Component
             'name' => 'required',
         ]);
 
-        if ($this->newimage) 
+        if ($this->newimage)
         {
             $this->validate([
                 'newimage' => 'required'
@@ -60,10 +62,11 @@ class AdminEditAlianzaComponent extends Component
         $aliance = Aliance::find($this->aliance_id);
 
         $aliance->name =$this->name;
+        $aliance->link =$this->link;
         $aliance->status= $this->status;
 
-        if ($this->newimage) 
-        {   
+        if ($this->newimage)
+        {
             unlink('assets/images/home/alianzas'.'/'.$aliance->image);
             $imageName = Carbon::now()->timestamp. '.' . $this->newimage->extension();
             $this->newimage->storeAs('home/alianzas',$imageName);

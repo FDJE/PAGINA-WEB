@@ -110,11 +110,15 @@
               @foreach($aliances as $aliance)
               <div class="owl-item">
                     <article class="thumbnail thumbnail-mary">
-                      <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/home/alianzas') }}/{{$aliance->image}}" alt="" width="420" height="308"/>
+                      <div class="thumbnail-mary-figure">
+                        <a href="{{$aliance->link}}" target="_blank">
+                        <img src="{{ asset('assets/images/home/alianzas') }}/{{$aliance->image}}" alt="" width="420" height="308"/>
+
+                        </a>
                       </div>
                     </article>
                     <div class="thumbnail-mary-description">
-                      <h5 class="thumbnail-mary-project"><a href="#">{{$aliance->name}}</a></h5><span class="thumbnail-mary-decor"></span>
+                      <h5 class="thumbnail-mary-project"><a href="{{$aliance->link}}" target="_blank">{{$aliance->name}}</a></h5><span class="thumbnail-mary-decor"></span>
                       <h5 class="thumbnail-mary-time">
                       </h5>
                     </div>

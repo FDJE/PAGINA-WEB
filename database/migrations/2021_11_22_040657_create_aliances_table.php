@@ -17,6 +17,7 @@ class CreateAliancesTable extends Migration
             $table->id();
             $table->text('name');
             $table->text('image')->nullable();
+            $table->text('link')->nullable();
             $table->string('status');
             $table->timestamps();
         });

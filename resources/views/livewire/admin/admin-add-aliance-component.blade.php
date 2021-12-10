@@ -13,6 +13,12 @@
             </div>
         <form class="rd-form rd-form-variant-2 rd-mailform formulario-guardar"  wire:submit.prevent="addAliance">
         <div class="row row-14 gutters-14">
+            <div class="col-md-12">
+                    <select class="form-control" style="width: auto;" wire:model="status">
+                        <option value="0">Desactivar</option>
+                        <option value="1">Activar</option>
+                    </select>
+            </div>
             <div class="col-md-6">
                 @error('name')<p class="text-danger" style="color: red; font-size: 11px;">El Título es requerido</p>@enderror
                 <div class="form-wrap">
@@ -21,13 +27,12 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="col-md-4" >
-                    <select class="form-control" style="width: auto;" wire:model="status">
-                        <option value="0">Desactivar</option>
-                        <option value="1">Activar</option>
-                    </select>
+                <div class="form-wrap">
+                <input class="form-input" placeholder="Link*" type="text" name="link" data-constraints="@Required" wire:model="link">
+                <label class="form-label" ></label>
                 </div>
             </div>
+
             <div class="col-md-12" >
                 <label class="col-md-4 control-label" style="padding: 7px;"></label>
                 <div class="col-md-4" >
@@ -39,7 +44,7 @@
                 </div>
             </div>
         </div>
-        <button class="button button-primary button-pipaluk" type="submit">Guardar Alianza</button>           
+        <button class="button button-primary button-pipaluk" type="submit">Guardar Alianza</button>
         </form>
     </div>
 </section>
