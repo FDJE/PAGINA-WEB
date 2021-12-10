@@ -55,11 +55,6 @@
                   se debe tener presente las tendencias de la glucosa. La glucosa sanguínea debe ser monitoreada al
                   menos cada 3 a 4 horas, inclusive
                   durante la noche y en algunas ocasiones cada 1 a 2 horas.</p>
-                <p class="q">Cetonas: Son cuerpos producidos por el hígado como resultado del metabolismo de las grasas
-                  cuando no hay glucosa,
-                  ya sea por un consumo inadecuado o por la imposibilidad de utilizar glucosa debido a una deficiencia
-                  de insulina. Los cuerpos
-                  cetónicos pueden producirse cuando no hay glucosa debido al ayuno.</p>
               </div>
             </div>
           </article>
@@ -73,10 +68,7 @@
                   metabolismo de la glucosa,
                   pero nunca se la debe omitir. Un error muy común es pensar que porque el niño no está comiendo no debe
                   usar insulina,
-                  esto aumenta el riesgo de una cetoacidosis.
-                  <br>
-                  Aún en un estado de ayuno se necesita algo de insulina para las necesidades básicas del metabolismo,
-                  las que aumentarán durante una enfermedad aguda.</p>
+                  esto aumenta el riesgo de una cetoacidosis.</p>
               </div>
             </div>
           </article>
@@ -105,11 +97,6 @@
                   deben ser proporcionados de acuerdo a los niveles de azúcar en sangre. Considere la utilización de
                   hidratación intravenosa en el
                   caso que el niño no pueda tomar nada.
-                  <br>
-                  Los líquidos para hidratar deben contener sal y agua no solo agua, especialmente si hay pérdida
-                  asociada a vómito y diarrea.
-                  Caldo de pollo, consomé, limonada hecha en casa con un poco de sal y azúcar son excelentes fuentes de
-                  agua y electrolitos.
                 </p>
               </div>
             </div>
