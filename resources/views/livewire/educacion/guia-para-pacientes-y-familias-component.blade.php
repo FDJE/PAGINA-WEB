@@ -1,7 +1,7 @@
 <section class="section section-sm section-last bg-default" style="padding: 60px 0px 60px 0px">
     <div class="container" style="max-width: 968px">
         <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown" style=" color:#EF8232">Guía para Pacientes y Familia</span></h3>
-      <div class="row row-sm row-40 row-md-50">
+      <div class="row">
         <div class="col-sm-12 col-md-12 wow fadeInRight">
           <!-- Product Big-->
         </div>

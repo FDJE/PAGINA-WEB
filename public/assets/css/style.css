@@ -7245,7 +7245,6 @@ textarea.textarea-lg {
 		visibility: hidden;
 	}
 	.desktop .thumbnail-mary-figure img {
-		transform: scale(1.2);
 		will-change: transform;
 	}
 	.desktop .thumbnail-mary-caption .icon,
@@ -10060,7 +10059,7 @@ h5 + .list-popular-product {
 	}
 	@supports (object-fit: cover) {
 		.desktop .product-big-figure img {
-			transform: scale(1.1);
+			transform: scale(1);
 		}
 	}
 	.desktop .product-big:hover .product-big-figure img {

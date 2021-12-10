@@ -105,7 +105,7 @@
         <div class="container" style="padding: 15px" >
           <h3 class="texto-titulo">Alianzas</h3>
             <!-- Owl Carousel-->
-          <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="2" data-lg-items="3" data-xl-items="4" data-xxl-items="5"  data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
+          <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="2" data-lg-items="3" data-xl-items="4" data-xxl-items="4"  data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
                 <!-- Thumbnail Classic-->
               @foreach($aliances as $aliance)
               <div class="owl-item">
