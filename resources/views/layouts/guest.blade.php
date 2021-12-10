@@ -125,6 +125,7 @@
                           <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/assesoria-nutricional">Asesoría Nutricional</a></li>
                           <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/recursos-para-descargar">Recursos para descargar</a></li>
                           <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/venta-de-insumos">Venta de insumos</a></li>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/comunidad">Comunidad</a></li>
                         </ul>
                     </li>
                     <li class="rd-nav-item" style="margin: 0px; background-color: #BDCB45;"><a class="rd-nav-link" href="#" style="margin: 0px">Contactos</a>

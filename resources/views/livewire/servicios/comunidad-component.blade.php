@@ -1,0 +1,6 @@
+<section class="section section-sm bg-default" style="padding: 60px 0px 60px 0px">
+    <div class="container" style="max-width: 968px">
+      <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown texto-titulo">NUESTRA COMUNIDAD</span></h3>
+
+    </div>
+</section>

@@ -39,6 +39,7 @@ use App\Http\Livewire\Nosotros\MisionVisionObjetivosComponent;
 use App\Http\Livewire\Nosotros\PrincipiosDeTrabajoComponent;
 use App\Http\Livewire\Nosotros\TransparenciaInstitucionalComponent;
 use App\Http\Livewire\Servicios\AssesoriaNutricionalComponent;
+use App\Http\Livewire\Servicios\ComunidadComponent;
 use App\Http\Livewire\Servicios\RecursosParaDescargarComponent;
 use App\Http\Livewire\Servicios\VentaDeInsumosComponent;
 use Illuminate\Support\Facades\Route;
@@ -70,6 +71,7 @@ Route::get('psicologia', PsicologiaComponent::class);
 Route::get('assesoria-nutricional', AssesoriaNutricionalComponent::class);
 Route::get('recursos-para-descargar', RecursosParaDescargarComponent::class);
 Route::get('venta-de-insumos', VentaDeInsumosComponent::class);
+Route::get('comunidad', ComunidadComponent::class);
 
 //CONTACTOS
 Route::get('encuentranos', EncuentranosComponent::class);
