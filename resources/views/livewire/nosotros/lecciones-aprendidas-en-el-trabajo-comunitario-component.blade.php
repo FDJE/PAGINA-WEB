@@ -12,11 +12,14 @@
                 A través de la Escuela de Formación de Líderes Juveniles se ha formado a un grupo de jóvenes que coplanifica junto con el Equipo Técnico y colabora durante el año en las distintas actividades de la FDJE. Los líderes son jóvenes voluntarios con y sin diabetes dispuestos a difundir y aportar en soluciones a la problemática de la DM1 en Ecuador, además realizan actividades comunitarias como levantamiento de información, capacitación y sensibilización sobre temas relacionados a la DM1.
             </p>
             </div>
-            <div class="col-md-6 col-lg-6 wow fadeInUp">
+            <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima3.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
               </div>
           </div>
         </div>
@@ -27,9 +30,9 @@
                     <!-- Product Big-->
                     <article class="product-big">
                         <div class="unit flex-column flex-md-row align-items-md-stretch">
-                            <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                        src="{{ asset('assets/images/fundacionImagenes/nosotros/ima8.jpg') }}" alt="" width="600"
-                                        height="366" /></a></div>
+                            <div class="unit-left "><a class="product-big-figure" href="#">
+                                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima8.jpg') }}" alt="" /></a>
+                            </div>
                             <div class="unit-body">
                                 <div class="product-big-body">
                                     <p style="text-align: justify;" class="texto-descripcion">

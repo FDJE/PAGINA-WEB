@@ -1,7 +1,7 @@
       <!--About-->
     <section class="section section-lg section-inset-1 position-relative index-1" style="padding: 60px 0px 60px 0px">
         <div class="container" style="max-width: 968px">
-            <h2 class="texto-titulo"><span class="d-inline-block wow slideInDown">PROYECTOS Y ACTIVIDADES EDUCATIVAS</span></h2>
+            <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">PROYECTOS Y ACTIVIDADES EDUCATIVAS</span></h3>
           <div class="row row-30">
             <div class="col-md-12 col-lg-12 wow fadeInUp">
                 <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">Campamento Campo Amigo Ecuador</span></h3>
@@ -15,11 +15,14 @@
                 Es importante resaltar la hermandad, camaradería, amistad y respeto que existe entre los campistas, líderes juveniles, profesionales y todo el equipo de la FDJE, sin duda es un lugar donde el cariño se expresa totalmente. Tiene modalidades presencial y virtual.
               </p>
             </div>
-            <div class="col-md-6 col-lg-6 wow fadeInUp">
+            <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima3.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
               </div>
           </div>
           <div class="row row-30">
@@ -31,11 +34,14 @@
                 Este proyecto tiene diferentes capítulos porque se realiza en distintas regiones del país, con la participación de profesionales de la Salud, líderes juveniles, voluntarios nacionales y Equipo de FDJE.
              </p>
             </div>
-            <div class="col-md-6 col-lg-6 wow fadeInUp">
+            <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima4.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima5.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima4.jpg') }}" alt="" width="600" height="300"/>
               </div>
           </div>
           <div class="row row-30">
@@ -45,11 +51,14 @@
                 La FDJE es una pionera en el Ecuador en la difusión de esta herramienta útil a las personas con diabetes para planificar sus alimentos y controlar de manera efectiva su glucosa. Existen talleres de nivel básico y avanzado. Modalidad presencial.
               </p>
             </div>
-            <div class="col-md-6 col-lg-6 wow fadeInUp">
+            <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima6.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima7.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima6.jpg') }}" alt="" width="600" height="300"/>
               </div>
           </div>
           <div class="row row-30">
@@ -59,11 +68,14 @@
                 Se trata de eventos educativos específicos que la FDJE realiza con distintos públicos de la comunidad con DM1: padres o cuidadores, profesionales de la salud, profesores y/o alumnos de escuelas y colegios y público en general. Modalidad presencial.
               </p>
             </div>
-            <div class="col-md-6 col-lg-6 wow fadeInUp">
+            <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima8.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima9.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima8.jpg') }}" alt="" width="600" height="300"/>
               </div>
           </div>
           <div class="row row-30">
@@ -73,11 +85,14 @@
                 Se trata de un programa de educación inicial gratuito en diabetes y nutrición que prepara a las familias con un diagnóstico reciente para empezar a tomar el control de esta enfermedad. Tiene modalidades presencial y virtual.
               </p>
             </div>
-            <div class="col-md-6 col-lg-6 wow fadeInUp">
+            <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima10.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima11.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima10.jpg') }}" alt="" width="600" height="300"/>
               </div>
           </div>
           <div class="row row-30">
@@ -87,11 +102,14 @@
                 Encuentros virtuales con profesionales de la salud que desarrollan un tema específico.
               </p>
             </div>
-            <div class="col-md-6 col-lg-6 wow fadeInUp">
+            <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima1.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima1.jpg') }}" alt="" width="600" height="300"/>
               </div>
           </div>
           <div class="row row-30">
@@ -101,11 +119,14 @@
                 Se trata de un ciclo de charlas virtuales con profesionales de la salud orientadas a los padres de las personas con diabetes tipo 1 recién diagnosticadas. Los temas que se tratan intentas contribuir a un adecuado proceso de capacitación de las familias debutantes. Modalidad virtual.
               </p>
             </div>
-            <div class="col-md-6 col-lg-6 wow fadeInUp">
+            <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima3.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima4.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima3.jpg') }}" alt="" width="600" height="300"/>
               </div>
           </div>
           <div class="row row-30">
@@ -115,11 +136,14 @@
                 Se proponen talleres, herramientas y estrategias a las familias, particularmente a los padres o cuidadores que faciliten llevar buena calidad de la vida con diabetes tipo 1. Modalidad virtual.
               </p>
             </div>
-            <div class="col-md-6 col-lg-6 wow fadeInUp">
+            <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima5.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima6.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima5.jpg') }}" alt="" width="600" height="300"/>
               </div>
           </div>
           <div class="row row-30">
@@ -129,11 +153,14 @@
                 Es una propuesta de acompañamiento emocional y espacios de confianza dirigidos exclusivamente a los adolescentes con diabetes. Modalidad virtual.
               </p>
             </div>
-            <div class="col-md-6 col-lg-6 wow fadeInUp">
+            <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima7.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima8.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima7.jpg') }}" alt="" width="600" height="300"/>
               </div>
           </div>
           <div class="row row-30">
@@ -143,11 +170,14 @@
                 A través de la presentación de un relato, se trabaja con niñas y niños en el acompañamiento emocional de su vida con diabetes. Se trata a través de talleres virtuales.
               </p>
             </div>
-            <div class="col-md-6 col-lg-6 wow fadeInUp">
+            <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima9.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima10.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima9.jpg') }}" alt="" width="600" height="300"/>
               </div>
           </div>
           <div class="row row-30">
@@ -157,11 +187,14 @@
                 Ciclo de talleres donde se trabaja una receta de comida casera, mostrando de manera práctica cómo se calcula los carbohidratos. Modalidad virtual.
               </p>
             </div>
-            <div class="col-md-6 col-lg-6 wow fadeInUp">
+            <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima11.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima1.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima11.jpg') }}" alt="" width="600" height="300"/>
               </div>
           </div>
         </div>

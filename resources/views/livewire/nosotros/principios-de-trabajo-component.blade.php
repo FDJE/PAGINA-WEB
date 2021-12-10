@@ -19,11 +19,14 @@
                  ● Transparencia y rendición de cuentas: La FDJE transparenta el uso de recursos y rinde cuentas de las acciones y los proyectos.
               </p>
             </div>
-            <div class="col-md-6 col-lg-6 wow fadeInUp">
+            <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT1.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT2.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT1.jpg') }}" alt="" width="600" height="300"/>
               </div>
           </div>
         </div>
@@ -43,11 +46,14 @@
                     ● El principal método es el diálogo, adaptado a cada contexto y a cada individuo, en el que todos participen de una manera activo.
                 </p>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT3.jpg') }}" alt="" width="600" height="300"/>
               </div>
-              <div class="col-md-6 col-lg-6 wow fadeInUp">
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
                 <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT5.jpg') }}" alt="" width="600" height="300"/>
+              </div>
+              <div class="col-md-4 col-lg-4 wow fadeInUp">
+                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT3.jpg') }}" alt="" width="600" height="300"/>
               </div>
             </div>
           </div>
