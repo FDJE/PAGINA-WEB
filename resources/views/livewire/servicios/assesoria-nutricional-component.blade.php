@@ -10,7 +10,7 @@
                    <div class="contenedor1" style="padding: 20px">
                         <a href="#">
                             <figure>
-                               <img src="{{ asset('assets/images/fundacionImagenes/servicios/nutricion1.jpg') }}" alt="" width="600" height="366"/>
+                               <img src="{{ asset('assets/images/fundacion/servicios/servicio1.jpg') }}" alt="" width="600" height="366"/>
                             </figure>
                         </a>
                     </div>
@@ -18,6 +18,7 @@
               <div class="unit-body">
                    <div class="product-big-body">
                       <h5 class="texto-titulo"><a >NIVEL BÁSICO</a></h5>
+                      <br>
                       <ul class="texto-descripcion" style="text-align: left">
                         <li>● Información básica sobre nutrición.</li>
                         <li>● Requisitos nutricionales.</li>
@@ -41,7 +42,7 @@
                        <a href="#">
                            <br>
                           <figure>
-                            <img src="{{ asset('assets/images/fundacionImagenes/servicios/nutricion3.jpg') }}" alt="" width="600" height="366"/>
+                            <img src="{{ asset('assets/images/fundacion/servicios/servicio2.jpg') }}" alt="" width="600" height="366"/>
                            </figure>
                         </a>
                     </div>
@@ -49,6 +50,7 @@
               <div class="unit-body">
                 <div class="product-big-body">
                     <h5 class="texto-titulo"><a>NIVEL AVANZADO</a></h5>
+                    <br>
                     <ul class="texto-descripcion" style="text-align: left">
                         <li>● ¿Cómo preparar un plan de comidas estructurado?.</li>
                         <li>● Conteo de carbohidratos.</li>
@@ -64,56 +66,55 @@
           </article>
         </div>
       </div>
-      <h3 class="oh-desktop"><span class="texto-titulo">CONSEJERÍA INDIVIDUALIZADA</span></h3>
-      <div class="row row-sm row-40 row-md-50">
-        <div class="col-sm-6 col-md-12 wow fadeInRight">
-            <div class="container-fluid" style="padding-top: 40px;">
-                <!-- Owl Carousel-->
-                <div class="owl-carousel owl-classic owl-dots-secondary" data-items="1" data-sm-items="2" data-md-items="3" data-lg-items="4" data-xl-items="4" data-xxl-items="5" data-stage-padding="15" data-xxl-stage-padding="0" data-margin="30" data-autoplay="true" data-nav="true" data-dots="true">
-                  <!-- Thumbnail Classic-->
+      <div class="container" style="max-width: 968px">
+        <br>
+        <br>
+        <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown texto-titulo">CONSEJERÍA INDIVIDUALIZADA</span></h3>
+          <!-- Owl Carousel-->
+          <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="3" data-lg-items="3" data-xl-items="3" data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
+              <!-- Thumbnail Classic1-->
+              <div class="owl-item">
                   <article class="thumbnail thumbnail-mary">
-                    <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/servicios/educacion1.jpg') }}" alt="" width="270" height="195"/>
-                    </div>
-                    <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/servicios/educacion1.jpg') }}" data-lightgallery="item"><img src="{{ asset('assets/images/gallery-image-14-1200x800-original.jpg') }}" alt="" width="420" height="308"/></a>
-                    </div>
+                  <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/servicios/educacion1.jpg') }}" alt="" width="420" height="308"/>
+                  </div>
+                  <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/servicios/educacion1.jpg') }}" data-lightgallery="item"><img src="assets/images/fundacionImagenes/galeria/campo-amigo-cc1.png" alt="" width="420" height="308"/></a>
+                  </div>
                   </article>
-                  <!-- Thumbnail Classic-->
-                  <article class="thumbnail thumbnail-mary">
-                    <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/servicios/educacion2.jpg') }}" alt="" width="270" height="195"/>
-                    </div>
-                    <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/servicios/educacion2.jpg') }}" data-lightgallery="item"><img src="{{ asset('assets/images/gallery-image-14-1200x800-original.jpg') }}" alt="" width="420" height="308"/></a>
-                    </div>
-                  </article>
-                  <!-- Thumbnail Classic-->
-                  <article class="thumbnail thumbnail-mary">
-                    <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/servicios/educacion3.jpg') }}" alt="" width="270" height="195"/>
-                    </div>
-                    <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/servicios/educacion3.jpg') }}" data-lightgallery="item"><img src="{{ asset('assets/images/gallery-image-14-1200x800-original.jpg') }}" alt="" width="420" height="308"/></a>
-                    </div>
-                  </article>
-                  <!-- Thumbnail Classic-->
-                  <article class="thumbnail thumbnail-mary">
-                    <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/servicios/educacion4.jpg') }}" alt="" width="270" height="195"/>
-                    </div>
-                    <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/servicios/educacion4.jpg') }}" data-lightgallery="item"><img src="{{ asset('assets/images/gallery-image-14-1200x800-original.jpg') }}" alt="" width="420" height="308"/></a>
-                    </div>
-                  </article>
-                  <!-- Thumbnail Classic-->
-                  <article class="thumbnail thumbnail-mary">
-                    <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/servicios/educacion5.jpg') }}" alt="" width="270" height="195"/>
-                    </div>
-                    <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/servicios/educacion5.jpg') }}" data-lightgallery="item"><img src="{{ asset('assets/images/gallery-image-14-1200x800-original.jpg') }}" alt="" width="420" height="308"/></a>
-                    </div>
-                  </article>
+              </div>
+              <!-- Thumbnail Classic2-->
+              <div class="owl-item">
+                <article class="thumbnail thumbnail-mary">
+                <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacion/servicios/servicio3.jpg') }}" alt="" width="420" height="308"/>
                 </div>
-                <h5 style="padding-top: 40px">
-                    <ul class="texto-descripcion">
-                        <li>● La FDJE cuenta con tres educadoras en diabetes que pueden orientar al paciente y su familia en el manejo cotidiano de su condición.</li>
-                        <li>● Se cuenta con un extenso material didáctico que permite un proceso de aprendizaje divertido y fácil.</li>
-                    </ul>
-                </h5>
+                <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacion/servicios/servicio3.jpg') }}" data-lightgallery="item"><img src="assets/images/fundacionImagenes/galeria/campo-amigo-cc1-1.png" alt="" width="420" height="308"/></a>
+                </div>
+                </article>
             </div>
-        </div>
+              <!-- Thumbnail Classic3-->
+              <div class="owl-item">
+                <article class="thumbnail thumbnail-mary">
+                <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/servicios/educacion4.jpg') }}" alt="" width="420" height="308"/>
+                </div>
+                <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/servicios/educacion4.jpg') }}" data-lightgallery="item"><img src="assets/images/fundacionImagenes/galeria/campo-amigo-cc1-2.png" alt="" width="420" height="308"/></a>
+                </div>
+                </article>
+            </div>
+              <!-- Thumbnail Classic4-->
+              <div class="owl-item">
+                <article class="thumbnail thumbnail-mary">
+                <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/servicios/educacion5.jpg') }}" alt="" width="420" height="308"/>
+                </div>
+                <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/servicios/educacion5.jpg') }}" data-lightgallery="item"><img src="assets/images/fundacionImagenes/galeria/campo-amigo-cc1-4.png" alt="" width="420" height="308"/></a>
+                </div>
+                </article>
+            </div>
+          </div>
+          <h5 style="padding-top: 40px">
+            <ul class="texto-descripcion">
+                <li>● La FDJE cuenta con tres educadoras en diabetes que pueden orientar al paciente y su familia en el manejo cotidiano de su condición.</li>
+                <li>● Se cuenta con un extenso material didáctico que permite un proceso de aprendizaje divertido y fácil.</li>
+            </ul>
+        </h5>
       </div>
     </div>
 </section>
