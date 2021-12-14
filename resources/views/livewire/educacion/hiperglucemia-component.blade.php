@@ -39,7 +39,13 @@
                             </div>
                         </div>
                     </div>
-                    <img src="{{ asset('assets/images/fundacionImagenes/educacion/hiperglucemia.png') }}" alt="" width="600" height="366" />
+                    <div class="contenedor1" style="padding: 20px">
+                        <a href="#">
+                            <figure>
+                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/hiperglucemia.png') }}" alt="" width="600" style="height: 336px;"/>
+                            </figure>
+                        </a>
+                   </div>
                 </div>
                 </div>
             </div>

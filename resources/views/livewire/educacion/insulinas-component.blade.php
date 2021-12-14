@@ -7,9 +7,15 @@
                         <!-- Product Big-->
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
-                                <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educacion/insulina1.png') }}" alt="" width="600"
-                                            height="366" /></a></div>
+                                <div class="unit-left">
+                                    <div class="contenedor1" style="padding: 20px">
+                                        <a href="#">
+                                            <figure>
+                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/insulina1.png') }}" alt="" width="600" height="366" />
+                                            </figure>
+                                        </a>
+                                   </div>
+                                </div>
                                 <div class="unit-body texto-descripcion" style="color:#2F3A8E; font-weight: bold">
                                     <div class="product-big-body">
                                         <h5 class="product-big-title" style=" color:#EF8232"><a href="#">Uso de las insulinas Humanas y/o Análogas</a></h5>
@@ -17,13 +23,13 @@
                                          El objetivo es administrar la insulina de manera que los niveles de glucosa en sangre estén dentro del rango objetivo.</p>
                                     </div>
                                 </div>
+                            </div>
                         </article>
                     </div>
                 </div>
                     <!-- Why choose us-->
                         <div class="container" style="padding-top: 40px">
                             <div class="row  justify-content-center align-items-xl-center">
-
                                 <div class="col-md-12 col-lg-12 col-xl-12" style="padding-bottom: 35px">
                                     <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown" style=" color:#EF8232">Basal: (de acción lenta)</span></h3>
                                     <!-- Bootstrap tabs-->
@@ -57,13 +63,18 @@
                                         </div>
                                     </div>
                                 </div>
-                            <img src="{{ asset('assets/images/fundacionImagenes/educacion/insulina3.png') }}" alt="" width="600" height="366" />
+                                <div class="contenedor1" style="padding: 20px">
+                                    <a href="#">
+                                        <figure>
+                                         <img src="{{ asset('assets/images/fundacionImagenes/educacion/insulina3.png') }}" alt="" width="600" style="height: 366px;" />
+                                        </figure>
+                                    </a>
+                               </div>
                             </div>
                         </div>
                     <!-- Why choose us-->
                         <div class="container">
                             <div class="row  justify-content-center align-items-xl-center">
-
                                 <div class="col-md-12 col-lg-12 col-xl-12" style="padding-bottom: 35px">
                                     <h3 class="oh-desktop"><span class="d-inline-block wow slideInDown" style=" color:#EF8232">Bolo: (de acción rápida)</span></h3>
                                     <!-- Bootstrap tabs-->
@@ -92,8 +103,13 @@
                                         </div>
                                     </div>
                                 </div>
-                            <img src="{{ asset('assets/images/fundacionImagenes/educacion/insulina2.png') }}" alt="" width="600" height="366" />
-
+                                <div class="contenedor1" style="padding: 20px">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="{{ asset('assets/images/fundacionImagenes/educacion/insulina2.png') }}" alt="" width="600" style="height: 366px;" />
+                                        </figure>
+                                    </a>
+                               </div>
                             </div>
                         </div>
             </div>

@@ -7,8 +7,15 @@
               <!-- Product Big-->
               <article class="product-big" style="padding-bottom: 0px; min-height: 0vh">
                 <div class="unit flex-column flex-md-row align-items-md-stretch">
-                  <div class="unit-left"><a class="product-big-figure" href="#"><img
-                        src="{{ asset('assets/images/fundacionImagenes/educacion/diabetes1.png') }}" alt="" width="600" height="366" /></a></div>
+                  <div class="unit-left">
+                    <div class="contenedor1" style="padding: 20px">
+                        <a href="#">
+                            <figure>
+                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/diabetes1.png') }}" alt="" width="600" style="height: 320px;" />
+                            </figure>
+                        </a>
+                    </div>
+                 </div>
                   <div class="unit-body texto-descripcion">
                     <div class="product-big-body">
                       <h5 class="product-big-title texto-titulo"><a href="#">¿Que es la Diabetes?</a></h5>
@@ -18,21 +25,30 @@
                         producida por las células el páncreas,
                         facilita el movimiento de la glucosa en el torrente sanguíneo hacia las células para que pueda ser
                         utilizada.
-                        <br>
-                        <br>
-                        La diabetes se presenta porque el cuerpo no produce suficiente insulina o porque las células no
-                        responden a
-                        la insulina que es producida (resistencia a la insulina).</p>
+                       </p>
                     </div>
                   </div>
+                </div>
+                <p class="texto-descripcion" style="padding: 0px 44px 0px 20px">
+                    La diabetes se presenta porque el cuerpo no produce suficiente insulina o porque las células no
+                    responden a la insulina que es producida (resistencia a la insulina).
+                </p>
+                <br>
               </article>
             </div>
             <div class="col-sm-12 col-md-12 wow fadeInLeft">
               <!-- Product Big-->
               <article class="product-big">
                 <div class="unit flex-column flex-md-row align-items-md-stretch">
-                  <div class="unit-left"><a class="product-big-figure" href="#"><img
-                        src="{{ asset('assets/images/fundacionImagenes/educacion/diabetes2.png') }}" alt="" width="600" height="366" /></a></div>
+                  <div class="unit-left">
+                       <div class="contenedor1" style="padding: 20px">
+                            <a href="#">
+                                <figure>
+                                  <img src="{{ asset('assets/images/fundacionImagenes/educacion/diabetes2.png') }}" alt="" width="600" style="height: 320px;" />
+                                </figure>
+                            </a>
+                        </div>
+                   </div>
                   <div class="unit-body texto-descripcion">
                     <div class="product-big-body " style="text-align: left">
                       <h5 class="product-big-title texto-titulo"><a href="#">El diagnóstico de diabetes se lleva a cabo cuando:</a></h5>
@@ -42,14 +58,17 @@
                         <p>● Glucosa en ayuno ≥126 mg/dl. </p>
                         <p>● Glucosa de 2 horas posterior a la comida ≥200 mg/dl durante una prueba de tolerancia
                             oral a la glucosa (con 75 gramos de glucosa en bebida azucarada en ayuno).</p>
-                        <p>● En ausencia de síntomas claros, deberá realizarse nuevamente la prueba en un día distinto.</p>
-                        <p>● Si los recursos son limitados y no hay disponibilidad de análisis de glucosa en sangre podrá
-                          realizarse el diagnóstico con la medición de niveles de glucosa en orina y presencia cuerpos
-                          cetónicos.</p>
                      <ul>
                     </div>
                   </div>
                 </div>
+                <p class="texto-descripcion" style="padding: 0px 44px 0px 20px">
+                    ● En ausencia de síntomas claros, deberá realizarse nuevamente la prueba en un día distinto.</p>
+                        <p class="texto-descripcion" style="padding: 0px 44px 0px 20px">
+                        ● Si los recursos son limitados y no hay disponibilidad de análisis de glucosa en sangre podrá
+                        realizarse el diagnóstico con la medición de niveles de glucosa en orina y presencia cuerpos
+                        cetónicos.</p>
+                        <br>
               </article>
             </div>
           </div>
@@ -97,7 +116,13 @@
                                 </div>
                             </div>
                         </div>
-                    <img src="{{ asset('assets/images/fundacionImagenes/educacion/enfermedad.png') }}" alt="" width="600" height="366" />
+                        <div class="contenedor1" style="padding: 20px">
+                            <a href="#">
+                                <figure>
+                                    <img src="{{ asset('assets/images/fundacionImagenes/educacion/enfermedad.png') }}" alt="" width="600" style="height: 366px;" />
+                                </figure>
+                            </a>
+                       </div>
                     </div>
                 </div>
         </div>

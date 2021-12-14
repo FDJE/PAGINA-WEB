@@ -6,11 +6,19 @@
           <!-- Product Big-->
           <article class="product-big">
             <div class="unit flex-column flex-md-row align-items-md-stretch">
-              <div class="unit-left"><a class="product-big-figure" href="#"><img src="{{ asset('assets/images/fundacionImagenes/servicios/nutricion1.jpg') }}" alt="" width="600" height="366"/></a></div>
+                <div class="unit-left">
+                   <div class="contenedor1" style="padding: 20px">
+                        <a href="#">
+                            <figure>
+                               <img src="{{ asset('assets/images/fundacionImagenes/servicios/nutricion1.jpg') }}" alt="" width="600" height="366"/>
+                            </figure>
+                        </a>
+                    </div>
+                </div>
               <div class="unit-body">
-                <div class="product-big-body">
-                    <h5 class="texto-titulo"><a >NIVEL BÁSICO</a></h5>
-                    <ul class="texto-descripcion" style="text-align: left">
+                   <div class="product-big-body">
+                      <h5 class="texto-titulo"><a >NIVEL BÁSICO</a></h5>
+                      <ul class="texto-descripcion" style="text-align: left">
                         <li>● Información básica sobre nutrición.</li>
                         <li>● Requisitos nutricionales.</li>
                         <li>● Recomendaciones para una alimentación sana.</li>
@@ -28,7 +36,16 @@
           <!-- Product Big-->
           <article class="product-big">
             <div class="unit flex-column flex-md-row align-items-md-stretch">
-              <div class="unit-left"><a class="product-big-figure" href="#"><img src="{{ asset('assets/images/fundacionImagenes/servicios/nutricion3.jpg') }}" alt="" width="600" height="366"/></a></div>
+                <div class="unit-left">
+                   <div class="contenedor1" style="padding: 20px">
+                       <a href="#">
+                           <br>
+                          <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/servicios/nutricion3.jpg') }}" alt="" width="600" height="366"/>
+                           </figure>
+                        </a>
+                    </div>
+                </div>
               <div class="unit-body">
                 <div class="product-big-body">
                     <h5 class="texto-titulo"><a>NIVEL AVANZADO</a></h5>

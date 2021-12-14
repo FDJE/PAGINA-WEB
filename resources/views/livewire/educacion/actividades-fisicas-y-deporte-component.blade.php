@@ -7,9 +7,14 @@
                         <!-- Product Big-->
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
-                                <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educacion/trotar.gif') }}" alt="" width="600"
-                                            height="366" /></a></div>
+                                <div class="unit-left">
+                                    <div class="contenedor1" style="padding: 20px">
+                                        <a href="#">
+                                            <figure>
+                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/trotar.gif') }}" alt="" width="600" height="366" /></a></div>
+                                            </figure>
+                                        </a>
+                                   </div>
                                 <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" style="color:#2F3A8E; font-weight: bold">
                                         <h5 class="product-big-title" style=" color:#EF8232"><a href="#">¿Hacer deporte en casa? ¡Sí es posible!</a></h5>

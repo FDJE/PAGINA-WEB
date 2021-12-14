@@ -14,7 +14,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/pdf.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.1.10/sweetalert2.min.css" integrity="sha512-cyIcYOviYhF0bHIhzXWJQ/7xnaBuIIOecYoPZBgJHQKFPo+TOBA+BY1EnTpmM8yKDU4ZdI3UGccNGCEUdfbBqw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    
+
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
     @livewireStyles
     <style>
@@ -27,6 +27,55 @@
         font-weight: bold;
         font-size: 18px;
       }
+
+      .contenedor1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .contenedor1 figure{
+       position:relative;
+        height: auto;
+        cursor: pointer;
+        width: auto;
+        overflow: hidden;
+        border-radius: 6px;
+        box-shadow: 0px 15px 25px rgba(0,0,0,0.50);
+    }
+    .contenedor1 figure img{
+        width: 100%;
+        height: 100%;
+        transition: all 400ms ease-out;
+        will-change: transform;
+    }
+    .contenedor1 figure .capa{
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,103,123,0.7);
+        transition: all 400ms ease-out;
+        opacity: 0;
+        visibility: hidden;
+       text-align: center;
+    }
+
+    .contenedor1 figure .capa h3{
+        color: #fff;
+        font-weight: 400;
+        margin-bottom: 120px;
+        transition: all 400ms ease-out;
+         margin-top: 30px;
+    }
+    .contenedor1 figure .capa p{
+        color: #fff;
+        font-size: 15px;
+        line-height: 1.5;
+        width: 100%;
+        max-width: 220px;
+        margin: auto;
+    }
     </style>
 </head>
   <body>
@@ -81,7 +130,7 @@
                                   <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Salir</a></li>
                                   <form id="logout-form" method="POST" action="{{ route('logout')}}">
                                     @csrf
-                                  </form> 
+                                  </form>
                                 </ul>
                               </li>
                             </ul>

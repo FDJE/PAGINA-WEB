@@ -3,7 +3,13 @@
           <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">HISTORIA</span></h3>
           <div class="row row-30">
             <div class="col-md-6 col-lg-6 wow fadeInUp">
-              <img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia5.jpg') }}" alt="" width="600" height="300"/>
+               <div class="contenedor1">
+                  <a href="#">
+                    <figure>
+                     <img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia5.jpg') }}" alt="" width="600" height="300"/>
+                    </figure>
+                  </a>
+               </div>
             </div>
             <div class="col-md-6 col-lg-6 wow fadeInUp">
               <p class="texto-descripcion">Pro Fundación Diabetes Juvenil del Ecuador nace en el año 2003, con la misión de mejorar lacalidad de vida de los niños, niñas y jóvenes con Diabetes Mellitus tipo 1 (DM1), en la ciudad de Quito. El impulso de esta fundación fue apoyar a las necesidades de las familias con niños con DM1, pues en el país no existían ni conocimientos ni centros de educación y enseñanza para un manejo adecuado de esta patología.
@@ -12,7 +18,13 @@
             <div class="col-md-6 col-lg-6 wow fadeInUp">
               <br>
               <br>
-              <img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia6.jpg') }}" alt="" width="600" height="300"/>
+              <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                          <img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia6.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
             </div>
             <div class="col-md-6 col-lg-6 wow fadeInUp">
               <p class="texto-descripcion">
@@ -23,7 +35,13 @@
               </p>
             </div>
             <div class="col-md-6 col-lg-6 wow fadeInUp">
-              <img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia6.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia6.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
             </div>
             <div class="col-md-6 col-lg-6 wow fadeInUp">
               <p class="texto-descripcion">

@@ -4,12 +4,24 @@
           <div class="row row-14 gutters-14">
             <div class="col-md-6">
               <div class="form-wrap">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63836.83105893815!2d-78.480322!3d-0.16417500000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb97a862b2246c7b7!2sFundacion%20Diabetes%20Juvenil%20Ecuador!5e0!3m2!1ses!2sec!4v1637962438359!5m2!1ses!2sec" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                <div class="contenedor1" style="padding: 20px">
+                    <a href="#">
+                        <figure>
+                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63836.83105893815!2d-78.480322!3d-0.16417500000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb97a862b2246c7b7!2sFundacion%20Diabetes%20Juvenil%20Ecuador!5e0!3m2!1ses!2sec!4v1637962438359!5m2!1ses!2sec" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                        </figure>
+                    </a>
+                </div>
               </div>
             </div>
             <div class="col-md-6">
               <div class="form-wrap">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63792.56731525672!2d-79.894675!3d-2.140091!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfe05a50490b05b24!2sFundaci%C3%B3n%20Diabetes%20Juvenil%20del%20Ecuador!5e0!3m2!1ses-419!2sec!4v1637962381061!5m2!1ses-419!2sec" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                <div class="contenedor1" style="padding: 20px">
+                    <a href="#">
+                        <figure>
+                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63792.56731525672!2d-79.894675!3d-2.140091!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfe05a50490b05b24!2sFundaci%C3%B3n%20Diabetes%20Juvenil%20del%20Ecuador!5e0!3m2!1ses-419!2sec!4v1637962381061!5m2!1ses-419!2sec" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                        </figure>
+                    </a>
+                </div>
               </div>
             </div>
           </div>
@@ -95,30 +107,30 @@
                   <label  >Selecione la Provincia</label>
                   <br>
                   <select class="form-control" wire:model="province">
-                    <option value="Azuay">Azuay</option>  
-                    <option value="Cañar">Cañar</option>  
-                    <option value="Loja">Loja</option>  
-                    <option value="Carchi">Carchi</option>  
-                    <option value="Imbabura">Imbabura</option>  
-                    <option value="Pichincha">Pichincha</option>  
-                    <option value="Cotopaxi">Cotopaxi</option>  
-                    <option value="Tungurahua">Tungurahua</option>  
-                    <option value="Bolívar">Bolívar</option>  
-                    <option value="Chimborazo">Chimborazo</option>  
-                    <option value="Sto. Domingo de los Tsachilas">Sto. Domingo de los Tsachilas</option>  
-                    <option value="Esmeraldas">Esmeraldas</option>  
-                    <option value="Manabí">Manabí</option>  
-                    <option value="Guayas">Guayas</option>  
-                    <option value="Los Ríos">Los Ríos</option>  
-                    <option value="El Oro">El Oro</option>  
-                    <option value="Santa Elena">Santa Elena</option>  
-                    <option value="Sucumbíos">Sucumbíos</option>  
-                    <option value="Napo">Napo</option>  
-                    <option value="Pastaza">Pastaza</option>  
-                    <option value="Orellana">Orellana</option>  
-                    <option value="Morona Santiago">Morona Santiago</option>  
-                    <option value="Zamora Chinchipe">Zamora Chinchipe</option>  
-                    <option value="Galápagos">Galápagos</option>  
+                    <option value="Azuay">Azuay</option>
+                    <option value="Cañar">Cañar</option>
+                    <option value="Loja">Loja</option>
+                    <option value="Carchi">Carchi</option>
+                    <option value="Imbabura">Imbabura</option>
+                    <option value="Pichincha">Pichincha</option>
+                    <option value="Cotopaxi">Cotopaxi</option>
+                    <option value="Tungurahua">Tungurahua</option>
+                    <option value="Bolívar">Bolívar</option>
+                    <option value="Chimborazo">Chimborazo</option>
+                    <option value="Sto. Domingo de los Tsachilas">Sto. Domingo de los Tsachilas</option>
+                    <option value="Esmeraldas">Esmeraldas</option>
+                    <option value="Manabí">Manabí</option>
+                    <option value="Guayas">Guayas</option>
+                    <option value="Los Ríos">Los Ríos</option>
+                    <option value="El Oro">El Oro</option>
+                    <option value="Santa Elena">Santa Elena</option>
+                    <option value="Sucumbíos">Sucumbíos</option>
+                    <option value="Napo">Napo</option>
+                    <option value="Pastaza">Pastaza</option>
+                    <option value="Orellana">Orellana</option>
+                    <option value="Morona Santiago">Morona Santiago</option>
+                    <option value="Zamora Chinchipe">Zamora Chinchipe</option>
+                    <option value="Galápagos">Galápagos</option>
                   </select>
                 </div>
               </div>

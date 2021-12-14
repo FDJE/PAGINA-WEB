@@ -13,13 +13,31 @@
             </p>
             </div>
             <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima3.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima3.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
           </div>
         </div>
@@ -30,8 +48,14 @@
                     <!-- Product Big-->
                     <article class="product-big">
                         <div class="unit flex-column flex-md-row align-items-md-stretch">
-                            <div class="unit-left "><a class="product-big-figure" href="#">
-                                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima8.jpg') }}" alt="" /></a>
+                            <div class="unit-left ">
+                                <div class="contenedor1" style="padding: 20px">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima8.jpg') }}" alt="" />
+                                        </figure>
+                                    </a>
+                                </div>
                             </div>
                             <div class="unit-body">
                                 <div class="product-big-body">
@@ -46,7 +70,6 @@
                     <!-- Product Big-->
                     <article class="product-big">
                         <div class="unit flex-column flex-md-row align-items-md-stretch">
-
                             <div class="unit-body">
                                 <div class="product-big-body">
                                     <p style="text-align: justify;" class="texto-descripcion">
@@ -54,20 +77,30 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                src="{{ asset('assets/images/fundacionImagenes/nosotros/ima9.jpg') }}" alt="" width="600"
-                                height="366" /></a></div>
+                            <div class="unit-left">
+                                <div class="contenedor1" style="padding: 20px">
+                                    <a href="#">
+                                        <figure>
+                                         <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima9.jpg') }}" alt="" width="600" height="366" />
+                                        </figure>
+                                    </a>
+                                </div>
                         </div>
-
                     </article>
                 </div>
                 <div class="col-sm-12 col-md-12 wow fadeInRight">
                     <!-- Product Big 3-->
                     <article class="product-big">
                         <div class="unit flex-column flex-md-row align-items-md-stretch">
-                            <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                        src="{{ asset('assets/images/fundacionImagenes/nosotros/ima10.jpg') }}" alt="" width="600"
-                                        height="366" /></a></div>
+                            <div class="unit-left">
+                                <div class="contenedor1" style="padding: 20px">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima10.jpg') }}" alt="" width="600" height="366" />
+                                        </figure>
+                                    </a>
+                                </div>
+                            </div>
                             <div class="unit-body">
                                 <div class="product-big-body">
                                     <p style="text-align: justify;" class="texto-descripcion">
@@ -88,9 +121,15 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                src="{{ asset('assets/images/fundacionImagenes/nosotros/ima11.jpg') }}" alt="" width="600"
-                                height="366" /></a></div>
+                            <div class="unit-left">
+                                <div class="contenedor1" style="padding: 20px">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima11.jpg') }}" alt="" width="600" height="366" />
+                                        </figure>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </article>
                 </div>
@@ -98,10 +137,16 @@
                     <!-- Product Big 5-->
                     <article class="product-big">
                         <div class="unit flex-column flex-md-row align-items-md-stretch">
-                            <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                        src="{{ asset('assets/images/fundacionImagenes/nosotros/ima12.jpg') }}" alt="" width="600"
-                                        height="366" /></a></div>
-                            <div class="unit-body">
+                            <div class="unit-left">
+                                <div class="contenedor1" style="padding: 20px">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima12.jpg') }}" alt="" width="600" height="366" />
+                                        </figure>
+                                    </a>
+                                </div>
+                                    </div>
+                                <div class="unit-body">
                                 <div class="product-big-body">
                                     <p style="text-align: justify;" class="texto-descripcion">
                                         “En particular el haber conocido las casas de los niños con DM1 acogidos en el programa de Apadrinamiento hizo que de alguna forma como líderes valoremos más lo que tenemos y aprendamos a poner los pies sobre la tierra” Juan José Salazar, 20 años.
@@ -121,9 +166,15 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                src="{{ asset('assets/images/fundacionImagenes/nosotros/ima5.jpg') }}" alt="" width="600"
-                                height="366" /></a></div>
+                            <div class="unit-left">
+                                <div class="contenedor1" style="padding: 20px">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima5.jpg') }}" alt="" width="600" height="366" />
+                                        </figure>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </article>
                 </div>
@@ -131,9 +182,15 @@
                     <!-- Product Big 7-->
                     <article class="product-big">
                         <div class="unit flex-column flex-md-row align-items-md-stretch">
-                            <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                        src="{{ asset('assets/images/fundacionImagenes/nosotros/ima6.jpg') }}" alt="" width="600"
-                                        height="366" /></a></div>
+                            <div class="unit-left">
+                                <div class="contenedor1" style="padding: 20px">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima6.jpg') }}" alt="" width="600" height="366" />
+                                        </figure>
+                                    </a>
+                                </div>
+                            </div>
                             <div class="unit-body">
                                 <div class="product-big-body">
                                     <p style="text-align: justify;" class="texto-descripcion">

@@ -7,15 +7,23 @@
                         <!-- Product Big-->
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch" style="min-height: 73%;" >
-                                <div class="unit-left" ><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia1.png') }}" alt="" width="600"
-                                            height="366" /></a></div>
+                                <div class="unit-left" >
+                                    <div class="contenedor1" style="padding: 20px">
+                                        <a href="#">
+                                            <figure>
+                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia1.png') }}" alt="" width="600"
+                                                height="366" />
+                                            </figure>
+                                        </a>
+                                    </div>
+                                </div>
                                 <div class="unit-body texto-descripcion">
                                     <div class="product-big-body" >
                                         <p>Una metodología narrativa utilizada en Brasil explica cómo una familia se adapta a una enfermedad crónica
                                             y la llama un “visitante inesperado”, debido a que llega sin invitación y sin ser anunciad.</p>
                                     </div>
                                 </div>
+                            </div>
                         </article>
                     </div>
                     <div class="col-sm-12 col-md-12 wow fadeInLeft">
@@ -32,9 +40,15 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                    src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia2.png') }}" alt="" width="600"
-                                    height="366" /></a></div>
+                                <div class="unit-left">
+                                    <div class="contenedor1" style="padding: 20px">
+                                        <a href="#">
+                                            <figure>
+                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia2.png') }}" alt="" width="600" height="366" />
+                                            </figure>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </article>
                     </div>
@@ -42,9 +56,16 @@
                         <!-- Product Big 3-->
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
-                                <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia3.png') }}" alt="" width="600"
-                                            height="366" /></a></div>
+                                <div class="unit-left">
+                                    <div class="contenedor1" style="padding: 20px">
+                                        <a href="#">
+                                            <br>
+                                            <figure>
+                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia3.png') }}" alt="" width="600" height="366" />
+                                            </figure>
+                                        </a>
+                                    </div>
+                                </div>
                                 <div class="unit-body texto-descripcion">
                                     <div class="product-big-body">
                                         <p>Todo aquello, desborda completamente a la familia y se encuentra en una posición que no sabe qué hacer ni cómo actuar.</p>
@@ -67,26 +88,38 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                    src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia4.png') }}" alt="" width="600"
-                                    height="366" /></a></div>
+                                <div class="unit-left">
+                                    <div class="contenedor1" style="padding: 20px">
+                                        <a href="#">
+                                            <figure>
+                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia4.png') }}" alt="" width="600" height="366" />
+                                            </figure>
+                                        </a>
+                                   </div>
+                                </div>
                             </div>
-
                         </article>
                     </div>
                     <div class="col-sm-12 col-md-12 wow fadeInRight">
                         <!-- Product Big 5-->
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
-                                <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia5.png') }}" alt="" width="600"
-                                            height="366" /></a></div>
-                                <div class="unit-body texto-descripcion">
+                                <div class="unit-left">
+                                    <div class="contenedor1" style="padding: 20px">
+                                        <a href="#">
+                                            <figure>
+                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia5.png') }}" alt="" width="600" height="366" />
+                                            </figure>
+                                        </a>
+                                   </div>
+                                </div>
+                                 <div class="unit-body texto-descripcion">
                                     <div class="product-big-body">
                                         <p>Estos ingredientes se pueden utilizar, pero necesitamos más porque la Diabetes Tipo 1 nos desafía sobremanera.
                                             Toda la familia contribuye a la “despensa de la vida” con fortalezas y virtudes.</p>
                                     </div>
                                 </div>
+                            </div>
                         </article>
                     </div>
                     <div class="col-sm-12 col-md-12 wow fadeInLeft">
@@ -100,9 +133,15 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                    src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia6.png') }}" alt="" width="600"
-                                    height="366" /></a></div>
+                                <div class="unit-left">
+                                    <div class="contenedor1" style="padding: 20px">
+                                        <a href="#">
+                                            <figure>
+                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia6.png') }}" alt="" width="600" height="366" />
+                                            </figure>
+                                        </a>
+                                   </div>
+                                </div>
                             </div>
                         </article>
                     </div>
@@ -110,15 +149,23 @@
                         <!-- Product Big 7-->
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
-                                <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia7.png') }}" alt="" width="600"
-                                            height="366" /></a></div>
+                                <div class="unit-left">
+                                    <div class="contenedor1" style="padding: 20px">
+                                        <a href="#">
+                                            <figure>
+                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia7.png') }}" alt="" width="600"
+                                            height="366" />
+                                            </figure>
+                                        </a>
+                                   </div>
+                                </div>
                                 <div class="unit-body texto-descripcion">
                                     <div class="product-big-body">
                                         <p>Sin embargo, pasa un tiempo y llega otro “visitante inesperado” llamado Coronavirus.</p>
                                         <p>Este nos vuelve a desestabilizar y trae consigo conceptos como contagio, distanciamiento social, mascarilla, lavado de manos, cuarentena, aislamiento etc.</p>
                                     </div>
                                 </div>
+                            </div>
                         </article>
                     </div>
                     <div class="col-sm-12 col-md-12 wow fadeInLeft">
@@ -130,9 +177,15 @@
                                         <p>Esto nos vuelve a desbordar y no sabemos qué hacer porque ya tenemos en casa a la Diabetes Tipo 1 como invitado, pero debemos hacer pasar al Coronavirus también.</p>
                                     </div>
                                 </div>
-                                <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                    src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia8.png') }}" alt="" width="600"
-                                    height="366" /></a></div>
+                                <div class="unit-left">
+                                    <div class="contenedor1" style="padding: 20px">
+                                        <a href="#">
+                                            <figure>
+                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia8.png') }}" alt="" width="600" height="366" />
+                                            </figure>
+                                        </a>
+                                   </div>
+                                </div>
                             </div>
                         </article>
                     </div>
@@ -140,9 +193,15 @@
                         <!-- Product Big 9-->
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
-                                <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia9.png') }}" alt="" width="600"
-                                            height="366" /></a></div>
+                                <div class="unit-left">
+                                    <div class="contenedor1" style="padding: 20px">
+                                        <a href="#">
+                                            <figure>
+                                                <img  src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia9.png') }}" alt="" width="600" height="366" />
+                                            </figure>
+                                        </a>
+                                   </div>
+                                </div>
                                 <div class="unit-body texto-descripcion">
                                     <div class="product-big-body">
                                         <p>Hay que ofrecerle algo de comida al Coronavirus también, pero tenemos dos ventajas:
@@ -151,6 +210,7 @@
                                         </p>
                                     </div>
                                 </div>
+                            </div>
                         </article>
                     </div>
                     <div class="col-sm-12 col-md-12 wow fadeInLeft">
@@ -162,22 +222,38 @@
                                         <p>Cuando abrimos nuestra despensa, nos damos cuenta de que la Diabetes Tipo 1 nos ha proporcionado muchas
                                             fortalezas y virtudes como: madurez, aceptación, independencia, paciencia, motivación, calma, compromiso, autodisciplina, adaptación etc.</p>
                                          <p>Todos estos podemos usar para hacerle frente al Coronavirus y prepararle algo rico de comer con los mismos ingredientes.</p>
-                                         <p>Probablemente desarrollemos nuevas fortalezas a raíz de la pandemia para enfrentar otros desafíos a lo largo de nuestras vidas.</p>
-                                        </div>
+                                    </div>
                                 </div>
-                                <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                    src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia10.png') }}" alt="" width="600"
-                                    height="366" /></a></div>
+                                <div class="unit-left">
+                                    <div class="contenedor1" style="padding: 20px">
+                                        <a href="#">
+                                            <br>
+                                            <figure>
+                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia10.png') }}" alt="" width="600" height="366" />
+                                            </figure>
+                                        </a>
+                                   </div>
+                                </div>
                             </div>
+                        <div class="texto-descripcion" style="padding: 0px 20px 0px 32px">
+                            <p>Probablemente desarrollemos nuevas fortalezas a raíz de la pandemia para enfrentar otros desafíos a lo largo de nuestras vidas.</p>
+                        </div>
+                        <br>
                         </article>
                     </div>
                     <div class="col-sm-12 col-md-12 wow fadeInRight">
                         <!-- Product Big 11-->
                         <article class="product-big">
                             <div class="unit flex-column flex-md-row align-items-md-stretch">
-                                <div class="unit-left"><a class="product-big-figure" href="#"><img
-                                            src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia11.png') }}" alt="" width="600"
-                                            height="366" /></a></div>
+                                <div class="unit-left">
+                                    <div class="contenedor1" style="padding: 20px">
+                                        <a href="#">
+                                            <figure>
+                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia11.png') }}" alt="" width="600" height="366" />
+                                            </figure>
+                                        </a>
+                                   </div>
+                                </div>
                                 <div class="unit-body texto-descripcion">
                                     <div class="product-big-body">
                                         <p>A nadie le gustan las crisis, pero afortunadamente ellas nos enseñan bastante y podemos usar lo que nos
@@ -186,6 +262,7 @@
                                              este tiempo difícil. ¿Qué tienes en tu despensa de la vida?</p>
                                     </div>
                                 </div>
+                            </div>
                         </article>
                     </div>
                 </div>

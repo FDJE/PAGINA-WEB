@@ -20,13 +20,31 @@
               </p>
             </div>
             <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT1.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                        <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT1.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT2.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                        <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT2.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT1.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT1.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
           </div>
         </div>
@@ -47,13 +65,31 @@
                 </p>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT3.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT3.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT5.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                         <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT5.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT3.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                          <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT3.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
             </div>
           </div>

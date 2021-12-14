@@ -10,11 +10,14 @@
           <article class="product-big">
             <div class="unit flex-column flex-md-row align-items-md-stretch">
               <div class="unit-left">
-                <a class="product-big-figure" href="#">
-                  <img src="{{ asset('assets/images/fundacionImagenes/educacion/enfermedad.png') }}" alt="" width="600" height="366" />
-                </a>
+                <div class="contenedor1" style="padding: 20px">
+                    <a href="#">
+                        <figure>
+                         <img src="{{ asset('assets/images/fundacionImagenes/educacion/enfermedad.png') }}" alt="" width="600" height="366" />
+                        </figure>
+                    </a>
+                </div>
               </div>
-
               <div class="unit-body texto-descripcion">
                 <div class="product-big-body">
                   <h5 class="product-big-title" style=" color:#EF8232"><a href="#">Diabetes y Enfermedad</a>
@@ -27,15 +30,15 @@
                 </div>
                 </div>
               </div>
+              <p class="texto-descripcion" style="padding: 0px 44px 0px 20px">
+                Existe evidencia que demuestra que una diabetes mal controlada, con un mal
+                control metabólico, puede alterar el sistema inmune, aumentar la probabilidad de enfermar y prolongar la recuperación.
+                <br>
+                <br>
+                En muchos lugares del mundo, el cuidado de la diabetes en niños y adolescentes es inadecuada debido a la falta de recursos,
+                un deficiente sistema de salud, falta de especialistas en diabetes tipo 1, así como el costo elevado del tratamiento.</p>
             </div>
           </article>
-          <p class="texto-descripcion">
-            Existe evidencia que demuestra que una diabetes mal controlada, con un mal
-            control metabólico, puede alterar el sistema inmune, aumentar la probabilidad de enfermar y prolongar la recuperación.
-            <br>
-            <br>
-            En muchos lugares del mundo, el cuidado de la diabetes en niños y adolescentes es inadecuada debido a la falta de recursos,
-            un deficiente sistema de salud, falta de especialistas en diabetes tipo 1, así como el costo elevado del tratamiento.</p>
         </div>
       </div>
     <!-- What people Say-->

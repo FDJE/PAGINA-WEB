@@ -16,13 +16,31 @@
               </p>
             </div>
             <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima3.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima3.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
           </div>
           <div class="row row-30">
@@ -35,13 +53,31 @@
              </p>
             </div>
             <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima4.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima4.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima5.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima5.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima4.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima4.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
           </div>
           <div class="row row-30">
@@ -52,13 +88,31 @@
               </p>
             </div>
             <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima6.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima6.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima7.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima7.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima6.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima6.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
           </div>
           <div class="row row-30">
@@ -69,13 +123,31 @@
               </p>
             </div>
             <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima8.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima8.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima9.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima9.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima8.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima8.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
           </div>
           <div class="row row-30">
@@ -86,13 +158,31 @@
               </p>
             </div>
             <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima10.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima10.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
+                <div class="col-md-4 col-lg-4 wow fadeInUp">
+                  <div class="contenedor1">
+                        <a href="#">
+                           <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima11.jpg') }}" alt="" width="600" height="300"/>
+                            </figure>
+                        </a>
+                    </div>
+                </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima11.jpg') }}" alt="" width="600" height="300"/>
-              </div>
-              <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima10.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima10.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
           </div>
           <div class="row row-30">
@@ -103,13 +193,31 @@
               </p>
             </div>
             <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima1.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima1.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima2.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                 </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima1.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima1.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
           </div>
           <div class="row row-30">
@@ -120,13 +228,31 @@
               </p>
             </div>
             <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima3.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima3.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima4.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima4.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima3.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima3.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
           </div>
           <div class="row row-30">
@@ -137,13 +263,31 @@
               </p>
             </div>
             <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima5.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima5.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima6.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima6.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima5.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima5.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
           </div>
           <div class="row row-30">
@@ -154,13 +298,31 @@
               </p>
             </div>
             <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima7.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima7.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima8.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima8.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima7.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima7.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
           </div>
           <div class="row row-30">
@@ -171,13 +333,31 @@
               </p>
             </div>
             <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima9.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima9.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima10.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima10.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima9.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima9.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
           </div>
           <div class="row row-30">
@@ -188,13 +368,31 @@
               </p>
             </div>
             <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima11.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima11.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima1.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima1.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
               <div class="col-md-4 col-lg-4 wow fadeInUp">
-                <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima11.jpg') }}" alt="" width="600" height="300"/>
+                <div class="contenedor1">
+                    <a href="#">
+                        <figure>
+                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/ima11.jpg') }}" alt="" width="600" height="300"/>
+                        </figure>
+                    </a>
+                </div>
               </div>
           </div>
         </div>
