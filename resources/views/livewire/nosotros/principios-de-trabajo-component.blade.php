@@ -23,7 +23,7 @@
                 <div class="contenedor1">
                     <a href="#">
                         <figure>
-                        <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT1.jpg') }}" alt="" width="600" height="300"/>
+                        <img src="{{ asset('assets/images/fundacion/nosotros/foto30.jpg') }}" alt="" width="600" height="300"/>
                         </figure>
                     </a>
                  </div>
@@ -32,7 +32,7 @@
                 <div class="contenedor1">
                     <a href="#">
                         <figure>
-                        <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT2.jpg') }}" alt="" width="600" height="300"/>
+                        <img src="{{ asset('assets/images/fundacion/nosotros/foto9.jpg') }}" alt="" width="600" height="300"/>
                         </figure>
                     </a>
                  </div>
@@ -41,7 +41,7 @@
                 <div class="contenedor1">
                     <a href="#">
                         <figure>
-                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT1.jpg') }}" alt="" width="600" height="300"/>
+                            <img src="{{ asset('assets/images/fundacion/nosotros/foto38.jpg') }}" alt="" width="600" height="300"/>
                         </figure>
                     </a>
                  </div>
@@ -68,7 +68,7 @@
                 <div class="contenedor1">
                     <a href="#">
                         <figure>
-                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT3.jpg') }}" alt="" width="600" height="300"/>
+                            <img src="{{ asset('assets/images/fundacion/nosotros/foto32.jpg') }}" alt="" width="600" height="300"/>
                         </figure>
                     </a>
                  </div>
@@ -77,7 +77,7 @@
                 <div class="contenedor1">
                     <a href="#">
                         <figure>
-                         <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT5.jpg') }}" alt="" width="600" height="300"/>
+                         <img src="{{ asset('assets/images/fundacion/nosotros/foto31.jpg') }}" alt="" width="600" height="300"/>
                         </figure>
                     </a>
                  </div>
@@ -86,7 +86,7 @@
                 <div class="contenedor1">
                     <a href="#">
                         <figure>
-                          <img src="{{ asset('assets/images/fundacionImagenes/nosotros/PT3.jpg') }}" alt="" width="600" height="300"/>
+                          <img src="{{ asset('assets/images/fundacion/nosotros/foto8.jpg') }}" alt="" width="600" height="300"/>
                         </figure>
                     </a>
                  </div>

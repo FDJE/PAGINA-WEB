@@ -6,7 +6,7 @@
                <div class="contenedor1">
                   <a href="#">
                     <figure>
-                     <img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia5.jpg') }}" alt="" width="600" height="300"/>
+                     <img src="{{ asset('assets/images/fundacion/nosotros/foto3.jpg') }}" alt="" width="600" height="300"/>
                     </figure>
                   </a>
                </div>
@@ -21,7 +21,7 @@
               <div class="contenedor1">
                     <a href="#">
                         <figure>
-                          <img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia6.jpg') }}" alt="" width="600" height="300"/>
+                          <img src="{{ asset('assets/images/fundacion/nosotros/foto10.jpg') }}" alt="" width="600" height="300"/>
                         </figure>
                     </a>
                 </div>
@@ -38,7 +38,7 @@
                 <div class="contenedor1">
                     <a href="#">
                         <figure>
-                            <img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia6.jpg') }}" alt="" width="600" height="300"/>
+                            <img src="{{ asset('assets/images/fundacion/nosotros/foto34.jpg') }}" alt="" width="600" height="300"/>
                         </figure>
                     </a>
                 </div>

@@ -11,7 +11,7 @@
                       <div class="contenedor1" style="padding: 20px">
                            <a href="#">
                                  <figure>
-                                     <img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia6.jpg') }}" alt="" width="600" height="366"/>
+                                     <img src="{{ asset('assets/images/fundacion/nosotros/foto14.jpg') }}" alt="" width="600" height="366"/>
                                </figure>
                             </a>
                         </div>
@@ -46,7 +46,7 @@
                     <div class="contenedor1" style="padding: 20px">
                         <a href="#">
                             <figure>
-                              <img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia7.jpg') }}" alt="" width="600" height="366"/>
+                              <img src="{{ asset('assets/images/fundacion/nosotros/foto16.jpg') }}" alt="" width="600" height="366"/>
                             </figure>
                         </a>
                     </div>
@@ -172,30 +172,30 @@
             <div class="owl-carousel owl-classic owl-dots-secondary" data-items="1" data-sm-items="2" data-md-items="3" data-lg-items="4" data-xl-items="4" data-xxl-items="4" data-stage-padding="15" data-xxl-stage-padding="0" data-margin="30" data-autoplay="true" data-nav="true" data-dots="true">
               <!-- Thumbnail Classic-->
               <article class="thumbnail thumbnail-mary">
-                <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia8.jpg') }}" alt="" width="270" height="195"/>
+                <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacion/nosotros/foto1.jpg') }}" alt="" width="270" height="195"/>
                 </div>
-                <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/nosotros/Historia8.jpg') }}" data-lightgallery="item"><img src="{{ asset('assets/images/gallery-image-14-1200x800-original.jpg') }}" alt="" width="420" height="308"/></a>
-                </div>
-              </article>
-              <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-mary">
-                <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia9.jpg') }}" alt="" width="270" height="195"/>
-                </div>
-                <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/nosotros/Historia9.jpg') }}" data-lightgallery="item"><img src="{{ asset('assets/images/gallery-image-14-1200x800-original.jpg') }}" alt="" width="420" height="308"/></a>
+                <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacion/nosotros/foto1.jpg') }}" data-lightgallery="item"><img src="{{ asset('assets/images/gallery-image-14-1200x800-original.jpg') }}" alt="" width="420" height="308"/></a>
                 </div>
               </article>
               <!-- Thumbnail Classic-->
               <article class="thumbnail thumbnail-mary">
-                <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia10.jpg') }}" alt="" width="270" height="195"/>
+                <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacion/nosotros/foto2.jpg') }}" alt="" width="270" height="195"/>
                 </div>
-                <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/nosotros/Historia10.jpg') }}" data-lightgallery="item"><img src="{{ asset('assets/images/gallery-image-14-1200x800-original.jpg') }}" alt="" width="420" height="308"/></a>
+                <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacion/nosotros/foto2.jpg') }}" data-lightgallery="item"><img src="{{ asset('assets/images/gallery-image-14-1200x800-original.jpg') }}" alt="" width="420" height="308"/></a>
                 </div>
               </article>
               <!-- Thumbnail Classic-->
               <article class="thumbnail thumbnail-mary">
-                <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/nosotros/Historia11.jpg') }}" alt="" width="270" height="195"/>
+                <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacion/nosotros/foto12.jpg') }}" alt="" width="270" height="195"/>
                 </div>
-                <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/nosotros/Historia11.jpg') }}" data-lightgallery="item"><img src="{{ asset('assets/images/gallery-image-14-1200x800-original.jpg') }}" alt="" width="420" height="308"/></a>
+                <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacion/nosotros/foto12.jpg') }}" data-lightgallery="item"><img src="{{ asset('assets/images/gallery-image-14-1200x800-original.jpg') }}" alt="" width="420" height="308"/></a>
+                </div>
+              </article>
+              <!-- Thumbnail Classic-->
+              <article class="thumbnail thumbnail-mary">
+                <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacion/nosotros/foto36.jpg') }}" alt="" width="270" height="195"/>
+                </div>
+                <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacion/nosotros/foto36.jpg') }}" data-lightgallery="item"><img src="{{ asset('assets/images/gallery-image-14-1200x800-original.jpg') }}" alt="" width="420" height="308"/></a>
                 </div>
               </article>
             </div>
