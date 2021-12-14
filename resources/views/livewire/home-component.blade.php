@@ -89,7 +89,7 @@
                     <div class="unit-left"><a class="product-big-figure" href="#"><img src="{{ asset('assets/images/home/proyectos') }}/{{$project->image}}" alt="" width="600" height="366"/></a></div>
                     <div class="unit-body">
                       <div class="product-big-body">
-                        <h5 class="product-big-title"><a href="#">{{ $project->name }}</a></h5>
+                        <h5 class="product-big-title" style="text-transform: uppercase;"><a href="#">{{ $project->name }}</a></h5>
                         <p class="product-big-text" style="color:#2F3A8E; font-size: 16px">{!! $project->short_description !!}</p>
                       </div>
                     </div>
