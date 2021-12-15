@@ -10,7 +10,7 @@
                                     <div class="contenedor1" style="padding: 20px">
                                         <a href="#">
                                             <figure>
-                                            <img src="{{ asset('assets/images/fundacionImagenes/educacion/ima6.png') }}" alt="" width="600" style="height: 320px"/>
+                                            <img src="{{ asset('assets/images/fundacion/educacion/img38.jpg') }}" alt="" width="600" style="height: 320px"/>
                                             </figure>
                                         </a>
                                     </div>
@@ -134,7 +134,7 @@
                                     <div class="contenedor1" style="padding: 20px">
                                         <a href="#">
                                             <figure>
-                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/ima5.png') }}" alt="" width="600" height="366" /></a></div>
+                                                <img src="{{ asset('assets/images/fundacion/educacion/img51.jpg') }}" alt="" width="600" height="366" /></a></div>
                                             </figure>
                                         </a>
                                    </div>
@@ -183,7 +183,7 @@
                                     <div class="contenedor1" style="padding: 20px">
                                         <a href="#">
                                             <figure>
-                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/ima2.png') }}" alt="" width="600" height="366" /></a></div>
+                                                <img src="{{ asset('assets/images/fundacion/educacion/img46.jpg') }}" alt="" width="600" height="366" /></a></div>
                                             </figure>
                                         </a>
                                    </div>

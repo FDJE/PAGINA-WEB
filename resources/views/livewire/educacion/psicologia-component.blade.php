@@ -44,7 +44,7 @@
                                     <div class="contenedor1" style="padding: 20px">
                                         <a href="#">
                                             <figure>
-                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia2.png') }}" alt="" width="600" height="366" />
+                                                <img src="{{ asset('assets/images/fundacion/educacion/img23.jpg') }}" alt="" width="600" height="366" />
                                             </figure>
                                         </a>
                                     </div>
@@ -61,7 +61,7 @@
                                         <a href="#">
                                             <br>
                                             <figure>
-                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia3.png') }}" alt="" width="600" height="366" />
+                                                <img src="{{ asset('assets/images/fundacion/educacion/img25.jpg') }}" alt="" width="600" height="366" />
                                             </figure>
                                         </a>
                                     </div>
@@ -92,7 +92,7 @@
                                     <div class="contenedor1" style="padding: 20px">
                                         <a href="#">
                                             <figure>
-                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia4.png') }}" alt="" width="600" height="366" />
+                                                <img src="{{ asset('assets/images/fundacion/educacion/img15.jpg') }}" alt="" width="600" height="366" />
                                             </figure>
                                         </a>
                                    </div>
@@ -108,7 +108,7 @@
                                     <div class="contenedor1" style="padding: 20px">
                                         <a href="#">
                                             <figure>
-                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia5.png') }}" alt="" width="600" height="366" />
+                                                <img src="{{ asset('assets/images/fundacion/educacion/img50.jpg') }}" alt="" width="600" height="366" />
                                             </figure>
                                         </a>
                                    </div>
@@ -137,7 +137,7 @@
                                     <div class="contenedor1" style="padding: 20px">
                                         <a href="#">
                                             <figure>
-                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia6.png') }}" alt="" width="600" height="366" />
+                                                <img src="{{ asset('assets/images/fundacion/educacion/img44.jpg') }}" alt="" width="600" height="366" />
                                             </figure>
                                         </a>
                                    </div>
@@ -153,7 +153,7 @@
                                     <div class="contenedor1" style="padding: 20px">
                                         <a href="#">
                                             <figure>
-                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia7.png') }}" alt="" width="600"
+                                                <img src="{{ asset('assets/images/fundacion/educacion/img58.jpg') }}" alt="" width="600"
                                             height="366" />
                                             </figure>
                                         </a>
@@ -181,7 +181,7 @@
                                     <div class="contenedor1" style="padding: 20px">
                                         <a href="#">
                                             <figure>
-                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia8.png') }}" alt="" width="600" height="366" />
+                                                <img src="{{ asset('assets/images/fundacion/educacion/img21.jpg') }}" alt="" width="600" height="366" />
                                             </figure>
                                         </a>
                                    </div>
@@ -197,7 +197,7 @@
                                     <div class="contenedor1" style="padding: 20px">
                                         <a href="#">
                                             <figure>
-                                                <img  src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia9.png') }}" alt="" width="600" height="366" />
+                                                <img  src="{{ asset('assets/images/fundacion/educacion/img40.jpg') }}" alt="" width="600" height="366" />
                                             </figure>
                                         </a>
                                    </div>
@@ -229,7 +229,7 @@
                                         <a href="#">
                                             <br>
                                             <figure>
-                                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/psicologia10.png') }}" alt="" width="600" height="366" />
+                                                <img src="{{ asset('assets/images/fundacion/educacion/img36.jpg') }}" alt="" width="600" height="366" />
                                             </figure>
                                         </a>
                                    </div>

@@ -13,7 +13,7 @@
                 <div class="contenedor1" style="padding: 20px">
                     <a href="#">
                         <figure>
-                         <img src="{{ asset('assets/images/fundacionImagenes/educacion/enfermedad.png') }}" alt="" width="600" height="366" />
+                         <img src="{{ asset('assets/images/fundacion/educacion/img43.jpg') }}" alt="" width="600" height="366" />
                         </figure>
                     </a>
                 </div>
