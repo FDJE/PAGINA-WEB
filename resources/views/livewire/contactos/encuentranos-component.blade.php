@@ -35,6 +35,7 @@
                   <br>
                   <div class="box-contacts-icon fl-bigmug-line-cellphone55"></div>
                   <div class="box-contacts-decor"></div>
+                  <p class="box-contacts-link"><a href="#">Isla Santa Fé N43-65 y Tomás de Berlanga.</a></p>
                   <p class="box-contacts-link"><a href="tel:#">(02) 2462-439</a></p>
                   <p class="box-contacts-link"><a href="tel:#">(02) 2447-140</a></p>
                   <div class="unit-body" style="padding-top: 10px;"><a class="link-phone" href="https://api.whatsapp.com/send/?phone=593998740762&text&app_absent=0" target="_blank"><span class="icon fa fa-whatsapp" style="padding-right: 5px"></span>Más información escribenos al 0998740762</a></div>
@@ -45,9 +46,9 @@
               <article class="box-contacts">
                 <div class="box-contacts-body">
                   <p class="box-contacts-link"><a href="#">Guayaquil</a></p>
-                  <br>
                   <div class="box-contacts-icon fl-bigmug-line-cellphone55"></div>
                   <div class="box-contacts-decor"></div>
+                  <p class="box-contacts-link"><a href="#">Alborada 4ta. Etapa, Mz Fi, Villa 8 (3 cuadras atrás de Albocentro 1).</a></p>
                   <p class="box-contacts-link"><a href="https://api.whatsapp.com/send/?phone=593988522172&text&app_absent=0">0988522172</a></p>
                   <br>
                   <div class="unit-body" style="padding-top: 10px;"><a class="link-phone" href="https://api.whatsapp.com/send/?phone=593988522172&text&app_absent=0" target="_blank"><span class="icon fa fa-whatsapp" style="padding-right: 5px"></span>Más información escribenos al 0988522172</a></div>
