@@ -149,9 +149,9 @@
                 <div class="rd-navbar-nav-wrap">
                   <ul class="list-inline list-inline-md rd-navbar-corporate-list-social">
                     <li><a class="icon fa fa-facebook" href="https://www.facebook.com/fdjecuador" target="_blank" style="color:rgb(74, 51, 207)"></a></li>
-                    <li><a class="icon fa fa-twitter" href="https://twitter.com/FDJECUADOR" target="_blank" style="color:rgb(25, 189, 201)"></a></li>
                     <li><a class="icon fa fa-youtube" href="https://www.youtube.com/channel/UCh2mvgQ7Cd6dW52o1-D3eDQ" target="_blank" style="color:rgb(255, 0, 0)"></a></li>
                     <li><a class="icon fa fa-instagram" href="https://www.instagram.com/diabetesjuvenilecuador/" target="_blank" style="color:rgb(121, 25, 116)"></a></li>
+                    <li><a class="icon fa fa-twitter" href="https://twitter.com/FDJECUADOR" target="_blank" style="color:rgb(25, 189, 201)"></a></li>
                   </ul>
                   <!-- RD Navbar Nav-->
                   <ul class="rd-navbar-nav">
@@ -214,9 +214,10 @@
                 <div>
                   <ul class="list-inline list-inline-sm footer-social-list-2">
                     <li><a class="icon fa fa-facebook" href="https://www.facebook.com/fdjecuador" target="_blank"></a></li>
-                    <li><a class="icon fa fa-twitter" href="https://twitter.com/FDJECUADOR" target="_blank"></a></li>
+                    <li><a class="icon fa-blog" href="http://diabetestipo1ecuador.blogspot.com/" target="_blank"></a></li>
                     <li><a class="icon fa fa-youtube" href="https://www.youtube.com/channel/UCh2mvgQ7Cd6dW52o1-D3eDQ" target="_blank"></a></li>
                     <li><a class="icon fa fa-instagram" href="https://www.instagram.com/diabetesjuvenilecuador/" target="_blank"></a></li>
+                    <li><a class="icon fa fa-twitter" href="https://twitter.com/FDJECUADOR" target="_blank"></a></li>
                     <li><a class="icon fa fa-user" href="{{route('login')}}"></a></li>
                   </ul>
                 </div>

@@ -31,8 +31,8 @@
             <div class="col-sm-6 col-md-6 col-lg-6">
               <article class="box-contacts">
                 <div class="box-contacts-body">
+                    <br>
                   <p class="box-contacts-link"><a href="#">Quito</a></p>
-                  <br>
                   <div class="box-contacts-icon fl-bigmug-line-cellphone55"></div>
                   <div class="box-contacts-decor"></div>
                   <p class="box-contacts-link"><a href="#">Isla Santa Fé N43-65 y Tomás de Berlanga.</a></p>
@@ -45,6 +45,7 @@
             <div class="col-sm-6 col-md-6 col-lg-6">
               <article class="box-contacts">
                 <div class="box-contacts-body">
+                    <br>
                   <p class="box-contacts-link"><a href="#">Guayaquil</a></p>
                   <div class="box-contacts-icon fl-bigmug-line-cellphone55"></div>
                   <div class="box-contacts-decor"></div>

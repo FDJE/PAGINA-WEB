@@ -15,6 +15,15 @@
                 </div>
                 <!-- Thumbnail Classic-->
                 <div class="owl-item">
+                    <article class="thumbnail thumbnail-mary">
+                    <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacion/galeriacampoamigo/galeria19.jpg') }}" alt="" width="420" height="308"/>
+                    </div>
+                    <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacion/galeriacampoamigo/galeria19.jpg') }}" data-lightgallery="item"><img src="assets/images/fundacionImagenes/galeria/campo-amigo-cc1.png" alt="" width="420" height="308"/></a>
+                    </div>
+                    </article>
+                </div>
+                <!-- Thumbnail Classic-->
+                <div class="owl-item">
                   <article class="thumbnail thumbnail-mary">
                   <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacion/galeriacampoamigo/galeria2.jpg') }}" alt="" width="420" height="308"/>
                   </div>
@@ -46,7 +55,25 @@
             <h5 style=" color:#ff7043">PROGRAMA DE APADRINAMIENTO</h5>
               <!-- Owl Carousel-->
             <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="3" data-lg-items="4" data-xl-items="4" data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
-                  <!-- Thumbnail Classic-->
+                <!-- Thumbnail Classic-->
+                <div class="owl-item">
+                    <article class="thumbnail thumbnail-mary">
+                    <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacion/educacion/img30.jpg') }}" alt="" width="420" height="308"/>
+                    </div>
+                    <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacion/educacion/img30.jpg') }}" data-lightgallery="item"><img src="assets/images/fundacionImagenes/galeria/apadrinamiento2.jpg" alt="" width="420" height="308"/></a>
+                    </div>
+                    </article>
+              </div>
+              <!-- Thumbnail Classic-->
+              <div class="owl-item">
+                <article class="thumbnail thumbnail-mary">
+                <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacion/educacion/img26.jpg') }}" alt="" width="420" height="308"/>
+                </div>
+                <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacion/educacion/img26.jpg') }}" data-lightgallery="item"><img src="assets/images/fundacionImagenes/galeria/apadrinamiento2.jpg" alt="" width="420" height="308"/></a>
+                </div>
+                </article>
+          </div>
+                <!-- Thumbnail Classic-->
                 <div class="owl-item">
                       <article class="thumbnail thumbnail-mary">
                       <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/galeria/apadrinamiento2.jpg') }}" alt="" width="420" height="308"/>
@@ -61,15 +88,6 @@
                     <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/galeria/apadrinamiento3.jpg') }}" alt="" width="420" height="308"/>
                     </div>
                     <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/galeria/apadrinamiento3.jpg') }}" data-lightgallery="item"><img src="assets/images/fundacionImagenes/galeria/apadrinamiento3.jpg" alt="" width="420" height="308"/></a>
-                    </div>
-                    </article>
-              </div>
-                  <!-- Thumbnail Classic-->
-                  <div class="owl-item">
-                    <article class="thumbnail thumbnail-mary">
-                    <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/galeria/apadrinamiento4.jpg') }}" alt="" width="420" height="308"/>
-                    </div>
-                    <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/galeria/apadrinamiento4.jpg') }}" data-lightgallery="item"><img src="assets/images/fundacionImagenes/galeria/apadrinamiento4.jpg" alt="" width="420" height="308"/></a>
                     </div>
                     </article>
               </div>
@@ -147,6 +165,15 @@
                       <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacionImagenes/galeria/escuelalideres24.jpg') }}" data-lightgallery="item"><img src="assets/images/fundacionImagenes/galeria/escuelalideres24.jpg" alt="" width="420" height="308"/></a>
                       </div>
                       </article>
+                </div>
+                <!-- Thumbnail Classic-->
+                <div class="owl-item">
+                    <article class="thumbnail thumbnail-mary">
+                    <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacion/educacion/img27.jpg') }}" alt="" width="420" height="308"/>
+                    </div>
+                    <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacion/educacion/img27.jpg') }}" data-lightgallery="item"><img src="assets/images/fundacionImagenes/galeria/apadrinamiento3.jpg" alt="" width="420" height="308"/></a>
+                    </div>
+                    </article>
                 </div>
                   <!-- Thumbnail Classic-->
                   <div class="owl-item">
@@ -292,7 +319,16 @@
             <h5 style=" color:#ff7043">CAMPAÑA DE SENSIBILIZACIÓN SOBRE DIABETES</h5>
               <!-- Owl Carousel-->
             <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="3" data-lg-items="3" data-xl-items="4" data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
-                  <!-- Thumbnail Classic-->
+                 <!-- Thumbnail Classic-->
+                <div class="owl-item">
+                    <article class="thumbnail thumbnail-mary">
+                    <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacion/educacion/img20.jpg') }}" alt="" width="420" height="308"/>
+                    </div>
+                    <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{{ asset('assets/images/fundacion/educacion/img20.jpg') }}" data-lightgallery="item"><img src="assets/images/fundacionImagenes/galeria/apadrinamiento3.jpg" alt="" width="420" height="308"/></a>
+                    </div>
+                    </article>
+                </div>
+                <!-- Thumbnail Classic-->
                 <div class="owl-item">
                       <article class="thumbnail thumbnail-mary">
                       <div class="thumbnail-mary-figure"><img src="{{ asset('assets/images/fundacionImagenes/galeria/campania71.jpg') }}" alt="" width="420" height="308"/>
