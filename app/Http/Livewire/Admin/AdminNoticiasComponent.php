@@ -12,9 +12,9 @@ class AdminNoticiasComponent extends Component
     public function deleteNotice($id)
     {
         $notice = Notice::find($id);
-        if ($notice->image) 
+        if ($notice->image)
         {
-            unlink('assets/images//home/noticias'.'/'.$notice->image);
+            unlink('assets/images/home/noticias'.'/'.$notice->image);
         }
 
         $notice->delete();

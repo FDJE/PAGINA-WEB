@@ -13,9 +13,9 @@ class AdminEventosComponent extends Component
     public function deleteEvent($id)
     {
         $event = Event::find($id);
-        if ($event->image) 
+        if ($event->image)
         {
-            unlink('assets/images//home/eventos'.'/'.$event->image);
+            unlink('assets/images/home/eventos'.'/'.$event->image);
         }
 
         $event->delete();

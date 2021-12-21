@@ -12,9 +12,9 @@ class AdminAlianzasComponent extends Component
     public function deleteAliance($id)
     {
         $aliance = Aliance::find($id);
-        if ($aliance->image) 
+        if ($aliance->image)
         {
-            unlink('assets/images//home/alianzas'.'/'.$aliance->image);
+            unlink('assets/images/home/alianzas'.'/'.$aliance->image);
         }
 
         $aliance->delete();
