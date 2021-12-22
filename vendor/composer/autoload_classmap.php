@@ -55,6 +55,7 @@ return array(
     'App\\Http\\Livewire\\Nosotros\\PrincipiosDeTrabajoComponent' => $baseDir . '/app/Http/Livewire/Nosotros/PrincipiosDeTrabajoComponent.php',
     'App\\Http\\Livewire\\Nosotros\\TransparenciaInstitucionalComponent' => $baseDir . '/app/Http/Livewire/Nosotros/TransparenciaInstitucionalComponent.php',
     'App\\Http\\Livewire\\Servicios\\AssesoriaNutricionalComponent' => $baseDir . '/app/Http/Livewire/Servicios/AssesoriaNutricionalComponent.php',
+    'App\\Http\\Livewire\\Servicios\\ComunidadComponent' => $baseDir . '/app/Http/Livewire/Servicios/ComunidadComponent.php',
     'App\\Http\\Livewire\\Servicios\\RecursosParaDescargarComponent' => $baseDir . '/app/Http/Livewire/Servicios/RecursosParaDescargarComponent.php',
     'App\\Http\\Livewire\\Servicios\\VentaDeInsumosComponent' => $baseDir . '/app/Http/Livewire/Servicios/VentaDeInsumosComponent.php',
     'App\\Http\\Middleware\\AuthAdmin' => $baseDir . '/app/Http/Middleware/AuthAdmin.php',

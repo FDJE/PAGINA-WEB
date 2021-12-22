@@ -17,6 +17,10 @@ use App\Http\Livewire\Admin\AdminMensajesComponent;
 use App\Http\Livewire\Admin\AdminNoticiasComponent;
 use App\Http\Livewire\Admin\AdminProyectosComponent;
 use App\Http\Livewire\Admin\AdminSliderComponent;
+//add
+use App\Http\Livewire\Admin\AdminEducacionComponent;
+use App\Http\Livewire\Admin\AdminAddEducacionComponent;
+use App\Http\Livewire\Admin\AdminEditEducacionComponent;
 use App\Http\Livewire\Contactos\EncuentranosComponent;
 use App\Http\Livewire\Contactos\FormulariosComponent;
 use App\Http\Livewire\DetailsComponent;
@@ -86,7 +90,7 @@ Route::get('/noticias/{slug}', DetailsNoticeComponent::class)->name('noticias.de
 
 //For Admin
 Route::middleware(['auth:sanctum', 'verified','authadmin'])->group(function(){
-    
+
     Route::get('/admin/dashboard', AdminDashboardComponent::class)->name('admin.dashboard');
 
     Route::get('/admin/slider', AdminSliderComponent::class)->name('admin.slider');
@@ -113,6 +117,10 @@ Route::middleware(['auth:sanctum', 'verified','authadmin'])->group(function(){
 
 
     Route::get('/admin/mensajes', AdminMensajesComponent::class)->name('admin.mensajes');
+    // add
+    Route::get('/admin/educacion', AdminEducacionComponent::class)->name('admin.educacion');
+    Route::get('/admin/educacion/add', AdminAddEducacionComponent::class)->name('admin.addedu');
+    Route::get('/admin/educacion/edit/{eventos_slug}', AdminEditEducacionComponent::class)->name('admin.editedu');
 }) ;
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {

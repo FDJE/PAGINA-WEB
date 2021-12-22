@@ -76,6 +76,21 @@
         max-width: 220px;
         margin: auto;
     }
+    .parrafo {
+        z-index: 1;
+        font-size: 18px;
+        line-height: 1.5;
+        text-align: justify;
+    }
+
+    .parrafo img {
+        border-radius: 5px;
+        float: left;
+        margin-right: 30px;
+        overflow: hidden;
+        border-radius: 6px;
+        box-shadow: 0px 15px 25px rgb(0 0 0 / 50%);
+    }
     </style>
 </head>
   <body>
@@ -118,6 +133,8 @@
                                   <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="{{ route('admin.slider') }}">Slider</a></li>
                                   <br>
                                   <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="{{ route('admin.eventos') }}">Eventos</a></li>
+                                  <br>
+                                  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="{{ route('admin.educacion') }}">Educacion</a></li>
                                   <br>
                                   <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="{{ route('admin.noticias') }}">Noticias</a></li>
                                   <br>
@@ -215,7 +232,7 @@
                 <div>
                   <ul class="list-inline list-inline-sm footer-social-list-2">
                     <li><a class="icon fa fa-facebook" href="https://www.facebook.com/fdjecuador" target="_blank"></a></li>
-                    <li><a class="icon fab fa-blogger" href="http://diabetestipo1ecuador.blogspot.com/" target="_blank"></a></li>                
+                    <li><a class="icon fab fa-blogger" href="http://diabetestipo1ecuador.blogspot.com/" target="_blank"></a></li>
                     <li><a class="icon fa fa-youtube" href="https://www.youtube.com/channel/UCh2mvgQ7Cd6dW52o1-D3eDQ" target="_blank"></a></li>
                     <li><a class="icon fa fa-instagram" href="https://www.instagram.com/diabetesjuvenilecuador/" target="_blank"></a></li>
                     <li><a class="icon fa fa-twitter" href="https://twitter.com/FDJECUADOR" target="_blank"></a></li>

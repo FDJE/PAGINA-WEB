@@ -10003,7 +10003,7 @@ h5 + .list-popular-product {
 		flex-basis: 45%;
 	}
 	.product-big-body {
-		padding: 30px 70px 30px 10%;
+		padding: 30px;
 	}
 	.product-big-figure {
 		min-height: 100%;
@@ -12685,7 +12685,7 @@ html [class*='section-'].section-top-0 {
 	background-color: #2c343b;
 }
 
-/** 
+/**
 * Accent Backgrounds
 */
 .bg-primary + .bg-primary {
@@ -20907,14 +20907,14 @@ h1 + .tabs-line {
 	}
 }
 
-/* 
+/*
  * 	Owl Carousel - Auto Height Plugin
  */
 .owl-height {
 	transition: height 500ms ease-in-out;
 }
 
-/* 
+/*
  *  Core Owl Carousel CSS File
  */
 .owl-carousel {
@@ -21002,7 +21002,7 @@ h1 + .tabs-line {
 	display: block;
 }
 
-/* 
+/*
  * 	Owl Carousel - Lazy Load Plugin
  */
 .owl-carousel .owl-item .owl-lazy {
@@ -21010,7 +21010,7 @@ h1 + .tabs-line {
 	transition: opacity 400ms ease;
 }
 
-/* 
+/*
  * 	Owl Carousel - Video Plugin
  */
 .owl-carousel .owl-video-wrapper {

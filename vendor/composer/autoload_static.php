@@ -611,6 +611,7 @@ class ComposerStaticInit1d9e88a2ade215d1084f43656e53b105
         'App\\Http\\Livewire\\Nosotros\\PrincipiosDeTrabajoComponent' => __DIR__ . '/../..' . '/app/Http/Livewire/Nosotros/PrincipiosDeTrabajoComponent.php',
         'App\\Http\\Livewire\\Nosotros\\TransparenciaInstitucionalComponent' => __DIR__ . '/../..' . '/app/Http/Livewire/Nosotros/TransparenciaInstitucionalComponent.php',
         'App\\Http\\Livewire\\Servicios\\AssesoriaNutricionalComponent' => __DIR__ . '/../..' . '/app/Http/Livewire/Servicios/AssesoriaNutricionalComponent.php',
+        'App\\Http\\Livewire\\Servicios\\ComunidadComponent' => __DIR__ . '/../..' . '/app/Http/Livewire/Servicios/ComunidadComponent.php',
         'App\\Http\\Livewire\\Servicios\\RecursosParaDescargarComponent' => __DIR__ . '/../..' . '/app/Http/Livewire/Servicios/RecursosParaDescargarComponent.php',
         'App\\Http\\Livewire\\Servicios\\VentaDeInsumosComponent' => __DIR__ . '/../..' . '/app/Http/Livewire/Servicios/VentaDeInsumosComponent.php',
         'App\\Http\\Middleware\\AuthAdmin' => __DIR__ . '/../..' . '/app/Http/Middleware/AuthAdmin.php',
