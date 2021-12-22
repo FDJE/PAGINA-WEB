@@ -12,9 +12,9 @@ class AdminSliderComponent extends Component
     public function deleteSlider($id)
     {
         $slider = Slider::find($id);
-        if ($slider->image)
+        if ($slider->image) 
         {
-            unlink('assets/images/home/sliders'.'/'.$slider->image);
+            unlink('assets/images//home/sliders'.'/'.$slider->image);
         }
 
         $slider->delete();

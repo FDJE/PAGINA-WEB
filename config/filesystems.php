@@ -33,7 +33,7 @@ return [
         'local' => [
             'driver' => 'local',
             //'root' => storage_path('app'),
-            'root' => public_path('../public_html/assets/images'),
+            'root' => public_path('assets/images'),
         ],
 
         'public' => [
@@ -68,7 +68,7 @@ return [
     */
 
     'links' => [
-        public_path('storage') => storage_path('app/public_html'),
+        public_path('storage') => storage_path('app/public'),
     ],
 
 ];

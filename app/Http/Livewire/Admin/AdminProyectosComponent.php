@@ -12,9 +12,9 @@ class AdminProyectosComponent extends Component
     public function deleteProject($id)
     {
         $project = Project::find($id);
-        if ($project->image)
+        if ($project->image) 
         {
-            unlink('assets/images/home/proyectos'.'/'.$project->image);
+            unlink('assets/images//home/proyectos'.'/'.$project->image);
         }
 
         $project->delete();
