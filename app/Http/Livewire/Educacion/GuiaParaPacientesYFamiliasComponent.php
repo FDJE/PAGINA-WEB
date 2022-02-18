@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Http\Livewire\Educacion;
-
 use App\Models\Educations;
 use Livewire\Component;
 

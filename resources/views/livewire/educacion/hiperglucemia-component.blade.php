@@ -1,3 +1,5 @@
+@foreach ($educations as $education)
+ @endforeach    
         <!-- Why choose us-->
         <section class="section section-sm section-first bg-default text-md-left" style="padding: 60px 0px 60px 0px">
             <div class="container" style="max-width: 968px">
@@ -8,45 +10,30 @@
                         <div class="tabs-custom tabs-horizontal tabs-line" id="tabs-4">
                             <!-- Nav tabs-->
                             <ul class="nav nav-tabs">
-                                <li class="nav-item" role="presentation"><a class="nav-link active" href="#tabs-4-1"
-                                        data-toggle="tab">Causas</a></li>
-                                <li class="nav-item" role="presentation"><a class="nav-link" href="#tabs-4-2"
-                                        data-toggle="tab">Síntomas</a></li>
-                                <li class="nav-item" role="presentation"><a class="nav-link" href="#tabs-4-3"
-                                        data-toggle="tab">Tratamiento</a></li>
+                            @foreach ($symptoms as $count => $symptom)
+                                    <li class="nav-item" role="presentation">
+                                        <a @if ($count == 0) class="nav-link active" @else class="nav-link" @endif
+                                            href="#tabs-1-{{ $symptom->id }}"
+                                            data-toggle="tab">{{ $symptom->title }}</a>
+                                    </li>
+                                @endforeach
                             </ul>
                             <!-- Tab panes-->
-                            <div class="tab-content texto-descripcion" style="color:#2F3A8E; font-weight: bold">
-                                <div class="tab-pane fade show active" id="tabs-4-1">
-                                    <li style="text-align: justify;">Falta de insulina.</li>
-                                    <li style="text-align: justify;">Insulina expuesta a temperaturas extremas.</li>
-                                    <li style="text-align: justify;">Consumo alimenticio exagerado (muchos carbohidratos).</ul>
-                                    <li style="text-align: justify;">Enfermedad o infección</ul>
-                                </div>
-                                <div class="tab-pane fade" id="tabs-4-2">
-                                    <p style="text-align: justify; color:#2F3A8E">La persona con diabetes puede presentar uno o varios de estos síntomas:
-                                         orinar con frecuencia, demasiada sed, piel seca, hambre, visión borrosa, dolor de estómago, irritabilidad,
-                                         náusea, vómito y somnolencia.</p>
-                                </div>
-                                <div class="tab-pane fade" id="tabs-4-3">
-                                    <li style="text-align: justify;">Mida la glucosa en sangre, no necesita repetir la prueba sino
-                                    transcurridas al menos 2 horas.</li>
-                                    <li style="text-align: justify;">Si el valor es mayor a 180 mg/dl inyectar insulina rápida de corrección, de acuerdo a la dosis indicada por su médico de la diabetes.</li>
-                                    <li style="text-align: justify;">Tome 4 vasos de agua repartidos en una hora.</ul>
-                                    <li style="text-align: justify;">Si la glucosa se mantiene mayor a 200 mg/dl en varias pruebas por 2 días,
-                                    contacte con su médico de la diabetes, pues hay riesgo de presentar cetoacidosis.</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="contenedor1" style="padding: 20px">
-                        <a href="#">
-                            <figure>
-                                <img src="{{ asset('assets/images/fundacionImagenes/educacion/hiperglucemia.png') }}" alt="" width="600" style="height: 336px;"/>
-                            </figure>
-                        </a>
-                   </div>
-                </div>
+                            <div class="tab-content texto-descripcion">
+                                @foreach ($symptoms as $count => $symptom)
+                                    <div @if ($count == 0) class="tab-pane fade show active" @else class="tab-pane fade" @endif
+                                        id="tabs-1-{{ $symptom->id }}">
+                                        <p>{!! $symptom->description !!}</p>
+                                        <div class="contenedor1" style="padding: 20px" @if ($education->image) @endif>
+                                            <a href="#">
+                                                <figure>
+                                                    <img src="{{ asset('assets/images/fundacionImagenes/educacion/' . $symptom->image) }}"
+                                                        alt="" width="600" style="height: 366px;" />
+                                                </figure>
+                                            </a>
+                                        </div>
+                                    </div>
+                                @endforeach
                 </div>
             </div>
         </section>

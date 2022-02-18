@@ -2,8 +2,8 @@
     <section class="section section-sm bg-default" style="padding: 60px 0px 60px 0px">
         <div class="container" style="max-width: 968px">
             <h3 class="texto-titulo"><span class="d-inline-block wow slideInDown">Información</span></h3>
+            @foreach ($educations as $education)
             <div class="row row-sm row-40 row-md-50">
-                @foreach ($educations as $education)
                     <div class="col-sm-12 col-md-12 wow fadeInRight">
                         <!-- Product Big-->
                         <article class="product-big" style="padding-bottom: 0px; min-height: 0vh">
@@ -25,6 +25,8 @@
                     </div>
                 @endforeach
             </div>
+
+            
             <!-- Why choose us-->
             <div class="container" style="padding-top: 40px">
                 <div class="row  justify-content-center align-items-xl-center">

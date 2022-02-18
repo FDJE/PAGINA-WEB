@@ -1,4 +1,6 @@
-        <!-- Why choose us-->
+@foreach ($educations as $education)
+@endforeach
+       <!-- Why choose us-->
         <section class="section section-sm section-first bg-default text-md-left" style="padding: 60px 0px 60px 0px">
             <div class="container" style="max-width: 968px">
                 <div class="row justify-content-center align-items-xl-center">
@@ -8,47 +10,32 @@
                         <div class="tabs-custom tabs-horizontal tabs-line" id="tabs-4">
                             <!-- Nav tabs-->
                             <ul class="nav nav-tabs">
-                                <li class="nav-item" role="presentation"><a class="nav-link active" href="#tabs-4-1"
-                                        data-toggle="tab">Causas</a></li>
-                                <li class="nav-item" role="presentation"><a class="nav-link" href="#tabs-4-2"
-                                        data-toggle="tab">Síntomas</a></li>
-                                <li class="nav-item" role="presentation"><a class="nav-link" href="#tabs-4-3"
-                                        data-toggle="tab">Tratamiento</a></li>
+                            @foreach ($symptoms as $count => $symptom)
+                                    <li class="nav-item" role="presentation">
+                                        <a @if ($count == 0) class="nav-link active" @else class="nav-link" @endif
+                                            href="#tabs-1-{{ $symptom->id }}"
+                                            data-toggle="tab">{{ $symptom->title }}</a>
+                                    </li>
+                                @endforeach
                             </ul>
                             <!-- Tab panes-->
-                            <div class="tab-content texto-descripcion" style="color:#2F3A8E; font-weight: bold">
-                                <div class="tab-pane fade show active" id="tabs-4-1">
-                                    <li style="text-align: justify;">Exceso de insulina o error en la sincronización de la insulina.</li>
-                                    <li style="text-align: justify;">Cambios recientes en el esquema de insulina.</li>
-                                    <li style="text-align: justify;">Consumo alimenticio insuficiente.</ul>
-                                    <li style="text-align: justify;">Enfermedad, (virus gastrointestinal).</ul>
-                                    <li style="text-align: justify;">Alcohol, (hígado ocupado en otra función).</ul>
-                                </div>
-                                <div class="tab-pane fade" id="tabs-4-2">
-                                    <p style="text-align: justify;">La persona con diabetes tipo 1 que experimenta una hipoglucemia puede presentar uno
-                                        o varios de los siguientes síntomas:sudoración, palidez, temblor, taquicardia, hambre, ansiedad, náusea, debilidad,
-                                        hormigueo, confusión, irritabilidad, mareo, dolor de cabeza, visión borrosa, convulsiones.</p>
-                                </div>
-                                <div class="tab-pane fade" id="tabs-4-3">
-                                    <li style="text-align: justify;">Siente a la persona y mida la glucosa.</li>
-                                    <li style="text-align: justify;">Si la glucosa en sangre es menor a 70 mg/dl y no hay alteración de conciencia, realice el paso 3.</li>
-                                    <li style="text-align: justify;">Administre 15 gramos de carbohidratos de acción rápida (1 cucharada de azúcar diluida en 1/2 vaso de agua,
-                                    o 1/2 vaso de jugo de frutas).</ul>
-                                    <li style="text-align: justify;">Espere entre 10 y 15 minutos, y vuelva a medir la glucosa. Si la glucemia es mayor a 70 mg/dl brinde una
-                                    porción de carbohidrato de acción lenta (4 galletas Maria, ó 2 galletas de coco, o una rebanada de pan)</ul>
-                                    <li style="text-align: justify;">Si al medir a la persona con diabetes tiene un valor menor a 70 mg/dl, tiene conciencia y puede tragar, repita
-                                    el paso 3. Y espere 15 minutos más, repita este procedimiento hasta que su glucemia esté cercana a 100 mg/dl.</ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="contenedor1" style="padding: 20px">
-                        <a href="#">
-                            <figure>
-                            <img src="{{ asset('assets/images/fundacionImagenes/educacion/ima2.png') }}" alt="" width="600" style="height: 336px;" />
-                            </figure>
-                        </a>
-                   </div>
+                            <div class="tab-content texto-descripcion">
+                                @foreach ($symptoms as $count => $symptom)
+                                    <div @if ($count == 0) class="tab-pane fade show active" @else class="tab-pane fade" @endif
+                                        id="tabs-1-{{ $symptom->id }}">
+                                        <p>{!! $symptom->description !!}</p>
+                                        <div class="contenedor1" style="padding: 20px" @if ($education->image) @endif>
+                                            <a href="#">
+                                                <figure>
+                                                    <img src="{{ asset('assets/images/fundacionImagenes/educacion/' . $symptom->image) }}"
+                                                        alt="" width="600" style="height: 366px;" />
+                                                </figure>
+                                            </a>
+                                        </div>
+                                    </div>
+                                @endforeach
                 </div>
             </div>
         </section>
+
+    

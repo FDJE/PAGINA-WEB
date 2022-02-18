@@ -42,63 +42,9 @@
                     </div>
                 </article>
                 @endforeach
-               {{--  <!-- Quote Lisa-->
-                <article class="quote-lisa">
-                    <div class="quote-lisa-body"><a class="quote-lisa-figure" href="#"><img class="img-circles"
-                                src="{{ asset('assets/images/fundacionImagenes/educacion/consejo2.png') }}" alt=""
-                                width="200" height="150" /></a>
-                        <p class="quote-lisa-status" style="padding-top: 10px">2. Nunca Dejar de Usar Insulina
-                            Completamente
-                        </p>
-                        <div class="quote-lisa-text">
-                            <p class="q">La dosis de insulina puede necesitar ser aumentada o disminuida
-                                para
-                                mantener un adecuado
-                                metabolismo de la glucosa,
-                                pero nunca se la debe omitir. Un error muy común es pensar que porque el niño no está
-                                comiendo no debe
-                                usar insulina,
-                                esto aumenta el riesgo de una cetoacidosis.</p>
-                        </div>
-                    </div>
-                </article>
-                <!-- Quote Lisa-->
-                <article class="quote-lisa">
-                    <div class="quote-lisa-body"><a class="quote-lisa-figure" href="#"><img class="img-circles"
-                                src="{{ asset('assets/images/fundacionImagenes/educacion/consejo3.png') }}" alt=""
-                                width="200" height="150" /></a>
-                        <p class="quote-lisa-status" style="padding-top: 10px">3.Cuánto hay Vómito en niños o
-                            adolescentes
-                            con DM1 se debe considerar.
-                            Una carencia de insulina hasta que se pruebe lo contrario.</p>
-                        <div class="quote-lisa-text">
-                            <p class="q">Si existen episodios de hiperglucemia, cetoacidosis y vómito
-                                recurrentes,
-                                con o sin infección se debe pensar en que se está omitiendo la insulina, esto ocurre
-                                seguido en la adolescencia y representa un problema psicosocial.
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- Quote Lisa-->
-                <article class="quote-lisa">
-                    <div class="quote-lisa-body"><a class="quote-lisa-figure" href="#"><img class="img-circles"
-                                src="{{ asset('assets/images/fundacionImagenes/educacion/consejo4.png') }}" alt=""
-                                width="200" height="150" /></a>
-                        <p class="quote-lisa-status" style="padding-top: 10px">4.Mantener Idratación</p>
-                        <div class="quote-lisa-text">
-                            <p class="q">Es esencial mantener la hidratación en cada niño con diabetes
-                                durante
-                                la enfermedad aguda;
-                                líquidos con o sin azúcar
-                                deben ser proporcionados de acuerdo a los niveles de azúcar en sangre. Considere la
-                                utilización de
-                                hidratación intravenosa en el
-                                caso que el niño no pueda tomar nada.
-                            </p>
-                        </div>
-                    </div>
-                </article> --}}
+            <!-- Quote Lisa-->
+
+
             </div>
         </div>
 </section>
