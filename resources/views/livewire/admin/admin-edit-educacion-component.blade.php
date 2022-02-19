@@ -56,6 +56,8 @@
                             <option value="0">Descripcion</option>
                             <option value="1">Sintomas y Signos</option>
                             <option value="2">Consejos</option>
+                            <option value="3">Sintomas y Signos2</option>
+
                         </select>
                         @error('type')
                             <p class="text-danger" style="color: red; font-size: 11px;">La descripción corta es requerida

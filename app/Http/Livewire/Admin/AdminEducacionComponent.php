@@ -29,6 +29,7 @@ class AdminEducacionComponent extends Component
         0 => 'Detalle',
         1 => 'Sintomas y signos',
         2 => 'Consejos',
+        3 => 'Sintomas y signos2'
     ];
 
     private $educations = [];

@@ -15,9 +15,11 @@
                                         <p>{!! $education->description !!}</p>
                                     </div>
                         </article>
-            @endforeach
+           
 
                     </div>
+        @endforeach
+                   
                     <div class="col-sm-12 col-md-12 wow fadeInLeft">
                         <!-- Product Big-->
                        
