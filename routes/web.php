@@ -21,6 +21,8 @@ use App\Http\Livewire\Admin\AdminSliderComponent;
 use App\Http\Livewire\Admin\AdminEducacionComponent;
 use App\Http\Livewire\Admin\AdminAddEducacionComponent;
 use App\Http\Livewire\Admin\AdminEditEducacionComponent;
+use App\Http\Livewire\Admin\HistoriComponents\HistoriCreateComponent;
+use App\Http\Livewire\Admin\HistoriComponents\HistoriIndexComponent;
 use App\Http\Livewire\Contactos\EncuentranosComponent;
 use App\Http\Livewire\Contactos\FormulariosComponent;
 use App\Http\Livewire\DetailsComponent;
@@ -46,6 +48,7 @@ use App\Http\Livewire\Servicios\AssesoriaNutricionalComponent;
 use App\Http\Livewire\Servicios\ComunidadComponent;
 use App\Http\Livewire\Servicios\RecursosParaDescargarComponent;
 use App\Http\Livewire\Servicios\VentaDeInsumosComponent;
+use Illuminate\Routing\RouteGroup;
 use Illuminate\Support\Facades\Route;
 
 
@@ -92,6 +95,14 @@ Route::get('/noticias/{slug}', DetailsNoticeComponent::class)->name('noticias.de
 Route::middleware(['auth:sanctum', 'verified','authadmin'])->group(function(){
 
     Route::get('/admin/dashboard', AdminDashboardComponent::class)->name('admin.dashboard');
+    //histori
+    Route::prefix('/admin/dashboard')->group(function(){
+         Route::get('', AdminDashboardComponent::class)->name('admin.dashboard');
+         Route::prefix('/histori')->group(function(){
+            Route::get('',HistoriIndexComponent::class)->name('admin.dashboard.histori-components.histori-index-componen');
+            Route::get('/create',HistoriCreateComponent::class)->name('admin.dashboard.histori-components.histori-create-componen');
+         });
+    });
 
     Route::get('/admin/slider', AdminSliderComponent::class)->name('admin.slider');
     Route::get('/admin/slider/add', AdminAddSliderComponent::class)->name('admin.addslider');
@@ -121,6 +132,8 @@ Route::middleware(['auth:sanctum', 'verified','authadmin'])->group(function(){
     Route::get('/admin/educacion', AdminEducacionComponent::class)->name('admin.educacion');
     Route::get('/admin/educacion/add', AdminAddEducacionComponent::class)->name('admin.addedu');
     Route::get('/admin/educacion/edit/{eventos_slug}', AdminEditEducacionComponent::class)->name('admin.editedu');
+
+
 }) ;
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
